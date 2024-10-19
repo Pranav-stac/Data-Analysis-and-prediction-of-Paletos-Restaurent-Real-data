@@ -8,7 +8,6 @@ import Home from './pages/Home'
 import Chatbot from './pages/Chatbot'
 import Upload from './pages/Upload'
 import Layout from './Layout'
-import Dashboard from './components/Dashboard'
 
 const router = createBrowserRouter(
   createRoutesFromElements(
