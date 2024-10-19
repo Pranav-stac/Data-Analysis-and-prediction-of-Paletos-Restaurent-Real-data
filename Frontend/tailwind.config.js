@@ -5,7 +5,14 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        pricedown: ['Pricedown'],
+        chalet: ['Chalet'],
+        chaletLondon: ['ChaletLondon'],
+        signPainter: ['SignPainter'],
+      },
+    },
   },
   plugins: [],
 }
