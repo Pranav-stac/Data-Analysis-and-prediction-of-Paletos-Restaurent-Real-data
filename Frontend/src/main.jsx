@@ -7,15 +7,18 @@ import Analytics from './pages/Analytics'
 import Home from './pages/Home'
 import Chatbot from './pages/Chatbot'
 import Upload from './pages/Upload'
+import Layout from './Layout'
 
 const router = createBrowserRouter(
   createRoutesFromElements(
     <>
-      <Route path='/' element={<Login/>} />
-      <Route path='/home' element={<Home/>} />
-      <Route path='/analytics' element={<Analytics/>} />
-      <Route path='/chatbot' element={<Chatbot/>} />
-      <Route path='/upload' element={<Upload/>} />
+      <Route path='/login' element={<Login/>} />
+      <Route path='/' element={<Layout/>}>
+        <Route index element={<Home/>} />
+        <Route path='analytics' element={<Analytics/>} />
+        <Route path='chatbot' element={<Chatbot/>} />
+        <Route path='upload' element={<Upload/>} />
+      </Route>
     </>
   )
 )

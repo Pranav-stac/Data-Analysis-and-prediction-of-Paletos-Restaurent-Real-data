@@ -18,3 +18,7 @@
     font-family: 'SignPainter';
     src: url('../src/assets/fonts/SignPainterHouseScript.ttf');
 }
+
+body{
+    background-color: #111111;
+}
