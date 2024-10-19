@@ -6,7 +6,7 @@ function Sidebar() {
   return (
     <div className='w-full h-full'>
       <p className='text-white font-pricedown text-5xl'>Paletos</p>
-      <div className="mt-[100px] w-full h-full flex flex-col justify-center items-center gap-3">
+      <div className="mt-[100px] w-full h-full flex flex-col items-center gap-3">
         <NavLink 
           to="/" 
           className={({ isActive }) => 
