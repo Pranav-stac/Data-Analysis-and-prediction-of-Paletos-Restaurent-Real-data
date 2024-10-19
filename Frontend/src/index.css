@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Pricedown';
+    src: url('../src/assets/fonts/pricedown.otf');
+}
+@font-face {
+    font-family: 'Chalet';
+    src: url('../src/assets/fonts/ChaletComprimeCologneSixty.otf');
+}
+@font-face {
+    font-family: 'ChaletLondon';
+    src: url('../src/assets/fonts/ChaletLondonNineteenSixty.otf');
+}
+@font-face {
+    font-family: 'SignPainter';
+    src: url('../src/assets/fonts/SignPainterHouseScript.ttf');
+}
