@@ -20,6 +20,7 @@ files = [
     'SALES_MASTERDATA.csv',
     'SWIGGY_MASTERDATA.csv',
     'ZOMATO_MASTERDATA.csv'
+    
 ]
 
 # Function to read and display the first few rows and info of each file
@@ -28,8 +29,7 @@ def read_and_explore(file_name):
     try:
         # Read the file as a CSV
         data = pd.read_csv(file_path)
-        print(f"File: {file_name}")
-        print(data.head())  # Display the first few rows
+        print(f"File: {file_name}") # Display the first few rows
         print(data.info())  # Display information about the DataFrame
         print("\n")
     except Exception as e:

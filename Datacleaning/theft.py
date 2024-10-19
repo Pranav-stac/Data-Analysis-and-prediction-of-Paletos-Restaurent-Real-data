@@ -1,26 +1,46 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+from prophet import Prophet
 
-# Load the CSV file into a DataFrame
-file_path = 'PS_DATA/Prepared from Raw/Bill_Settlement_Report.csv'
-data = pd.read_csv(file_path)
+# Load consumption data
+combined_consumption = pd.read_csv('PS_DATA/Prepared from Raw/COMBINED_CONSUMPTION.csv')
+consumption_report = pd.read_csv('PS_DATA/Prepared from Raw/Consumption_Report.csv')
 
-# Display the first few rows of the DataFrame
-print(data.head())
+# Combine consumption data
+combined_data = pd.concat([combined_consumption[['Date', 'Item_Name', 'Qty_']],
+                           consumption_report[['Date', 'Item_Name', 'Qty_']]])
 
-# Example: Plotting the total amount settled over time
-# Ensure the 'Last_Settlement_Date' column is in datetime format
-data['Last_Settlement_Date'] = pd.to_datetime(data['Last_Settlement_Date'], errors='coerce')
+# Convert 'Date' to datetime
+combined_data['Date'] = pd.to_datetime(combined_data['Date'])
 
-# Group by date and sum the total settled amount
-daily_settled = data.groupby(data['Last_Settlement_Date'].dt.date)['Settled_Total'].sum()
+# Group by item and date to get daily consumption
+daily_consumption = combined_data.groupby(['Item_Name', combined_data['Date'].dt.date])['Qty_'].sum().reset_index()
 
-# Plot the data
-plt.figure(figsize=(10, 6))
-plt.plot(daily_settled.index, daily_settled.values, marker='o')
-plt.title('Total Amount Settled Over Time')
-plt.xlabel('Date')
-plt.ylabel('Total Amount Settled')
-plt.xticks(rotation=45)
-plt.tight_layout()
-plt.show()
+# Function to predict future consumption using Prophefrom prophet import Prophet
+
+def predict_with_prophet(item_name, periods=30):
+    item_data = daily_consumption[daily_consumption['Item_Name'] == item_name]
+    item_data = item_data.rename(columns={'Date': 'ds', 'Qty_': 'y'})
+    
+    # Initialize and fit the model with custom parameters
+    model = Prophet(
+        seasonality_mode='multiplicative',
+        changepoint_prior_scale=0.5,  # Increase flexibility
+        seasonality_prior_scale=10.0  # Adjust seasonality
+    )
+    model.add_seasonality(name='monthly', period=30.5, fourier_order=5)
+    model.fit(item_data[['ds', 'y']])
+    
+    # Create a dataframe to hold predictions
+    future = model.make_future_dataframe(periods=periods)
+    forecast = model.predict(future)
+    
+    # Plot the forecast
+    fig = model.plot(forecast)
+    plt.title(f'Consumption Forecast for {item_name}')
+    plt.xlabel('Date')
+    plt.ylabel('Consumption')
+    plt.savefig(f'{item_name}_consumption_forecast.png')
+
+# Example usage
+predict_with_prophet('TEA')
