@@ -3,11 +3,11 @@ import { Outlet } from 'react-router-dom'
 
 function Layout() {
   return (
-    <div className='w-full h-full p-5 flex gap-5'>
+    <div className='w-full h-full py-5 pl-5 flex gap-5'>
         <div className="max-w-[300px] flex-1">
           <Sidebar/>
         </div>
-        <div className="w-full flex-1 rounded-l-[30px]">
+        <div className="w-full h-full flex-1 rounded-l-[30px]">
           <Outlet/>
         </div>
     </div>
