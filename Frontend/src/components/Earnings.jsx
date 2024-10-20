@@ -8,8 +8,16 @@ function Earnings() {
       <h2 className='text-[#FFCC00] text-6xl font-pricedown'>MoneY</h2>
       <p className='text-white font-signPainter absolute left-36 -bottom-6 text-2xl'>Hesoyam</p>
       </div>
-      
+
       </div>
+    </div>
+  )
+}
+
+const details=()=>{
+  return(
+    <div className="">
+      
     </div>
   )
 }
