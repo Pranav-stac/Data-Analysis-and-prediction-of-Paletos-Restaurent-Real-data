@@ -57,7 +57,7 @@ function Home() {
                             id="itemsToPlot"
                             value={itemsToPlot}
                             onChange={handleInputChange}
-                            className="bg-[#111111] text-white rounded-md p-2"
+                            className="bg-[#111111] text-white rounded-md p-2 w-full"
                         >
                             <option value="" disabled>Select an option</option>
                             {options.map((option, index) => (
