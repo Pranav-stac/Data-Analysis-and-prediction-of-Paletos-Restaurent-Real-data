@@ -2,6 +2,9 @@ import React, { useState } from 'react';
 import SalesCard from '../components/SalesCard';
 import PerformanceCard from '../components/PerformanceCard';
 import Earnings from '../components/Earnings';
+import ReligionGraph from '../components/ReligionGraph';
+import FestiveSales from '../components/FlagsCard';
+import FlagsCard from '../components/FlagsCard';
 
 function Home() {
     const [itemsToPlot, setItemsToPlot] = useState('');
@@ -47,8 +50,8 @@ function Home() {
                 <div className="col-span-4 row-span-2 bg-[#111111] rounded-3xl">
                     <SalesCard />
                 </div>
-                <div className="col-span-2 row-span-2 bg-[#111111] rounded-3xl">
-                    <PerformanceCard />
+                <div className="col-span-2 row-span-2 bg-[#F55600] rounded-3xl ">
+                    <FlagsCard/>
                 </div>
                 <div className="col-span-2 row-span-2 bg-[#111111] rounded-3xl p-4">
                     <form onSubmit={handleSubmit}>
@@ -74,8 +77,10 @@ function Home() {
                     {/* Additional content can go here */}
                 </div>
                 <div className="col-span-4 row-span-2 bg-[#111111] rounded-3xl">
-                    <Earnings />
+                    <ReligionGraph />
                 </div>
+            
+                
             </div>
         </div>
     );
