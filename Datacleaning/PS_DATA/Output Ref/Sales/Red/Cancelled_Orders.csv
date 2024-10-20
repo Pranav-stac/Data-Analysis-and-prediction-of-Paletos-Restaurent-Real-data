@@ -1,0 +1,7 @@
+Timestamp,Staff,Settled_By_BSR,area_co,order_cancel_reason_co,Cancelled_Invoice_Total_co
+2024-10-16 19:45:25+00:00,Multiple,,Zomato,Order rejected due to 'Customer cancellation because they do not require order anymore',2010.0
+2024-10-12 19:34:43+00:00,Multiple,,Zomato,Order rejected due to 'Customer Cancellation',1976.0
+2024-10-05 19:56:17+00:00,Multiple,,Zomato,Order rejected due to 'Customer Cancellation',1160.0
+2024-10-15 23:08:48+00:00,Multiple,,Zomato,Order rejected due to 'Customer Cancellation',795.0
+2024-10-03 14:26:16+00:00,Multiple,,Zomato,Order rejected due to 'Customer cancellation because they do not require order anymore',1479.0
+2024-10-06 21:35:40+00:00,Multiple,,Zomato,Order rejected due to 'Items out of stock',1326.0

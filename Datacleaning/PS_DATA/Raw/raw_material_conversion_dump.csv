@@ -1,0 +1,995 @@
+Name,Purchase_Unit,Conversion_Qty,Consumption_Unit,Minimum_Stock_Level,Minimum_Stock_Level_Unit,At_Par_Stock_Level,At_Par_Stock_Level_Unit,Description,Category,Sub_Category
+Jaggery,KG,1000,GMS,,,,,,,
+Filter Coffee Decaction,KG,1000,GMS,,,,,,,
+Fillter Coffee,KG,1000,GMS,,,,,,,
+Filter ( Filter Coffee ),KG,1000,GMS,,,,,,,
+Wonton Patta,KG,1000,GM,0,,0,,,Food Ingredients,Frozan
+Glucose Liquid,KG,1000,GM,0,,0,,,Food Ingredients,Can Food
+Dark Compound,Kg,1000,GM,0,,0,,,Bakery,
+Asparagus Imp,Kg,1000,GM,0,,0,,,Vegetable,
+Red Apple,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Beetroots,Kg,1000,GM,0,,0,,,Vegetable,
+Brinjal Big,Kg,1000,GM,0,,0,,,Vegetable,
+Edammame With Pot,Kg,1000,GM,0,,0,,,Vegetable,
+Pandanus Leaves,Kg,1000,GM,0,,0,,,Vegetable,
+Ice Cube,Kg,0,Kg,,,,,,,
+Yellow Banana Chips,Kg,0,Kg,,,,,,,
+Green Apple,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Baby Corn 800 Gm,Kg,1000,GM,0,,0,,,Vegetable,
+Broccoli,Kg,1000,GM,0,,0,,,Vegetable,
+Parsley Leaves,Kg,1000,GM,0,,0,,,Vegetable,
+Yellow Banana Chips,Kg,1000,GM,0,,0,,,Bakery,
+Couscous,Kg,1000,GM,0,,0,,,Grocery,
+Lemon Pickle,Kg,1000,GM,0,,0,,,Grocery,
+Khas Khas,Kg,1000,GM,0,,0,,,Food Ingredients,
+Lemon Grass (lq),Kg,1000,GM,0,,0,,,Vegetable,
+Coffee Beans,Kg,1000,GMS,,,,,,,
+Blood Orange,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Muskmelon,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Bell Pepper Red,Kg,1000,GM,0,,0,,,Vegetable,
+Cilantro,Kg,1000,GM,0,,0,,,Vegetable,
+Guava,Kg,1000,GM,0,,0,,,Vegetable,
+Peel Garlic,Kg,1000,GM,0,,0,,,Vegetable,
+Pineapple Fruit,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Dalda,Kg,1000,GM,0,,0,,,Grocery,
+Drum Stick,Kg,1000,GM,0,,0,,,Vegetable,
+Fresh Red Chilly,Kg,1000,GM,0,,0,,,Vegetable,
+Microgreen,Kg,1000,GM,0,,0,,,Vegetable,
+Aalu Bukhara (plum),Kg,1000,GM,0,,0,,,Food Ingredients,
+White Chocolate,Kg,1000,GM,0,,0,,,Bakery,
+Idli Rava,Kg,1000,GM,0,,0,,,Grocery,
+Bhutta Corn,Kg,1000,GM,0,,0,,,Vegetable,
+China Garlic,Kg,1000,GM,0,,0,,,Vegetable,
+Fresh Beans,Kg,1000,GM,0,,0,,,Vegetable,
+Keel Patta,Kg,1000,GM,0,,0,,,Vegetable,
+Coconut Powder,Kg,1000,GMS,,,,,,,
+Kiwi Fruit,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Raspberry Fresh,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Salt Whole,Kg,1000,GM,0,,0,,,Grocery,
+Green Garlic,Kg,1000,GM,0,,0,,,Vegetable,
+Japanese Cucumber,Kg,1000,GM,0,,0,,,Vegetable,
+Dark White Compound Chips,Kg,1000,GM,0,,0,,,Bakery,
+White Fungus,Kg,1000,GM,0,,0,,,Food Ingredients,
+Fresh Basil,Kg,1000,GM,0,,0,,,Vegetable,
+Pillsbury Chocolate Flavour Mix,Kg,1000,GM,0,,0,,,Food Ingredients,
+Passion Fruit,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Poha,Kg,1000,GM,0,,0,,,Grocery,
+Non Veg Gelatine,Kg,1000,GM,0,,0,,,Food Ingredients,
+Asparagus,Kg,1000,GM,0,,0,,,Vegetable,
+Coriander Leaves,Kg,1000,GM,0,,0,,,Vegetable,
+Papaya Raw,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Sev,Kg,1000,GM,0,,0,,,Food Ingredients,
+Baby Carrots,Kg,1000,GM,0,,0,,,Vegetable,
+Capsicum,Kg,1000,GM,0,,0,,,Vegetable,
+Chinese Cabbage,Kg,1000,GM,0,,0,,,Vegetable,
+Ginger,Kg,1000,GM,0,,0,,,Vegetable,
+Green Lemon,Kg,1000,GM,0,,0,,,Vegetable,
+Daliya,Kg,1000,GM,0,,0,,,Grocery,
+Yuzu Japanese Extract,Kg,1000,GM,0,,0,,,Food Ingredients,
+Green Chilly,Kg,1000,GM,0,,0,,,Vegetable,
+Butter,Kg,0,Kg,,,,,,,
+Shiitake Mushroom,Kg,1000,GM,0,,0,,,Grocery,
+Soya Keema,Kg,1000,GM,0,,0,,,Grocery,
+Gluten,Kg,1000,GM,0,,0,,,Grocery,
+Lapsi,Kg,1000,GM,0,,0,,,Food Ingredients,
+Nylon Sev,Kg,1000,GM,0,,0,,,Food Ingredients,
+Fresh Mushroom,Kg,1000,GM,0,,0,,,Vegetable,
+Leeks,Kg,1000,GM,0,,0,,,Vegetable,
+Nutella Sauce,Kg,1000,ML,,,,,,,
+Choco chip,Kg,1000,GMS,,,,,,,
+Apple,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Blueberry Fresh,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Corn Flour,Kg,1000,GM,0,,0,,,Grocery,
+Cauliflower,Kg,1000,GM,0,,0,,,Vegetable,
+Karela,Kg,1000,GM,0,,0,,,Vegetable,
+Orange Sweet Potato,Kg,1000,GM,0,,0,,,Vegetable,
+Plum Fruit,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Black Salt Powder,Kg,1000,GM,0,,0,,,Grocery,
+Sheera Rava,Kg,1000,GM,0,,0,,,Grocery,
+White Vatana,Kg,1000,GM,0,,0,,,Grocery,
+Coconut Dry,Kg,1000,GM,0,,0,,,Grocery,
+Sabudana,Kg,1000,GM,0,,0,,,Grocery,
+Sweet Soda,Kg,1000,GM,0,,0,,,Food Ingredients,
+Bell Papper Yellow,Kg,1000,GM,0,,0,,,Vegetable,
+Bhavnagri Chilly,Kg,1000,GM,0,,0,,,Vegetable,
+French Lettuce Red,Kg,1000,GM,0,,0,,,Vegetable,
+Onion,Kg,1000,GM,0,,0,,,Vegetable,
+Farsan,Kg,1000,GM,0,,0,,,Grocery,
+Cucumber,Kg,1000,GM,0,,0,,,Vegetable,
+Sweet Lemon,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Green Chilly Non Spicy,Kg,1000,GM,0,,0,,,Vegetable,
+Padwal,Kg,1000,GM,0,,0,,,Vegetable,
+White Compound,Kg,1000,GM,0,,0,,,Bakery,
+Yeast,Kg,1000,GM,0,,0,,,Food Ingredients,
+Baby Potato,Kg,1000,GM,0,,0,,,Vegetable,
+Jalapenos Imp,Kg,1000,GM,0,,0,,,Vegetable,
+Portobello Mushroom,Kg,1000,GM,0,,0,,,Vegetable,
+Spicy Banana Chips,Kg,0,Kg,,,,,,,
+Madagascar,Kg,1000,GMS,,,,,,,
+Nariyal Powder,Kg,1000,GMS,,,,,,,
+Bread Crumbs Penko,Kg,1000,GM,0,,0,,,Grocery,
+Peanut Roasted,Kg,1000,GM,0,,0,,,Grocery,
+Kokum,Kg,1000,GM,0,,0,,,Food Ingredients,
+Baby Corn Imp,Kg,1000,GM,0,,0,,,Vegetable,
+Potato,Kg,1000,GM,0,,0,,,Vegetable,
+Cabbage,Kg,1000,GM,0,,0,,,Vegetable,
+Lotus Root,Kg,1000,GM,0,,0,,,Vegetable,
+Black Grapes,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Orange,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Tobiko Black,Kg,1000,GM,0,,0,,,Food Ingredients,
+Edamame Pitted Imp,Kg,1000,GM,0,,0,,,Vegetable,
+Khambo Leaf,Kg,1000,GM,0,,0,,,Vegetable,
+Gelatin Powder,Kg,1000,GM,0,,0,,,Grocery,
+Chawli Dal,Kg,1000,GM,0,,0,,,Grocery,
+Wheat Starch,Kg,1000,GM,0,,0,,,Grocery,
+Baby Spinach,Kg,1000,GM,0,,0,,,Vegetable,
+Mint Leaves,Kg,1000,GM,0,,0,,,Vegetable,
+Pistachio,Kg,1000,GMS,,,,,,,
+Gulab Phool,Kg,1000,GM,0,,0,,,Food Ingredients,
+Lemon Ice Tea,Kg,1000,GM,0,,0,,,Food Ingredients,
+Tobiko Orange,Kg,1000,GM,0,,0,,,Food Ingredients,
+Orange Imp,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Char Magaz,Kg,1000,GM,0,,0,,,Grocery,
+Pine Nuts,Kg,1000,GM,0,,0,,,Grocery,
+Wasabi Powder,Kg,1000,GM,0,,0,,,Food Ingredients,
+Broccoli Imp,Kg,1000,GM,0,,0,,,Vegetable,
+Carrots,Kg,1000,GM,0,,0,,,Vegetable,
+Fresh Big Leaves,Kg,1000,GM,0,,0,,,Vegetable,
+Lemon Grass (l),Kg,1000,GM,0,,0,,,Vegetable,
+Mami Nori Sheet,Kg,1000,GM,0,,0,,,Vegetable,
+Dragon Fruits,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Cherry Tomato,Kg,1000,GM,0,,0,,,Vegetable,
+Dill Leaves,Kg,1000,GM,0,,0,,,Vegetable,
+Pomegranate (anar),Kg,1000,GM,0,,0,,,Fresh Fruits,
+Citric Acid,Kg,1000,GM,0,,0,,,Grocery,
+Avocado Imp,Kg,1000,GM,0,,0,,,Vegetable,
+Ed Beans Imp.,Kg,1000,GM,0,,0,,,Vegetable,
+Edamame Veg,Kg,1000,GM,0,,0,,,Vegetable,
+Peanut Raw,Kg,1000,GM,0,,0,,,Grocery,
+Enoki Mushroom,Kg,1000,GM,0,,0,,,Vegetable,
+Garlic Whole,Kg,1000,GM,0,,0,,,Vegetable,
+Papdi Veg,Kg,1000,GM,0,,0,,,Vegetable,
+Apple Imp,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Yellow Banana,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Malwani Chiwda,Kg,1000,GM,0,,0,,,Grocery,
+Baby Corn,Kg,1000,GM,0,,0,,,Vegetable,
+Jackfruit (yaca),Kg,1000,GM,0,,0,,,Vegetable,
+Kafir Lemon Leaves,Kg,1000,GM,0,,0,,,Vegetable,
+Frappe Powder,Kg,1000,GMS,,,,,,,
+Banana Raw,Kg,1000,GM,0,,0,,,Vegetable,
+Indian Chives,Kg,1000,GM,0,,0,,,Vegetable,
+Elaichi Bananas,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Pears Fruit,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Makhana,Kg,1000,GM,0,,0,,,Grocery,
+Aragula,Kg,1000,GM,0,,0,,,Vegetable,
+Grapefruit Imp,Kg,1000,GM,0,,0,,,Vegetable,
+Spicy Banana Chips (red),Kg,1000,GM,0,,0,,,Bakery,
+Imli,Kg,1000,GM,0,,0,,,Grocery,
+Potato Starch,Kg,1000,GM,0,,0,,,Grocery,
+Sushi Pickled Ginger,Kg,1000,GM,0,,0,,,Food Ingredients,
+French Lettuce Green,Kg,1000,GM,0,,0,,,Vegetable,
+Galangal Thai,Kg,1000,GM,0,,0,,,Vegetable,
+Water Melon,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Japanese Mustard (fresh Seeds Or Paste),Kg,1000,GM,0,,0,,,Food Ingredients,
+Raddish Pickled (sushi Takuan),Kg,1000,GM,0,,0,,,Food Ingredients,
+American Corn,Kg,1000,GM,0,,0,,,Vegetable,
+Sea Salt,Kg,1000,GM,0,,0,,,Grocery,
+Celery Leaves,Kg,1000,GM,0,,0,,,Vegetable,
+Fresh Mango,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Pomelo Red Fruit,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Oregano Dry,Kg,1000,GM,0,,0,,,Food Ingredients,
+Pillsbury Vanilla Flavour Mix,Kg,1000,GM,0,,0,,,Food Ingredients,
+Almond,Kg,1000,GMS,,,,,,,
+Wheat Gluten,Kg,1000,GM,0,,0,,,Bakery,
+Boondi,Kg,1000,GM,0,,0,,,Grocery,
+Potato Flakes,Kg,1000,GM,0,,0,,,Food Ingredients,
+Italian Lemon,Kg,1000,GM,0,,0,,,Vegetable,
+Chikoo (sapodilla),Kg,1000,GM,0,,0,,,Fresh Fruits,
+Green Zucchini,Kg,1000,GM,0,,0,,,Vegetable,
+Lemon,Kg,1000,GM,0,,0,,,Vegetable,
+Cake Gel 1kg,Kg,1000,GM,0,,0,,,Bakery,
+Milk Compound,Kg,1000,GM,0,,0,,,Bakery,
+Baby Onion,Kg,1000,GM,0,,0,,,Vegetable,
+Lady Finger,Kg,1000,GM,0,,0,,,Vegetable,
+Methi Fresh,Kg,1000,GM,0,,0,,,Vegetable,
+Potato Bells Imp,Kg,1000,GM,0,,0,,,Vegetable,
+American Corn (whole),Kg,1000,GM,0,,0,,,Vegetable,
+King Oyster Mushroom,Kg,1000,GM,0,,0,,,Vegetable,
+Oats,Kg,1000,GM,0,,0,,,Food Ingredients,
+Red Lily Margarine,Kg,1000,GM,0,,0,,,Food Ingredients,
+Avocado Ind,Kg,1000,GM,0,,0,,,Vegetable,
+Loloroso Lettuce,Kg,1000,GM,0,,0,,,Vegetable,
+Coffee Powder,Kg,1000,GMS,,,,,,,
+Bean Sprouts,Kg,1000,GM,0,,0,,,Vegetable,
+Haldi Whole Fresh,Kg,1000,GM,0,,0,,,Vegetable,
+Iceberg Lettuce,Kg,1000,GM,0,,0,,,Vegetable,
+Papaya,Kg,1000,GM,0,,0,,,Fresh Fruits,
+Coconut Powder,Kg,1000,GM,0,,0,,,Grocery,
+Baby Coriander,Kg,1000,GM,0,,0,,,Vegetable,
+Lemon Grass,Kg,1000,GM,0,,0,,,Vegetable,
+Lemon Leaves,Kg,1000,GM,0,,0,,,Vegetable,
+Pok Choy,Kg,1000,GM,0,,0,,,Vegetable,
+Black Dal,Kg,1000,GM,0,,0,,,Grocery,Dal
+Black Chana,Kg,1000,GM,0,,0,,,Grocery,Dal
+Kabuli Chana,Kg,1000,GM,0,,0,,,Grocery,Dal
+Matki Dal,Kg,1000,GM,0,,0,,,Grocery,Dal
+Balar Dal,Kg,1000,GM,0,,0,,,Grocery,Dal
+Moong Whole,Kg,1000,GM,0,,0,,,Grocery,Dal
+Masoor Whole,Kg,1000,GM,0,,0,,,Grocery,Dal
+White Chana,Kg,1000,GM,0,,0,,,Grocery,Dal
+Black Vatana,Kg,1000,GM,0,,0,,,Grocery,Dal
+Moong Dal,Kg,1000,GM,0,,0,,,Grocery,Dal
+Green Vatana,Kg,1000,GM,0,,0,,,Grocery,Dal
+Chana Dal,Kg,1000,GM,0,,0,,,Grocery,Dal
+Rajma Chitra,Kg,1000,GM,0,,0,,,Grocery,Dal
+Masoor Dal,Kg,1000,GM,0,,0,,,Grocery,Dal
+Black Urad Whole,Kg,1000,GM,0,,0,,,Grocery,Dal
+Toor Dal,Kg,1000,GM,0,,0,,,Grocery,Dal
+Green Tobiko,Kg,1000,GM,0,,0,,,Food Ingredients,Egg
+Tea Powder,Kg,1000,GM,0,,0,,,Grocery,Tea
+Chicken Tandoori,Kg,1000,GM,0,,0,,,Meat Material,Meat
+Mutton Big Raan,Kg,1000,GM,0,,0,,,Meat Material,Meat
+Raw Duck Breast,Kg,1000,GM,0,,0,,,Meat Material,Meat
+Chicken Fit,Kg,1000,GM,0,,0,,,Meat Material,Meat
+Chicken Carcass (haddi),Kg,1000,GM,0,,0,,,Meat Material,Meat
+Chicken Curry Cut,Kg,1000,GM,0,,0,,,Meat Material,Meat
+Mutton Paya,Kg,1000,GM,0,,0,,,Meat Material,Meat
+Gawti Chicken,Kg,1000,GM,0,,0,,,Meat Material,Meat
+Chicken Breast Bonless,Kg,1000,GM,0,,0,,,Meat Material,Meat
+Lamb Rack Cap Nz,Kg,1000,GM,0,,0,,,Meat Material,Meat
+Chicken Supreme,Kg,1000,GM,0,,0,,,Meat Material,Meat
+Mutton Leg Small,Kg,1000,GM,0,,0,,,Meat Material,Meat
+Chicken Broiler,Kg,1000,GM,0,,0,,,Meat Material,Meat
+Chicken Drumstick,Kg,1000,GM,0,,0,,,Meat Material,Meat
+Chicken Leg Bonless,Kg,1000,GM,0,,0,,,Meat Material,Meat
+Basmati Rice,Kg,1000,GM,0,,0,,,Grocery,Rice
+Staff Rice,Kg,1000,GM,0,,0,,,Grocery,Rice
+Parimal Rice,Kg,1000,GM,0,,0,,,Grocery,Rice
+Ukda Rice Brown,Kg,1000,GM,0,,0,,,Grocery,Rice
+Sama Rice,Kg,1000,GM,0,,0,,,Grocery,Rice
+Risotto Rice,Kg,1000,GM,0,,0,,,Grocery,Rice
+Appam Rice,Kg,1000,GM,0,,0,,,Grocery,Rice
+Black Rice,Kg,1000,GM,0,,0,,,Grocery,Rice
+Sushi Rice,Kg,1000,GM,0,,0,,,Grocery,Rice
+Ukda Rice White,Kg,1000,GM,0,,0,,,Grocery,Rice
+Jasmine Rice,Kg,1000,GM,0,,0,,,Grocery,Rice
+Organic Red Rice,Kg,1000,GM,0,,0,,,Grocery,Rice
+Ghee Nandani,Kg,1000,GM,0,,0,,,Dairy Products,Dairy
+Sada Mawa,Kg,1000,GM,0,,0,,,Dairy Products,Dairy
+Curd Mother Dairy,Kg,1000,GM,0,,0,,,Dairy Products,Dairy
+Silken Tofu,Kg,1000,GM,0,,0,,,Dairy Products,Dairy
+Butter Vegan,Kg,1000,GM,0,,0,,,Dairy Products,Dairy
+White Butter,Kg,1000,GM,0,,0,,,Dairy Products,Dairy
+Curd,Kg,1000,GM,0,,0,,,Dairy Products,Dairy
+Tofu,Kg,1000,GM,0,,0,,,Dairy Products,Dairy
+Mawa,Kg,1000,GM,0,,0,,,Dairy Products,Dairy
+Malai Paneer,Kg,1000,GM,0,,0,,,Dairy Products,Dairy
+Ghee,Kg,1000,GM,0,,0,,,Dairy Products,Dairy
+Hariyali Mawa,Kg,1000,GM,0,,0,,,Dairy Products,Dairy
+Atta,Kg,1000,GM,0,,0,,,Grocery,Flour
+Tapioca Maida,Kg,1000,GM,0,,0,,,Grocery,Flour
+Phulka Atta,Kg,1000,GM,0,,0,,,Grocery,Flour
+Blue Bird Maida,Kg,1000,GM,0,,0,,,Grocery,Flour
+Red Lotus Flour,Kg,1000,GM,0,,0,,,Grocery,Flour
+Makai Atta,Kg,1000,GM,0,,0,,,Grocery,Flour
+Bajra Atta,Kg,1000,GM,0,,0,,,Grocery,Flour
+Yellow Kirin Soft Flour,Kg,1000,GM,0,,0,,,Grocery,Flour
+Maida,Kg,1000,GM,0,,0,,,Grocery,Flour
+Ragi Atta,Kg,1000,GM,0,,0,,,Grocery,Flour
+Besan,Kg,1000,GM,0,,0,,,Grocery,Flour
+Dhokla Atta,Kg,1000,GM,0,,0,,,Grocery,Flour
+Rice Atta,Kg,1000,GM,0,,0,,,Grocery,Flour
+Rajgiri Atta,Kg,1000,GM,0,,0,,,Grocery,Flour
+Tapioca Flour,Kg,1000,GM,0,,0,,,Grocery,Flour
+Churma Atta,Kg,1000,GM,0,,0,,,Grocery,Flour
+Tempura Flour,Kg,1000,GM,0,,0,,,Grocery,Flour
+Penne Pasta Gluten Free,Kg,1000,GM,0,,0,,,Grocery,Pasta
+Tandoori Mayo,Kg,1000,GM,0,,0,,,Food Ingredients,Sauce
+Cooking Sauce Bull Dog,Kg,1000,GM,0,,0,,,Food Ingredients,Sauce
+Nutella Sauce,Kg,1000,GM,0,,0,,,Food Ingredients,Sauce
+Tobenjen Paste,Kg,1000,GM,0,,0,,,Food Ingredients,Sauce
+Extra Hot & Spicy,Kg,1000,GM,0,,0,,,Food Ingredients,Sauce
+Flex Seed Alsi,Kg,1000,GM,0,,0,,,Grocery,Seeds
+Black Beans Seed,Kg,1000,GM,0,,0,,,Grocery,Seeds
+Badi Sunf,Kg,1000,GM,0,,0,,,Grocery,Seeds
+Black Till,Kg,1000,GM,0,,0,,,Grocery,Seeds
+Sabja,Kg,1000,GM,0,,0,,,Grocery,Seeds
+Chia Seed,Kg,1000,GM,0,,0,,,Grocery,Seeds
+White Till,Kg,1000,GM,0,,0,,,Grocery,Seeds
+Quinoa White,Kg,1000,GM,0,,0,,,Grocery,Seeds
+Rai,Kg,1000,GM,0,,0,,,Grocery,Seeds
+Shah Jeera,Kg,1000,GM,0,,0,,,Grocery,Seeds
+Bajra,Kg,1000,GM,0,,0,,,Grocery,Seeds
+Black Raisins,Kg,1000,GM,0,,0,,,Grocery,Seeds
+Quinoa Black,Kg,1000,GM,0,,0,,,Grocery,Seeds
+Quinoa Red,Kg,1000,GM,0,,0,,,Grocery,Seeds
+Icing Sugar,Kg,1000,GM,0,,0,,,Grocery,Sugar
+Sugar,Kg,1000,GM,0,,0,,,Grocery,Sugar
+Ravalgaon Sugar,Kg,1000,GM,0,,0,,,Grocery,Sugar
+Palm Sugar,Kg,1000,GM,0,,0,,,Grocery,Sugar
+Castor Sugar,Kg,1000,GM,0,,0,,,Grocery,Sugar
+Demerara Sugar,Kg,1000,GM,0,,0,,,Grocery,Sugar
+Coconut Carbon Powder,Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+White Compound,Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+Dark Compound,Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+Cnc Egg Free White Forest W 1000,Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+Spicy Banana Chips (red),Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+Dark Chocolate 2.5kg,Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+Bread Improver,Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+Cnc Crustofores B 1000,Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+Milk Compound,Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+Blueberry Filling,Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+Choco Chips,Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+Yellow Banana Chips,Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+Dark White Compound Chips,Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+Bonomelli Polenta,Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+Dark Chocolate,Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+Custard Powder,Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+Cocoa Powder,Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+Cake Gel 1kg,Kg,1000,GM,0,,0,,,Food Ingredients,Bakery
+Parmesan Cheese,Kg,1000,GM,0,,0,,,Dairy Products,Cheese
+Cheese Mozzarella,Kg,1000,GM,0,,0,,,Dairy Products,Cheese
+Cream Cheese,Kg,1000,GM,0,,0,,,Dairy Products,Cheese
+Feta Cheese,Kg,1000,GM,0,,0,,,Dairy Products,Cheese
+Cheese Amul,Kg,1000,GM,0,,0,,,Dairy Products,Cheese
+Cheese Mascarpone,Kg,1000,GM,0,,0,,,Dairy Products,Cheese
+Sea Bass Whole Kg,Kg,1000,GM,0,,0,,,Food Ingredients,Frozan
+Ice,Kg,1000,GM,0,,0,,,Food Ingredients,Frozan
+Yellow Wonton Patta,Kg,1000,GM,0,,0,,,Food Ingredients,Frozan
+Chilli Pickle,Kg,1000,GM,0,,0,,,Grocery,Pickle
+Bedki Chilli Dry,Kg,1000,GM,0,,0,,,Grocery,Spices
+Kashmiri Chilli,Kg,1000,GM,0,,0,,,Grocery,Spices
+Dalchini Powder,Kg,1000,GM,0,,0,,,Grocery,Spices
+Jeera Whole,Kg,1000,GM,0,,0,,,Grocery,Spices
+Bor Chilli,Kg,1000,GM,0,,0,,,Grocery,Spices
+Black Fungus,Kg,1000,GM,0,,0,,,Grocery,Spices
+Dagad Phool,Kg,1000,GM,0,,0,,,Grocery,Spices
+Black Pepper Powder,Kg,1000,GM,0,,0,,,Grocery,Spices
+Ajwain,Kg,1000,GM,0,,0,,,Grocery,Spices
+Jaiphal,Kg,1000,GM,0,,0,,,Grocery,Spices
+Methi (w),Kg,1000,GM,0,,0,,,Grocery,Spices
+Sri Lankan Dalchini,Kg,1000,GM,0,,0,,,Grocery,Spices
+Tej Patta,Kg,1000,GM,0,,0,,,Grocery,Spices
+Dhaniya Whole,Kg,1000,GM,0,,0,,,Grocery,Spices
+Chilli Flakes,Kg,1000,GM,0,,0,,,Grocery,Spices
+Ginger Powder,Kg,1000,GM,0,,0,,,Grocery,Spices
+Cinnamon (dalchini),Kg,1000,GM,0,,0,,,Grocery,Spices
+Five Spice Powder,Kg,1000,GM,0,,0,,,Grocery,Spices
+Javantry,Kg,1000,GM,0,,0,,,Grocery,Spices
+Garlic Powder,Kg,1000,GM,0,,0,,,Grocery,Spices
+Garam Masala,Kg,1000,GM,0,,0,,,Grocery,Spices
+Black Pepper Whole,Kg,1000,GM,0,,0,,,Grocery,Spices
+Jeera Powder,Kg,1000,GM,0,,0,,,Grocery,Spices
+Star Fool,Kg,1000,GM,0,,0,,,Grocery,Spices
+White Pepper Powder,Kg,1000,GM,0,,0,,,Grocery,Spices
+Green Elaichi,Kg,1000,GM,0,,0,,,Grocery,Spices
+Haldi Powder,Kg,1000,GM,0,,0,,,Grocery,Spices
+Onion Powder,Kg,1000,GM,0,,0,,,Grocery,Spices
+Dry Ginger,Kg,1000,GM,0,,0,,,Grocery,Spices
+Laung,Kg,1000,GM,0,,0,,,Grocery,Spices
+Peri Peri Masala,Kg,1000,GM,0,,0,,,Grocery,Spices
+Black Elaichi,Kg,1000,GM,0,,0,,,Grocery,Spices
+Kalonji,Kg,1000,GM,0,,0,,,Grocery,Spices
+Bedki Chilli Powder,Kg,1000,GM,0,,0,,,Grocery,Spices
+Amchur Powder,Kg,1000,GM,0,,0,,,Grocery,Spices
+Pandi Chilli,Kg,1000,GM,0,,0,,,Grocery,Spices
+Almond Powder,Kg,1000,GM,0,,0,,,Grocery,Spices
+Dhaniya Powder,Kg,1000,GM,0,,0,,,Grocery,Spices
+Ghati Masala,Kg,1000,GM,0,,0,,,Grocery,Spices
+Trifala,Kg,1000,GM,0,,0,,,Grocery,Spices
+Yellow Chilli Powder,Kg,1000,GM,0,,0,,,Grocery,Spices
+Malaysian Noodles Flat,Kg,1000,GM,0,,0,,,Food Ingredients,Noodles
+Steam Noodles,Kg,1000,GM,0,,0,,,Food Ingredients,Noodles
+Chopsuey Noodles,Kg,1000,GM,0,,0,,,Food Ingredients,Noodles
+Pullsbury,Kg,1000,GM,0,,0,,,Food Ingredients,Topings
+Tahina Paste,Kg,1000,GM,0,,0,,,Food Ingredients,Can Food
+Strawberry Filling,Kg,1000,GM,0,,0,,,Food Ingredients,Can Food
+Miso Paste Light,Kg,1000,GM,0,,0,,,Food Ingredients,Can Food
+Mango Pickle,Kg,1000,GM,0,,0,,,Food Ingredients,Can Food
+Miso Paste White,Kg,1000,GM,0,,0,,,Food Ingredients,Can Food
+Strawberry Steek,Kg,1000,GM,0,,0,,,Food Ingredients,Can Food
+Pickled Ginger,Kg,1000,GM,0,,0,,,Food Ingredients,Can Food
+Surmay Fish,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Crab Stick,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Soft Shell Crab 60/80,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Tiger Prawns,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Medium Prawns,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Crab Whole Big,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Salmon Whole,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Basa Fish,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Seabass Fillet,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Black Cod,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Prawns Frozen 70/80,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Squid,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Bombil,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Pomfret,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Tuna Steaks Frozen,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Clams,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Salmon Fish,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Small Crab Whole,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Hamachi Fillet (yellow Tail),Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Rawas Fish,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Lobster Fish,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Crab Meat,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Tuna Lion Boneless,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Red Snapper Fillet,Kg,1000,GM,0,,0,,,Meat Material,Sea Food
+Dark Cherry Filling,Kg,1000,GM,0,,0,,,Food Ingredients,Toppings
+Anjeer,Kg,1000,GM,0,,0,,,Grocery,Dry Fruits
+Strawberry Dry,Kg,1000,GM,0,,0,,,Grocery,Dry Fruits
+Walnuts,Kg,1000,GM,0,,0,,,Grocery,Dry Fruits
+Almond,Kg,1000,GM,0,,0,,,Grocery,Dry Fruits
+Kishmish,Kg,1000,GM,0,,0,,,Grocery,Dry Fruits
+Blueberry Dried,Kg,1000,GM,0,,0,,,Grocery,Dry Fruits
+Khajur,Kg,1000,GM,0,,0,,,Grocery,Dry Fruits
+Kaju Tukda,Kg,1000,GM,0,,0,,,Grocery,Dry Fruits
+Kaju Whole,Kg,1000,GM,0,,0,,,Grocery,Dry Fruits
+Gooseberry,Kg,1000,GM,0,,0,,,Grocery,Dry Fruits
+Pista,Kg,1000,GM,0,,0,,,Grocery,Dry Fruits
+Hazelut,Kg,1000,GM,0,,0,,,Grocery,Dry Fruits
+Black Kishmish,Kg,1000,GM,0,,0,,,Grocery,Dry Fruits
+Garbage Bags,Kg,1,Kg,0,,0,,,Non Food,H.k Materials
+Cnc Crustofores B 1000,Kg,1000,GM,0,,0,,,Bakery,Food Ingredients
+Coconut Carbon Powder,Kg,1000,GM,0,,0,,,Bakery,Food Ingredients
+Blueberry Filling,Kg,1000,GM,0,,0,,,Bakery,Food Ingredients
+Custard Powder,Kg,1000,GM,0,,0,,,Bakery,Food Ingredients
+Cocoa Powder,Kg,1000,GM,0,,0,,,Bakery,Food Ingredients
+Bread Improver,Kg,1000,GM,0,,0,,,Bakery,Food Ingredients
+Dark Chocolate 2.5kg,Kg,1000,GM,0,,0,,,Bakery,Food Ingredients
+Bonomelli Polenta,Kg,1000,GM,0,,0,,,Bakery,Food Ingredients
+Dark Chocolate,Kg,1000,GM,0,,0,,,Bakery,Food Ingredients
+Choco Chips,Kg,1000,GM,0,,0,,,Bakery,Food Ingredients
+Cnc Egg Free White Forest W 1000,Kg,1000,GM,0,,0,,,Bakery,Food Ingredients
+Cinnamon Syrup,ML,0,ML,,,,,,,
+Hazelnut Syrup,ML,0,ML,,,,,,,
+Oats Milk,ML,0,ML,,,,,,,
+Irish Syrup,ML,0,ML,,,,,,,
+Nestle Milkmaid,ML,0,ML,,,,,,,
+French Press Manual,ML,0,ML,,,,,,,
+Suger Syrup,ML,0,ML,,,,,,,
+Chocolet Syrup,ML,0,ML,,,,,,,
+Caremal Syrup,ML,0,ML,,,,,,,
+Chocolate Sauce,ML,0,ML,,,,,,,
+Coffee Beans LCE Arabica,kg,1000,GMS,,,,,,,
+Mansoon Malabar,kg,1000,GMS,,,,,,,
+Sugar 5gm,kg,0,kg,,,,,,,
+Coffee Beans Robusta Honey,kg,1000,GMS,,,,,,,
+Coffee Beans Macadamiia,kg,1000,GMS,,,,,,,
+Kaffir Lime Coconut,BOX,4000,LTR,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Black Hit,BTL,1,BTL,0,,0,,,Non Food,
+7 Up,BTL,1,BTL,0,,0,,,Beverages,
+Aquafina Water,BTL,1,BTL,0,,0,,,Beverages,
+Dukes Soda,BTL,1,BTL,0,,0,,,Beverages,
+Malaki Water 750 Ml,BTL,750,ML,0,,0,,,Beverages,
+Lemon Essence,BTL,350,GM,0,,0,,,Food Ingredients,
+Dukes Soda 750 Ml,BTL,750,ML,0,,0,,,Beverages,
+Gel Colours,BTL,20,ML,0,,0,,,Grocery,
+Tonic Water Britvit,BTL,1,BTL,0,,0,,,Beverages,
+Aquafina Water 500 Ml,BTL,500,ML,0,,0,,,Beverages,
+Sprite 750 Ml,BTL,750,ML,0,,0,,,Beverages,
+Dijon Mustard,BTL,500,GM,0,,0,,,Grocery,
+Thums Up,BTL,1,BTL,0,,0,,,Beverages,
+7 Up 750 Ml,BTL,750,ML,0,,0,,,Beverages,
+Perrier Carbonated Water,BTL,1,BTL,0,,0,,,Beverages,
+Pineapple Essence,BTL,350,GM,0,,0,,,Grocery,
+Sparkling Water,BTL,1,BTL,0,,0,,,Beverages,
+Yuzu Japanese Citrus Extract,BTL,170,ML,0,,0,,,Food Ingredients,
+Orange Essence,BTL,500,GM,0,,0,,,Food Ingredients,
+Green Peppercorn,BTL,50,GM,0,,0,,,Grocery,
+French Mustard,BTL,230,GM,0,,0,,,Grocery,
+Ocean Fruit Water,BTL,1,BTL,0,,0,,,Beverages,
+Sprite,BTL,1,BTL,0,,0,,,Beverages,
+Whole Summer Truffle,BTL,50,GM,0,,0,,,Grocery,
+Bisleri 250 Ml,BTL,1,BTL,0,,0,,,Beverages,
+Eno Regular,BTL,100,GM,0,,0,,,Grocery,
+Pepsi,BTL,1,BTL,0,,0,,,Beverages,
+Capsico Sauce,BTL,60,GM,0,,0,,,Food Ingredients,Sauce
+Sriracha Extra Hot Chilli Sauce,BTL,430,GM,0,,0,,,Food Ingredients,Sauce
+Thai Chilli Sauce,BTL,350,ML,0,,0,,,Food Ingredients,Sauce
+Tomato Sauce Maker,BTL,2000,GM,0,,0,,,Food Ingredients,Sauce
+Plum Sauce,BTL,400,GM,0,,0,,,Food Ingredients,Sauce
+Sweet Chilly Sauce,BTL,830,GM,0,,0,,,Food Ingredients,Sauce
+Worcestershire Sauce (chinese),BTL,750,GM,0,,0,,,Food Ingredients,Sauce
+Oyester Sauce Panda,BTL,2000,ML,0,,0,,,Food Ingredients,Sauce
+Sambal Oleal Sauce,BTL,400,GM,0,,0,,,Food Ingredients,Sauce
+Fish Sauce,BTL,500,GM,0,,0,,,Food Ingredients,Sauce
+Chilli Sauce,BTL,680,GM,0,,0,,,Food Ingredients,Sauce
+Kikkoman Soya,BTL,1000,GM,0,,0,,,Food Ingredients,Sauce
+Teriyaki Sauce,BTL,250,GM,0,,0,,,Food Ingredients,Sauce
+Xo Sauce,BTL,300,GM,0,,0,,,Food Ingredients,Sauce
+Light Soya Sauce,BTL,500,GM,0,,0,,,Food Ingredients,Sauce
+Tabasco Sauce,BTL,60,GM,0,,0,,,Food Ingredients,Sauce
+Maggi Seasoning Sauce,BTL,200,ML,0,,0,,,Food Ingredients,Sauce
+Abc Sweet Soya Sauce,BTL,800,GM,0,,0,,,Food Ingredients,Sauce
+Veg Mayonnaise,BTL,1000,GM,0,,0,,,Food Ingredients,Sauce
+Soya Sauce,BTL,500,GM,0,,0,,,Food Ingredients,Sauce
+Sriracha Panich Chilli Sauce,BTL,1,BTL,0,,0,,,Food Ingredients,Sauce
+Bbq Sauce,BTL,500,ML,0,,0,,,Food Ingredients,Sauce
+Sriracha Hot Chilli Sauce,BTL,1,BTL,0,,0,,,Food Ingredients,Sauce
+Caramel Sauce Drizzling Bottle,BTL,1000,ML,0,,0,,,Food Ingredients,Sauce
+Worcestershire Sauce Kalvert (bar),BTL,190,GM,0,,0,,,Food Ingredients,Sauce
+Veg Oyester Sauce,BTL,500,GM,0,,0,,,Food Ingredients,Sauce
+Mayonnaise A.g,BTL,500,ML,0,,0,,,Food Ingredients,Sauce
+Soya Sauce Llk,BTL,500,GM,0,,0,,,Food Ingredients,Sauce
+Soya Sauce Sing Cheung,BTL,750,ML,0,,0,,,Food Ingredients,Sauce
+Thai Chilli Sauce Kimball,BTL,300,GM,0,,0,,,Food Ingredients,Sauce
+Hoisin Sauce,BTL,350,GM,0,,0,,,Food Ingredients,Sauce
+Tomato Ketchup,BTL,1000,GM,0,,0,,,Food Ingredients,Sauce
+Chilli Bean Sauce,BTL,220,GM,0,,0,,,Food Ingredients,Sauce
+8 To 9 Sauce,BTL,200,GM,0,,0,,,Food Ingredients,Sauce
+Japinese Chilli Peast,BTL,1000,GM,0,,0,,,Food Ingredients,Sauce
+Japanese Style Mayonnaise,BTL,500,GM,0,,0,,,Food Ingredients,Sauce
+Black Bean Sauce,BTL,340,GM,0,,0,,,Food Ingredients,Sauce
+Blue Curacao Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Litchi Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Cherry Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Coconut Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Melon Syrup,BTL,750,ML,0,,0,,,Beverages,Syrup
+Peach Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Hazelnut Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Green Mint Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Strawberry Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Puree Raspberry Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Black Currant Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Kokam Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Tiramisu Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Yuzu Mix,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Passion Fruit Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Caramel Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Raspberry Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Chocolate Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Rose Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Blueberry Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Green Apple Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Vanilla Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Pomegranate Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Watermelon Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Grenadine Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Irish Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Mojito Mint Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Elder Flower Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Cinnamon Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Almond Syrup,BTL,1000,ML,0,,0,,,Beverages,Syrup
+Hing Powder,BTL,100,GM,0,,0,,,Grocery,Spices
+Sushi White Vinegar,BTL,1800,ML,0,,0,,,Food Ingredients,Vinegar
+Shao Hsing Vinegar,BTL,640,ML,0,,0,,,Food Ingredients,Vinegar
+Red Wine Vinegar,BTL,1000,ML,0,,0,,,Food Ingredients,Vinegar
+White Vinegar,BTL,700,ML,0,,0,,,Food Ingredients,Vinegar
+Sushi Vinegar,BTL,1800,ML,0,,0,,,Food Ingredients,Vinegar
+Rice Vinegar,BTL,650,ML,0,,0,,,Food Ingredients,Vinegar
+Kewra Water,BTL,500,ML,0,,0,,,Food Ingredients,Can Food
+Sesame Oil,BTL,1000,ML,0,,0,,,Food Ingredients,Can Food
+Rose Water,BTL,500,ML,0,,0,,,Food Ingredients,Can Food
+Olive Oil Pomace,BTL,1000,ML,0,,0,,,Food Ingredients,Can Food
+Spring Sesame Oil,BTL,1000,ML,0,,0,,,Food Ingredients,Can Food
+Truffle Oil,BTL,200,ML,0,,0,,,Food Ingredients,Can Food
+Ice Spring Yozu Japanese Citrus,BTL,1000,ML,0,,0,,,Food Ingredients,Can Food
+Mustard Oil 1 Ltr,BTL,1000,ML,0,,0,,,Food Ingredients,Can Food
+Mustard Oil,BTL,500,ML,0,,0,,,Food Ingredients,Can Food
+Tomato Paste,BTL,750,GM,0,,0,,,Food Ingredients,Can Food
+Olive Oil Extra Virgin,BTL,1000,ML,0,,0,,,Food Ingredients,Can Food
+Honey,BTL,1000,GM,0,,0,,,Food Ingredients,Can Food
+Sundried Tomatoes Oil,BTL,280,GM,0,,0,,,Food Ingredients,Can Food
+Coconut Oil,BTL,1000,ML,0,,0,,,Food Ingredients,Can Food
+Mustard Kasundi 1000gm,BTL,1000,GM,0,,0,,,Food Ingredients,Can Food
+Vanilla Essence,BTL,50,ML,0,,0,,,Food Ingredients,Can Food
+Angostura Bitter,BTL,200,ML,0,,0,,,Food Ingredients,Toppimgs
+Olives Black Pitted Bar,BTL,450,GM,0,,0,,,Food Ingredients,Toppings
+Rosella 500ml,BTL,500,ML,0,,0,,,Food Ingredients,Toppings
+Peach & Apricot Topping,BTL,1000,ML,0,,0,,,Food Ingredients,Toppings
+Ginger & Lime Cordial,BTL,750,ML,0,,0,,,Food Ingredients,Toppings
+Triple Sec,BTL,1000,ML,0,,0,,,Food Ingredients,Toppings
+Lime Juice Cordial,BTL,750,ML,0,,0,,,Food Ingredients,Toppings
+Orange Crush,BTL,1000,ML,0,,0,,,Beverages,Crush & Puree
+Litchi Crush,BTL,1000,ML,0,,0,,,Beverages,Crush & Puree
+Strawberry Crush,BTL,1000,ML,0,,0,,,Beverages,Crush & Puree
+Peach Crush,BTL,1000,ML,0,,0,,,Beverages,Crush & Puree
+Kiwi Crush,BTL,1000,ML,0,,0,,,Beverages,Crush & Puree
+Mango Crush,BTL,1000,ML,0,,0,,,Beverages,Crush & Puree
+Hand Wash Kimberly Clerk 1ltr,BTL,1,BTL,0,,0,,,Non Food,H.k Materials
+Colin Spray 500ml,BTL,1,BTL,0,,0,,,Non Food,H.k Materials
+Harpic,BTL,1,BTL,0,,0,,,Non Food,H.k Materials
+Lemon Grass Liquid,BTL,1,BTL,0,,0,,,Non Food,H.k Materials
+Hand Wash 1000 Ml,BTL,1,BTL,0,,0,,,Non Food,H.k Materials
+Clorex,BTL,1,BTL,0,,0,,,Non Food,H.k Materials
+Floor Cleaner,BTL,1,BTL,0,,0,,,Non Food,H.k Materials
+Ginger Ale,CAN,1,CAN,0,,0,,,Beverages,
+Tonic Water,CAN,1,CAN,0,,0,,,Beverages,
+Ginger Ale Britvic,CAN,1,CAN,0,,0,,,Beverages,
+7 Up Can,CAN,1,CAN,0,,0,,,Beverages,
+Diet Coke,CAN,1,CAN,0,,0,,,Beverages,
+Red Bull,CAN,1,CAN,0,,0,,,Beverages,
+Reva R2,CAN,1,CAN,0,,0,,,Non Food,H.k Materials
+Reva R6,CAN,1,CAN,0,,0,,,Non Food,H.k Materials
+Air Freshener,CAN,1,CAN,0,,0,,,Non Food,H.k Materials
+Hand Wash 5 Ltr,CAN,1,CAN,0,,0,,,Non Food,H.k Materials
+Reva-m Rinse,CAN,1,CAN,0,,0,,,Non Food,H.k Materials
+Hair Conditioner,CAN,1,CAN,0,,0,,,Non Food,H.k Materials
+Shampoo 5l,CAN,1,CAN,0,,0,,,Non Food,H.k Materials
+Reva R3,CAN,1,CAN,0,,0,,,Non Food,H.k Materials
+Reva R1,CAN,1,CAN,0,,0,,,Non Food,H.k Materials
+Reva R5,CAN,1,CAN,0,,0,,,Non Food,H.k Materials
+Body Lotion 5l,CAN,1,CAN,0,,0,,,Non Food,H.k Materials
+Shower Gel 5l,CAN,1,CAN,0,,0,,,Non Food,H.k Materials
+Reva-m Det,CAN,1,CAN,0,,0,,,Non Food,H.k Materials
+Glass Cleaner,CAN,1,CAN,0,,0,,,Non Food,H.k Materials
+Reva R4,CAN,1,CAN,0,,0,,,Non Food,H.k Materials
+Rock Salt Shaker,GMS,0,GMS,,,,,,,
+Sea Salt,GMS,0,GMS,,,,,,,
+Shrikhand 400 G,JAR,400,GM,0,,0,,,Dairy Products,Dairy
+Green Curry Paste,JAR,1000,GM,0,,0,,,Food Ingredients,Sauce
+Yellow Bean Sauce,JAR,350,GM,0,,0,,,Food Ingredients,Sauce
+Biscoff Spread,JAR,400,GM,0,,0,,,Food Ingredients,Bakery
+Jamaican Jerk Seasonings,JAR,1000,GM,0,,0,,,Grocery,Spices
+Rosella Jam,JAR,200,GM,0,,0,,,Food Ingredients,Topings
+Mixed Fruit Jam,JAR,4000,GM,0,,0,,,Food Ingredients,Can Food
+Mixed Fruit Jam 1 Kg,JAR,1000,GM,0,,0,,,Food Ingredients,Can Food
+Red Curry Paste Veg,JAR,1000,GM,0,,0,,,Food Ingredients,Can Food
+Vanilla Sticks,JAR,1,JAR,0,,0,,,Food Ingredients,Can Food
+Tom Yum Paste,JAR,1000,GM,0,,0,,,Food Ingredients,Can Food
+Biscoff Spread,JAR,500,GM,0,,0,,,Bakery,Food Ingredients
+Guava Juice,LTR,1000,ML,0,,0,,,Beverages,
+Almond Milk,LTR,1000,ML,,,,,,,
+Pomegranate Juice,LTR,1000,ML,0,,0,,,Beverages,
+Apple Juice,LTR,1000,ML,0,,0,,,Beverages,
+Milk,LTR,1000,ML,,,,,,,
+Litchi Juice,LTR,1000,ML,0,,0,,,Beverages,
+Mango Juice,LTR,1000,ML,0,,0,,,Beverages,
+Espresso,LTR,1000,ML,,,,,,,
+Orange Juice,LTR,1000,ML,0,,0,,,Beverages,
+Cranberry Juice,LTR,1000,ML,0,,0,,,Beverages,
+Amul Milk,LTR,1000,ML,0,,0,,,Dairy Products,Dairy
+Fresh Milk (tabela),LTR,1000,ML,0,,0,,,Dairy Products,Dairy
+Oat Milk,LTR,1000,ML,0,,0,,,Dairy Products,Dairy
+Hon Mirin Vinegar (japanese),LTR,1800,ML,0,,0,,,Food Ingredients,Vinegar
+Salad Oil,LTR,1000,ML,0,,0,,,Food Ingredients,Can Food
+Refind Oil,LTR,1000,ML,0,,0,,,Food Ingredients,Can Food
+Lemon Iced Tea Syrup,LTR,1000,ML,0,,0,,,Food Ingredients,Toppings
+White Phenyle,LTR,1,LTR,0,,0,,,Non Food,H.k Materials
+Sanitizer,LTR,1,LTR,0,,0,,,Non Food,H.k Materials
+Liquid Soup,LTR,1,LTR,0,,0,,,Non Food,H.k Materials
+Amrood Ice Cream,LTR,1000,ML,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Strawberry Ice Cream,LTR,1000,ML,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Tuty Fruty Ice Cream,LTR,1000,ML,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Salted Caramel Popcorn Ice Cream,LTR,1000,ML,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Hazelnut Ice Cream,LTR,1000,ML,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Sunkissed Twilight Ice Cream,LTR,1000,ML,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Japanese Matcha Ice Cream,LTR,1000,ML,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Butter Scotch Ice Cream,LTR,1000,ML,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Choco Chips Chocolate Ice Cream,LTR,1000,ML,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Sitaphal Ice Cream,LTR,1000,ML,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Chocolate Ice Cream,LTR,1000,ML,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Vanilla Md Ice Cream,LTR,1000,ML,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Frut Overload Ice Cream,LTR,1000,ML,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Ratnagiri Haapoos Ice Cream,LTR,1000,ML,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Gas Lighter,NOS,1,NOS,0,,0,,,Non Food,
+Register Book,NOS,1,NOS,0,,0,,,Non Food,
+Pencil,NOS,1,NOS,0,,0,,,Non Food,
+Kitchen Roll Dispencer,NOS,1,NOS,0,,0,,,Non Food,
+Marker,NOS,1,NOS,0,,0,,,Non Food,
+Kitchen Roll,NOS,1,NOS,0,,0,,,Non Food,
+Mouse,NOS,1,NOS,0,,0,,,Non Food,
+Push Pump,NOS,1,NOS,0,,0,,,Non Food,
+Kot Book,NOS,1,NOS,0,,0,,,Non Food,
+Pencil Battery,NOS,1,NOS,0,,0,,,Non Food,
+Cello Tape,NOS,1,NOS,0,,0,,,Non Food,
+Hrt Roll Big,NOS,1,NOS,0,,0,,,Non Food,
+Duracell,NOS,1,NOS,0,,0,,,Non Food,
+Pen,NOS,1,NOS,0,,0,,,Non Food,
+Printer Cartridges,NOS,1,NOS,0,,0,,,Non Food,
+Carbon Paper,NOS,1,NOS,0,,0,,,Non Food,
+Note Book,NOS,1,NOS,0,,0,,,Non Food,
+Fevi Kwik,NOS,1,NOS,0,,0,,,Non Food,
+Keyboard,NOS,1,NOS,0,,0,,,Non Food,
+Hrt Roll Small,NOS,1,NOS,0,,0,,,Non Food,
+Kot Roll,NOS,1,NOS,0,,0,,,Non Food,
+Aluminium Dia,NOS,1,NOS,0,,0,,,Non Food,Others
+Bed Sheets (285 -285),NOS,1,NOS,0,,0,,,Non Food,Others
+Bath Towels,NOS,1,NOS,0,,0,,,Non Food,Others
+Lunch Box Big,NOS,1,NOS,0,,0,,,Non Food,Disposable
+Paper Bag Big,NOS,1,NOS,0,,0,,,Non Food,Disposable
+Paper Bag Small,NOS,1,NOS,0,,0,,,Non Food,Disposable
+Heat Sealable Bag Small,NOS,1,NOS,0,,0,,,Non Food,Disposable
+Butter Paper,NOS,1,NOS,0,,0,,,Non Food,Disposable
+Face Tissue,NOS,1,NOS,0,,0,,,Non Food,Disposable
+Lunch Box Small,NOS,1,NOS,0,,0,,,Non Food,Disposable
+Garbage Bags Small,NOS,1,NOS,0,,0,,,Non Food,H.k Materials
+Mop Clip,NOS,1,NOS,0,,0,,,Non Food,H.k Materials
+Dustpan (supri),NOS,1,NOS,0,,0,,,Non Food,H.k Materials
+Garbage Bags Large,NOS,1,NOS,0,,0,,,Non Food,H.k Materials
+Plastic Broom,NOS,1,NOS,0,,0,,,Non Food,H.k Materials
+Mop Rod,NOS,1,NOS,0,,0,,,Non Food,H.k Materials
+Wiper,NOS,1,NOS,0,,0,,,Non Food,H.k Materials
+Buckets,NOS,1,NOS,0,,0,,,Non Food,H.k Materials
+Floor Duster,NOS,1,NOS,0,,0,,,Non Food,H.k Materials
+Hard Broom,NOS,1,NOS,0,,0,,,Non Food,H.k Materials
+Glass Wiper,NOS,1,NOS,0,,0,,,Non Food,H.k Materials
+Ceiling Broom,NOS,1,NOS,0,,0,,,Non Food,H.k Materials
+Mop Refill,NOS,1,NOS,0,,0,,,Non Food,H.k Materials
+Mop Set,NOS,1,NOS,0,,0,,,Non Food,H.k Materials
+Garbage Bags Medium,NOS,1,NOS,0,,0,,,Non Food,H.k Materials
+Scrub Pad,NOS,1,NOS,0,,0,,,Non Food,U.t Materials
+Hazelnut Tartlet,PCS,0,PCS,,,,,,,
+Dark Mouse Choccolate Berliner,PCS,0,PCS,,,,,,,
+Pappa Roti Dark Chacolate,PCS,0,PCS,,,,,,,
+Filter coffee Tartlet,PCS,0,PCS,,,,,,,
+Whole Wheat Ladi Pav,PCS,0,PCS,,,,,,,
+Banana Leaf,PCS,1,PCS,0,,0,,,Vegetable,
+Coconut Big,PCS,1,PCS,0,,0,,,Vegetable,
+Check Duster,PCS,1,PCS,0,,0,,,Non Food,
+Chicken Samosa,PCS,0,PCS,,,,,,,
+Kacha Limbo Tartlet,PCS,0,PCS,,,,,,,
+Box File,PCS,1,PCS,0,,0,,,Non Food,
+Pappa Roti,PCS,0,PCS,,,,,,,
+Vanila Custard Berliner,PCS,0,PCS,,,,,,,
+Choco Crinkle Cookie,PCS,0,PCS,,,,,,,
+Baked Vada Pav,PCS,0,PCS,,,,,,,
+Filter Coffee Tartlet,PCS,0,PCS,,,,,,,
+Tartlet Bounty,PCS,0,PCS,,,,,,,
+Yellow Banana Chips Pkt,PCS,0,PCS,,,,,,,
+Kadai Cheese Tartlet,PCS,0,PCS,,,,,,,
+Veg Samosa,PCS,0,PCS,,,,,,,
+Salted Berliner,PCS,0,PCS,,,,,,,
+Calzone Chicken,PCS,0,PCS,,,,,,,
+Lotus Biscoof Berliner,PCS,0,PCS,,,,,,,
+Blueberry chessecake Berliners,PCS,0,PCS,,,,,,,
+Mix Fruit Jam Berliner,PCS,0,PCS,,,,,,,
+Sushi Nori Sheet,PCS,1,PCS,0,,0,,,Food Ingredients,
+Calzone Veg,PCS,0,PCS,,,,,,,
+Chocolate Tartlet,PCS,0,PCS,,,,,,,
+Spicy Banana Chips Pkt,PCS,0,PCS,,,,,,,
+Pappa Roti Nutella,PCS,0,PCS,,,,,,,
+Coconut And Chocolate Tart,PCS,0,PCS,,,,,,,
+Crincke Cookies Small,PCS,0,PCS,,,,,,,
+Calzone Paneer,PCS,0,PCS,,,,,,,
+Ladi Pav 4 Pc,PCS,0,PCS,,,,,,,
+Pertzel,PCS,0,PCS,,,,,,,
+White Loaf Bread,PCS,0,PCS,,,,,,,
+Paneer Samosa,PCS,0,PCS,,,,,,,
+Salted Caramal Tartlet,PCS,0,PCS,,,,,,,
+Chapati For Staff,PCS,1,PCS,0,,0,,,Grocery,
+Blueberry Berliners,PCS,0,PCS,,,,,,,
+Nutella Berliner,PCS,0,PCS,,,,,,,
+Syrup Rack,PCS,0,PCS,,,,,,,
+Quail Eggs,PCS,1,PCS,0,,0,,,Food Ingredients,Egg
+Desi Egg,PCS,1,PCS,0,,0,,,Food Ingredients,Egg
+Eggs,PCS,1,PCS,0,,0,,,Food Ingredients,Egg
+Wooden Chopsticks,PCS,1,PCS,0,,0,,,Non Food,Others
+Pillow Cover,PCS,1,PCS,0,,0,,,Non Food,Others
+Hand Towel,PCS,1,PCS,0,,0,,,Non Food,Others
+Mixed Pickle 12 Gm,PCS,1,PCS,0,,0,,,Food Ingredients,Can Food
+Honey 15 Gm,PCS,1,PCS,0,,0,,,Food Ingredients,Can Food
+Mix Fruit Jam 15 Gm,PCS,1,PCS,0,,0,,,Food Ingredients,Can Food
+Coffee Cup Lid 350 Ml,PCS,1,PCS,0,,0,,,Non Food,Disposable
+Pet Bottle,PCS,1,PCS,0,,0,,,Non Food,Disposable
+Coffee Cup Lid 250 Ml,PCS,1,PCS,0,,0,,,Non Food,Disposable
+Cake Box Big,PCS,1,PCS,0,,0,,,Non Food,Disposable
+Coffee Cup Lid 150 Ml,PCS,1,PCS,0,,0,,,Non Food,Disposable
+Coffee Cup Lid 450 Ml,PCS,1,PCS,0,,0,,,Non Food,Disposable
+Cake Box Medium,PCS,1,PCS,0,,0,,,Non Food,Disposable
+Cups Holder Rack,PCS,1,PCS,0,,0,,,Non Food,Disposable
+Coffee Cup 450 Ml,PCS,1,PCS,0,,0,,,Non Food,Disposable
+Wonder Wipe,PCS,1,PCS,0,,0,,,Non Food,Disposable
+Coffee Cup 350 Ml,PCS,1,PCS,0,,0,,,Non Food,Disposable
+Coffee Cups 250 Ml,PCS,1,PCS,0,,0,,,Non Food,Disposable
+Silver Foil,PCS,1,PCS,0,,0,,,Non Food,Disposable
+Napkin Tissue,PCS,1,PCS,0,,0,,,Non Food,Disposable
+Cake Box Small,PCS,1,PCS,0,,0,,,Non Food,Disposable
+Shoe Shine,PCS,1,PCS,0,,0,,,Non Food,H.k Materials
+Dental Kit,PCS,1,PCS,0,,0,,,Non Food,H.k Materials
+Shoe Shine Box,PCS,1,PCS,0,,0,,,Non Food,H.k Materials
+Loofah,PCS,1,PCS,0,,0,,,Non Food,H.k Materials
+Bathing Bar (soap),PCS,1,PCS,0,,0,,,Non Food,H.k Materials
+Urine Mat,PCS,1,PCS,0,,0,,,Non Food,H.k Materials
+Spin Mop Bucket,PCS,1,PCS,0,,0,,,Non Food,H.k Materials
+Comb,PCS,1,PCS,0,,0,,,Non Food,H.k Materials
+Shaving Kit Empty Box,PCS,1,PCS,0,,0,,,Non Food,H.k Materials
+Mop Refill 300 Gm,PCS,1,PCS,0,,0,,,Non Food,H.k Materials
+Writing Pad,PCS,1,PCS,0,,0,,,Non Food,H.k Materials
+Toilet Hockey Brush,PCS,1,PCS,0,,0,,,Non Food,H.k Materials
+Shaving Kit,PCS,1,PCS,0,,0,,,Non Food,H.k Materials
+Plastic Scrubber,PCS,1,PCS,0,,0,,,Non Food,U.t Materials
+Steel Scrubber,PCS,1,PCS,0,,0,,,Non Food,U.t Materials
+Millennium Kulfi,PCS,1,PCS,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Roasted Almond Slice Kulfi,PCS,1,PCS,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Malai Kulfi,PCS,1,PCS,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Kesar Pista Kulfi,PCS,1,PCS,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Mango Slice Kulfi,PCS,1,PCS,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Gulab Badam Slice Kulfi,PCS,1,PCS,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Envelope,PKT,1,PKT,0,,0,,,Non Food,
+Jasmine Flower Dried,PKT,1,PKT,0,,0,,,Food Ingredients,
+wild Chikmagalur 250gms,PKT,0,PKT,,,,,,,
+Waves of Malnad 250gms,PKT,0,PKT,,,,,,,
+Tomato Juice,PKT,1000,ML,0,,0,,,Beverages,
+After Mint M Pot,PKT,1,PKT,0,,0,,,Grocery,
+Kirana Bag,PKT,1,PKT,0,,0,,,Non Food,
+Khichiya Papad,PKT,500,GM,0,,0,,,Grocery,
+Edible Flower,PKT,1,PKT,0,,0,,,Vegetable,
+Red Banana Chips pkt,PKT,0,PKT,,,,,,,
+Salt Tata,PKT,1000,GM,0,,0,,,Grocery,
+Wasabi Tube,PKT,43,GM,0,,0,,,Food Ingredients,
+Orange Marmalade 15gm,PKT,1,PKT,0,,0,,,Food Ingredients,
+Corn Flakes,PKT,1,PKT,0,,0,,,Grocery,
+Msg,PKT,500,GM,0,,0,,,Food Ingredients,
+Pepper Sachet,PKT,1,PKT,0,,0,,,Grocery,
+Dried Lavender Flower,PKT,1000,GM,0,,0,,,Grocery,
+Nutrela Soya,PKT,270,GM,0,,0,,,Grocery,
+Kori Rotti,PKT,1000,GM,0,,0,,,Food Ingredients,
+Papad Big,PKT,1000,GM,0,,0,,,Grocery,
+Baking Soda,PKT,350,GM,0,,0,,,Grocery,
+Wafer Chips,PKT,1,PKT,0,,0,,,Bakery,
+Cheese Slice,PKT,0,PKT,,,,,,,
+Kasai shroom 250gms,PKT,0,PKT,,,,,,,
+Coconut Milk Powder,PKT,1000,GM,0,,0,,,Grocery,
+Falooda,PKT,1000,GM,0,,0,,,Grocery,
+Macro Green,PKT,1,PKT,0,,0,,,Vegetable,
+Pineapple Juice,PKT,1000,ML,0,,0,,,Beverages,
+Mix Pickle,PKT,1,PKT,0,,0,,,Grocery,
+Bread Slice,PKT,500,GM,0,,0,,,Grocery,
+Oreo Biscuit,PKT,1,PKT,0,,0,,,Grocery,
+Nature Jaggery,PKT,1000,GM,0,,0,,,Grocery,
+Good Night Mosquito,PKT,1,PKT,0,,0,,,Non Food,
+Papdi,PKT,200,GM,0,,0,,,Grocery,
+Tom Yum Cube,PKT,9,GM,0,,0,,,Food Ingredients,
+Salt Sachet,PKT,1,PKT,0,,0,,,Grocery,
+Dry Yeast,PKT,500,GM,0,,0,,,Grocery,
+Everyday Milk Powder,PKT,1000,GM,0,,0,,,Grocery,
+Baba Budan Peak 250gms,PKT,0,PKT,,,,,,,
+Jaggery Powder Sachet,PKT,1,PKT,0,,0,,,Grocery,
+After Mint T One,PKT,1,PKT,0,,0,,,Grocery,
+Golden Curry,PKT,220,GM,0,,0,,,Food Ingredients,
+Mazes of Coorg 250gms,PKT,0,PKT,,,,,,,
+Assam Tea,PKT,1,PKT,0,,0,,,Grocery,Tea
+Japanese Matcha Tea,PKT,1,PKT,0,,0,,,Grocery,Tea
+Tea Masala,PKT,100,GM,0,,0,,,Grocery,Tea
+Tea Bag Sachet,PKT,1,PKT,0,,0,,,Grocery,Tea
+Tea Darjeeling,PKT,1,PKT,0,,0,,,Grocery,Tea
+Blue Butter Pea Flower Tea 50 Grm,PKT,1,PKT,0,,0,,,Grocery,Tea
+Green Tea,PKT,1,PKT,0,,0,,,Grocery,Tea
+Tea Light Candle,PKT,1,PKT,0,,0,,,Grocery,Tea
+Lavender Tea,PKT,100,GM,0,,0,,,Grocery,Tea
+Almond Milk,PKT,200,ML,0,,0,,,Dairy Products,Dairy
+Rich Whip Topping Cream,PKT,1000,GM,0,,0,,,Dairy Products,Dairy
+Rich Cooking Cream,PKT,1000,GM,0,,0,,,Dairy Products,Dairy
+Sour Cream,PKT,1000,ML,0,,0,,,Dairy Products,Dairy
+Peanut Butter,PKT,500,GM,0,,0,,,Dairy Products,Dairy
+Milk 3 Fat,PKT,500,ML,0,,0,,,Dairy Products,Dairy
+Butter Amul Blister 10gm,PKT,24,PCS,0,,0,,,Dairy Products,Dairy
+Amul Cream,PKT,1000,ML,0,,0,,,Dairy Products,Dairy
+Fresh Cream,PKT,1000,ML,0,,0,,,Dairy Products,Dairy
+Butter Amul,PKT,500,GM,0,,0,,,Dairy Products,Dairy
+Whole Wheat Penne,PKT,500,GM,0,,0,,,Grocery,Pasta
+Macaroni Pasta,PKT,500,GM,0,,0,,,Grocery,Pasta
+Farfale Pasta,PKT,500,GM,0,,0,,,Grocery,Pasta
+Penne Pasta,PKT,500,GM,0,,0,,,Grocery,Pasta
+Fusili Pasta,PKT,500,GM,0,,0,,,Grocery,Pasta
+Spaghetti Pasta,PKT,500,GM,0,,0,,,Grocery,Pasta
+Lasagna Sheet,PKT,500,GM,0,,0,,,Grocery,Pasta
+Mint Mayo,PKT,500,GM,0,,0,,,Food Ingredients,Sauce
+Tomato Ketchup Sachet,PKT,1,PKT,0,,0,,,Food Ingredients,Sauce
+Cranberry Seed,PKT,200,GM,0,,0,,,Grocery,Seeds
+Sugar 5 Gm,PKT,1,PKT,0,,0,,,Grocery,Sugar
+Sugar Free,PKT,1,PKT,0,,0,,,Grocery,Sugar
+Sugar Cube,PKT,1,PKT,0,,0,,,Grocery,Sugar
+Demerara Sugar 5 Gm,PKT,1,PKT,0,,0,,,Grocery,Sugar
+Tortilla Bread,PKT,6,PCS,0,,0,,,Food Ingredients,Bakery
+Wafer Chips,PKT,1,PKT,0,,0,,,Food Ingredients,Bakery
+Dairy Cream Sachet,PKT,1,PKT,0,,0,,,Food Ingredients,Bakery
+Milkbakestable Chips,PKT,1,PKT,0,,0,,,Food Ingredients,Bakery
+Drinking Chocolate,PKT,2500,GM,0,,0,,,Food Ingredients,Bakery
+Cheese Amul Slice,PKT,20,PCS,0,,0,,,Dairy Products,Cheese
+Cheese Philadelphia,PKT,1000,GM,0,,0,,,Dairy Products,Cheese
+Cheese Cheddar,PKT,1000,GM,0,,0,,,Dairy Products,Cheese
+French Fries 9mm,PKT,2500,GM,0,,0,,,Food Ingredients,Frozan
+Smiles,PKT,1500,GM,0,,0,,,Food Ingredients,Frozan
+Potato Wedges,PKT,2500,GM,0,,0,,,Food Ingredients,Frozan
+Green Peas,PKT,1000,GM,0,,0,,,Food Ingredients,Frozan
+Maggi Cube Veg,PKT,40,GM,0,,0,,,Grocery,Spices
+Baking Powder,PKT,400,GM,0,,0,,,Grocery,Spices
+Jal Jeera,PKT,100,GM,0,,0,,,Grocery,Spices
+Chana Masala,PKT,100,GM,0,,0,,,Grocery,Spices
+Chat Masala,PKT,100,GM,0,,0,,,Grocery,Spices
+Pav Bhaji Masala,PKT,100,GM,0,,0,,,Grocery,Spices
+Rasam Powder,PKT,100,GM,0,,0,,,Grocery,Spices
+Khichu Masala,PKT,1000,GM,0,,0,,,Grocery,Spices
+Saffron (kesar),PKT,1,GM,0,,0,,,Grocery,Spices
+Chicken Masala,PKT,100,GM,0,,0,,,Grocery,Spices
+Agar Agar Powder,PKT,50,GM,0,,0,,,Grocery,Spices
+Meat Masala,PKT,100,GM,0,,0,,,Grocery,Spices
+Kitchen King,PKT,500,GM,0,,0,,,Grocery,Spices
+Kasuri Methi,PKT,100,GM,0,,0,,,Grocery,Spices
+Chicken Broth Powder,PKT,500,GM,0,,0,,,Grocery,Spices
+Kashmiri Chilli Powder,PKT,1000,GM,0,,0,,,Grocery,Spices
+Usal Masala,PKT,100,GM,0,,0,,,Grocery,Spices
+Togarashi Powder,PKT,300,GM,0,,0,,,Grocery,Spices
+Hing Whole,PKT,100,GM,0,,0,,,Grocery,Spices
+Sambhar Masala,PKT,100,GM,0,,0,,,Grocery,Spices
+Black Pepper Sachet,PKT,1,PKT,0,,0,,,Grocery,Spices
+Aromatic Powder,PKT,500,GM,0,,0,,,Grocery,Spices
+Flat Noodles,PKT,1000,GM,0,,0,,,Food Ingredients,Noodles
+Sevai,PKT,200,GM,0,,0,,,Food Ingredients,Noodles
+Plain Noodles,PKT,500,GM,0,,0,,,Food Ingredients,Noodles
+Ramen Noodle,PKT,300,GM,0,,0,,,Food Ingredients,Noodles
+Vermicelli Noodle,PKT,250,GM,0,,0,,,Food Ingredients,Noodles
+China Grass,PKT,100,GM,0,,0,,,Food Ingredients,Noodles
+Glass Noodles,PKT,500,GM,0,,0,,,Food Ingredients,Noodles
+Rosella,PKT,250,GM,0,,0,,,Food Ingredients,Topings
+Digestive Biscuit,PKT,1,PKT,0,,0,,,Grocery,Biscuits
+Peanut Oil,PKT,1000,ML,0,,0,,,Food Ingredients,Can Food
+Madagascar Chocolate,PKT,2500,GM,0,,0,,,Food Ingredients,Toppimgs
+Silver Container 750 Ml,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Tissue Paper Ettarra,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Tissue Paper Melting Pot,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Tooth Pick Taj,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Plastic Cont With Lid 1000 Ml Rect,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Plastic Cont With Lid 30 Ml,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Wooden Spoon,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Dolly Paper Big,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Stirrers With Logo Big,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Paper Straw,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Stirrers With Logo Medium,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Hand Gloves Rubber,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Stirrers With Logo Small,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Tissue Paper Ten One,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Wooden Fork,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Straws,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Plastic Cont With Lid 450 Ml Rnd,PKT,1,PKT,0,,0,,,Non Food,Disposable
+M Fold Tissue,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Tenone Stickers,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Plastic Cont With Lid 700 Ml Rnd,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Hand Gloves Plastic,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Silver Container 450 Ml,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Skull Cap,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Satte Sticks,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Melting Pot Kot Pad,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Plastic Cont With Lid 750 Ml Rect,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Tooth Pick 500 Pc,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Melting Pot Stickers,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Tenone Coasters,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Plastic Cont With Lid 50 Ml,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Heat Sealable Bags,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Tissue Paper Crisol,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Tenone Kot Pad,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Hand Gloves Surgical,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Plastic Cont With Lid 250 Ml Rnd,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Wooden Stirrer,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Dolly Paper Small,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Plastic Cont With Lid 900 Ml Rnd,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Ettarra Coasters,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Melting Pot Coasters,PKT,1,PKT,0,,0,,,Non Food,Disposable
+Toilet Roll,PKT,1,PKT,0,,0,,,Non Food,H.k Materials
+Naphthalene,PKT,1,PKT,0,,0,,,Non Food,H.k Materials
+Toilet Round Brush,PKT,1,PKT,0,,0,,,Non Food,H.k Materials
+Surf Powder,PKT,1,PKT,0,,0,,,Non Food,U.t Materials
+Pitambari,PKT,1,PKT,0,,0,,,Non Food,U.t Materials
+Caustic Soda,PKT,1,PKT,0,,0,,,Non Food,U.t Materials
+Dairy Cream Sachet,PKT,1,PKT,0,,0,,,Bakery,Food Ingredients
+Drinking Chocolate,PKT,500,GM,0,,0,,,Bakery,Food Ingredients
+Tortilla Bread,PKT,1,PKT,0,,0,,,Bakery,Food Ingredients
+Dried Black Bean Salted,PKT,500,GM,0,,0,,,Bakery,Food Ingredients
+A4 Size Paper,RIM,1,RIM,0,,0,,,Non Food,
+Fuel Tin,TIN,1,TIN,0,,0,,,Non Food,
+Jasmine Tea,TIN,100,GM,0,,0,,,Grocery,Tea
+Coconut Milk,TIN,1,TIN,0,,0,,,Dairy Products,Dairy
+Madras Curry Powder,TIN,500,GM,0,,0,,,Grocery,Spices
+Tomato Puree,TIN,750,GM,0,,0,,,Food Ingredients,Can Food
+Sweet Corn Cream,TIN,750,GM,0,,0,,,Food Ingredients,Can Food
+Fruit Cocktail,TIN,750,GM,0,,0,,,Food Ingredients,Can Food
+Milk Maid,TIN,480,GM,0,,0,,,Food Ingredients,Can Food
+Red Cherry,TIN,750,GM,0,,0,,,Food Ingredients,Can Food
+Olive Oil,TIN,1000,ML,0,,0,,,Food Ingredients,Can Food
+Cheesling,TIN,3500,GM,0,,0,,,Food Ingredients,Can Food
+Lychee,TIN,750,GM,0,,0,,,Food Ingredients,Can Food
+Sarso Ka Sag,TIN,400,GM,0,,0,,,Food Ingredients,Can Food
+Green Corn,TIN,500,GM,0,,0,,,Food Ingredients,Can Food
+Pineapple Slice,TIN,750,GM,0,,0,,,Food Ingredients,Can Food
+Mango Pulp,TIN,750,GM,0,,0,,,Food Ingredients,Can Food
+Water Chestnuts,TIN,500,GM,0,,0,,,Food Ingredients,Can Food
+Olives Black Slice,TIN,3000,GM,0,,0,,,Food Ingredients,Toppings
+Baked Beans,TIN,440,GM,0,,0,,,Food Ingredients,Toppings
+Jalepenos Slice,TIN,3000,GM,0,,0,,,Food Ingredients,Toppings
+Olives Black Pitted Kitchen,TIN,3000,GM,0,,0,,,Food Ingredients,Toppings
+Green Olive Slice,TIN,3000,GM,0,,0,,,Food Ingredients,Toppings
+Bamboo Shoots,TIN,300,GM,0,,0,,,Food Ingredients,Toppings
+Green Olive Pitted,TIN,3000,GM,0,,0,,,Food Ingredients,Toppings
+Kuro Goma,BULK,4000,LTE,0,,0,,,DESSERTS,Ice Cream & Kulfi
+Cling Foil,ROLL,1,ROLL,0,,0,,,Non Food,
