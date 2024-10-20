@@ -98,26 +98,32 @@ function Home() {
                         <button type="submit" className="bg-blue-500 text-white rounded-md p-2 mt-2">Submit</button>
                     </form>
                     {imageUrl && (
-                        <div className="mt-4">
-                            <img src={imageUrl} alt="Fetched plot" className="rounded-md" />
-                            <div className="mt-4">
-                                <input
-                                    type="number"
-                                    value={feedback}
-                                    onChange={(e) => setFeedback(e.target.value)}
-                                    placeholder="Enter feedback"
-                                    className="bg-[#111111] text-white rounded-md p-2 w-full"
-                                />
-                                <button
-                                    onClick={handleFeedbackSubmit}
-                                    className="bg-green-500 text-white rounded-md p-2 mt-2"
-                                >
-                                    Submit Feedback
-                                </button>
-                                {responseMessage && <p className="text-white mt-2">{responseMessage}</p>}
-                            </div>
-                        </div>
-                    )}
+  <div className="mt-4">
+    <img src={imageUrl} alt="Fetched plot" className="rounded-md" />
+    <div className="mt-4">
+      <div className="flex items-center">
+        {[...Array(5)].map((_, index) => (
+          <span
+            key={index}
+            className={`cursor-pointer text-3xl ${
+              feedback >= index + 1 ? 'text-yellow-500' : 'text-gray-400'
+            }`}
+            onClick={() => setFeedback(index + 1)}
+          >
+            ★
+          </span>
+        ))}
+      </div>
+      <button
+        onClick={handleFeedbackSubmit}
+        className="bg-green-500 text-white rounded-md p-2 mt-2"
+      >
+        Submit Feedback
+      </button>
+      {responseMessage && <p className="text-white mt-2">{responseMessage}</p>}
+    </div>
+  </div>
+)}
             
                 </div>
                 <div className="col-span-4 row-span-2 bg-[#111111] rounded-3xl">
