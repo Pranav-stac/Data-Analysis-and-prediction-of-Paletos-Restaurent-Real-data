@@ -1,11 +1,11 @@
 import React from 'react'
-import { NavLink } from 'react-router-dom'
+import { NavLink,Link } from 'react-router-dom'
 import { icons } from '../assets'
 
 function Sidebar() {
   return (
     <div className='w-full h-[95vh] flex flex-col'>
-      <p className='text-white font-pricedown text-5xl'>Paletos</p>
+      <Link to='/' className='text-white font-pricedown text-5xl'>Paletos</Link>
       <div className="mt-[100px] w-full h-full flex-1 flex flex-col items-center gap-3">
         <NavLink 
           to="/" 
@@ -25,7 +25,7 @@ function Sidebar() {
           <img src={icons.analyticsIcon} alt="analytics" className='size-6 object-contain' />
           <p>Analytics</p>
         </NavLink> */}
-        <NavLink 
+        {/* <NavLink 
           to="/chatbot" 
           className={({ isActive }) => 
             `w-full py-2 px-4 rounded-2xl ${isActive ? 'bg-[#1D1C22]' : 'bg-transparent'} text-white font-chaletLondon text-lg flex gap-3`
@@ -33,7 +33,7 @@ function Sidebar() {
         >
           <img src={icons.messageIcon} alt="chatbot" className='size-6 object-contain' />
           <p>Chatbot</p>
-        </NavLink>
+        </NavLink> */}
         <NavLink 
           to="/upload" 
           className={({ isActive }) => 
