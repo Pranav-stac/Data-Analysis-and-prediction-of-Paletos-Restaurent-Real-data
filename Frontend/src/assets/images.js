@@ -1,3 +1,3 @@
-import login from "./images/login.png"
+import login from "./images/Login.png"
 
 export default { login }

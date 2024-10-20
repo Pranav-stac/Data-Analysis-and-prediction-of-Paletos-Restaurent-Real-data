@@ -49,7 +49,7 @@ function Home() {
 
     const handleFeedbackSubmit = async () => {
       try {
-          const response = await fetch('http://localhost:5000/feedback', {
+          const response = await fetch('https://stable-simply-porpoise.ngrok-free.app/feedback', {
               method: 'POST',
               headers: {
                   'Content-Type': 'application/json',
@@ -118,10 +118,10 @@ function Home() {
                             </div>
                         </div>
                     )}
+            
+                </div>
                 <div className="col-span-4 row-span-2 bg-[#111111] rounded-3xl">
                     <ReligionGraph />
-                </div>
-            
                 </div>
             </div>
         </div>
