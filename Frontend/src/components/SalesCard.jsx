@@ -20,7 +20,7 @@ function SalesCard({ data }) {
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ items_to_plot: [itemsToPlot] }),
+        body: JSON.stringify({ frequency: itemsToPlot.toLowerCase() }), // Updated to send frequency
       });
 
       if (!response.ok) {
@@ -36,6 +36,7 @@ function SalesCard({ data }) {
       setLoading(false);
     }
   };
+
 
   return (
     <div className='bg-[#11111] w-full h-full p-10 rounded-xl flex gap-4'>
