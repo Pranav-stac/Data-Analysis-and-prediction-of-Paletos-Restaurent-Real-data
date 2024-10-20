@@ -1,0 +1,936 @@
+Raw_Material,Category,Sub_Category,HSN_Code,Sap_Code,Unit,Date,Closing
+Fresh Strawberry,fresh fruits,,,,Kg,2024-07-31,0.0
+Ned Wine Res Sauvi Blance,,,,,BTL,2024-07-31,0.0
+Cake Base Round,bakery,,,,NOS,2024-07-31,150.0
+Tips,Tips,,,,NOS,2024-07-31,3.0
+Idli Wada,breakfast,,,,PCS,2024-07-31,0.0
+Chocolate Croissant Small,bakery,,,,PCS,2024-07-31,0.0
+Aa Battery,,,,,PCS,2024-07-31,0.0
+750 Ml Silver Container Lid,,,,,PCS,2024-07-31,0.0
+Ness Coffee,Coffee,Coffee,0,,PKT,2024-07-31,0.0
+Nescafe Sachet,Coffee,Coffee,0,,PKT,2024-07-31,4.0
+Frappe Powder,Coffee,Coffee,0,,PKT,2024-07-31,13.0
+Butterscotch,bakery,,,,PKT,2024-07-31,0.0
+Indri Single Malt Whisky,Bar,Whisky,0,,BTL,2024-07-31,0.0
+Fauconnier Liquer Triple Sec,Bar,Liquor,0,,BTL,2024-07-31,0.0
+Don Angel Rare Reserve Blanco Tequila,Bar,Liquor,0,,BTL,2024-07-31,0.0
+Yellow Tail Shiraz,Bar,Wine,0,,BTL,2024-07-31,0.0
+Wine Zonins Pinot Grigio Friuli,Bar,Wine,0,,BTL,2024-07-31,0.0
+Wine Zonin Chianti Ventiterre,Bar,Wine,0,,BTL,2024-07-31,0.0
+Two Oceans Pinotage,Bar,Wine,0,,BTL,2024-07-31,0.0
+The Source Sauvignon Blanc,Bar,Wine,0,,BTL,2024-07-31,0.0
+The Source Grenache Rose,Bar,Wine,0,,BTL,2024-07-31,0.0
+Sula Zinfandel Rose,Bar,Wine,0,,BTL,2024-07-31,0.0
+Sula Sauvignon Blanc,Bar,Wine,0,,BTL,2024-07-31,0.0
+Sula Satori Red Wine,Bar,Wine,0,,BTL,2024-07-31,0.0
+Sula Rasa Syrah Wine,Bar,Wine,0,,BTL,2024-07-31,0.0
+Sula Chenin Blanc,Bar,Wine,0,,BTL,2024-07-31,0.0
+Sula Brut Cremant De Nashik,Bar,Wine,0,,BTL,2024-07-31,0.0
+Sparking Mateus Rose,Bar,Wine,0,,BTL,2024-07-31,0.0
+Reveilo Merlot,Bar,Wine,0,,BTL,2024-07-31,0.0
+Reveilo Chardonnay,Bar,Wine,0,,BTL,2024-07-31,0.0
+Reveilo Cabernet Sauvignon,Bar,Wine,0,,BTL,2024-07-31,0.0
+Red La Reserve,Bar,Wine,0,,BTL,2024-07-31,0.0
+Nederburg Sauvignon Blanc,Bar,Wine,0,,BTL,2024-07-31,0.0
+Mateus Rose,Bar,Wine,0,,BTL,2024-07-31,0.0
+Jacob S Creek Classic Chardonnay,Bar,Wine,0,,BTL,2024-07-31,0.0
+Jacob S Creek Classic Caberne Shirz,Bar,Wine,0,,BTL,2024-07-31,0.0
+Jacobs Creek Cabernet Shiraz,Bar,Wine,0,,BTL,2024-07-31,0.0
+Grv Cab Shiraz,Bar,Wine,0,,BTL,2024-07-31,0.0
+Cono Sur Pinot Noir,Bar,Wine,0,,BTL,2024-07-31,0.0
+B&g Merlot Reserve Varietal,Bar,Wine,0,,BTL,2024-07-31,0.0
+B & G Cab Sauvignon Reserve,Bar,Wine,0,,BTL,2024-07-31,0.0
+Signature Rare Aged,Bar,Whisky,0,,BTL,2024-07-31,0.0
+Signature,Bar,Whisky,0,,BTL,2024-07-31,0.0
+Royal Challenge,Bar,Whisky,0,,BTL,2024-07-31,0.0
+Monkey Shoulder,Bar,Whisky,0,,BTL,2024-07-31,0.0
+Legacy Premium,Bar,Whisky,0,,BTL,2024-07-31,0.0
+Blenders Pride,Bar,Whisky,0,,BTL,2024-07-31,0.0
+Antiquity Blue,Bar,Whisky,0,,BTL,2024-07-31,0.0
+Siempre Silver Tequila,Bar,Tequila,0,,BTL,2024-07-31,0.0
+The Glenlivet 15 Y,Bar,Single Malt,0,,BTL,2024-07-31,0.0
+The Glenlivet 12 Years,Bar,Single Malt,0,,BTL,2024-07-31,0.0
+Paul John,Bar,Single Malt,0,,BTL,2024-07-31,0.0
+Laphroaig 10 Yo,Bar,Single Malt,0,,BTL,2024-07-31,0.0
+Lagavulin16 Y.o Mlt,Bar,Single Malt,0,,BTL,2024-07-31,0.0
+Glenmorrangie,Bar,Single Malt,0,,BTL,2024-07-31,0.0
+Glenfiddich 18,Bar,Single Malt,0,,BTL,2024-07-31,0.0
+Glenfiddich 15,Bar,Single Malt,0,,BTL,2024-07-31,0.0
+Glenfiddich 12,Bar,Single Malt,0,,BTL,2024-07-31,0.0
+Vat 69,Bar,Scotch Whisky,0,,BTL,2024-07-31,0.0
+Teachers Highland Cream,Bar,Scotch Whisky,0,,BTL,2024-07-31,0.0
+Teachers 50,Bar,Scotch Whisky,0,,BTL,2024-07-31,0.0
+Jw Gold Reserve,Bar,Scotch Whisky,0,,BTL,2024-07-31,0.0
+Johnnie Walker Blonde,Bar,Scotch Whisky,0,,BTL,2024-07-31,0.0
+J W Red Label,Bar,Scotch Whisky,0,,BTL,2024-07-31,0.0
+J W Double Black,Bar,Scotch Whisky,0,,BTL,2024-07-31,0.0
+J W Black Label,Bar,Scotch Whisky,0,,BTL,2024-07-31,0.0
+J & B Rare,Bar,Scotch Whisky,0,,BTL,2024-07-31,0.0
+Chivas Regal 18 Yrs,Bar,Scotch Whisky,0,,BTL,2024-07-31,0.0
+Chivas Regal 12 Yrs,Bar,Scotch Whisky,0,,BTL,2024-07-31,0.0
+Black Dog Triple Gold Reserve,Bar,Scotch Whisky,0,,BTL,2024-07-31,0.0
+Black & White,Bar,Scotch Whisky,0,,BTL,2024-07-31,0.0
+Ballantine S Finest,Bar,Scotch Whisky,0,,BTL,2024-07-31,0.0
+100 Piper,Bar,Scotch Whisky,0,,BTL,2024-07-31,0.0
+Old Monk Rum,Bar,Rum,0,,BTL,2024-07-31,0.0
+Captain Morgan Original,Bar,Rum,0,,BTL,2024-07-31,0.0
+Bacardi Reserva Ocho,Bar,Rum,0,,BTL,2024-07-31,0.0
+Bacardi Limon,Bar,Rum,0,,BTL,2024-07-31,0.0
+Bacardi,Bar,Rum,0,,BTL,2024-07-31,0.0
+Jagermeister,Bar,Liqueur,0,,BTL,2024-07-31,0.0
+Irish Whisky Jameson Triple Distilled,Bar,Liqueur,0,,BTL,2024-07-31,0.0
+Campari,Bar,Liqueur,0,,BTL,2024-07-31,0.0
+Bols Curacao Triple Sec,Bar,Liqueur,0,,BTL,2024-07-31,0.0
+Blue Curacao,Bar,Liqueur,0,,BTL,2024-07-31,0.0
+Baileys Irish Cream,Bar,Liqueur,0,,BTL,2024-07-31,0.0
+Tanqueray Gin,Bar,Gin & Vodka,0,,BTL,2024-07-31,0.0
+Smiroff Green Apple,Bar,Gin & Vodka,0,,BTL,2024-07-31,0.0
+Smirnoff,Bar,Gin & Vodka,0,,BTL,2024-07-31,0.0
+Monkey 47,Bar,Gin & Vodka,0,,BTL,2024-07-31,0.0
+Ketel One,Bar,Gin & Vodka,0,,BTL,2024-07-31,0.0
+Hendricks,Bar,Gin & Vodka,0,,BTL,2024-07-31,0.0
+Gordons Dry,Bar,Gin & Vodka,0,,BTL,2024-07-31,0.0
+Grey Goose Vodka,Bar,Gin & Vodka,0,,BTL,2024-07-31,0.0
+Ciroc Vodka,Bar,Gin & Vodka,0,,BTL,2024-07-31,0.0
+Botanist,Bar,Gin & Vodka,0,,BTL,2024-07-31,0.0
+Bombay Sapphire,Bar,Gin & Vodka,0,,BTL,2024-07-31,0.0
+Belvedere Vodka,Bar,Gin & Vodka,0,,BTL,2024-07-31,0.0
+Absolut Vodka,Bar,Gin & Vodka,0,,BTL,2024-07-31,0.0
+The Botanist,Bar,Gin & Vodka,0,,BTL,2024-07-31,0.0
+Mc Dowell Blue Riband Dry,Bar,Gin & Vodka,0,,BTL,2024-07-31,0.0
+Martell V S,Bar,Cognac,0,,BTL,2024-07-31,0.0
+Hennessy Vsop,Bar,Cognac,0,,BTL,2024-07-31,0.0
+Budweiser Magnum,bar,Beer,0,,BTL,2024-07-31,0.0
+Amrut Amalgam,bar,Single Malt,0,,BTL,2024-07-31,0.0
+Breezer Passion,bar,,0,,BTL,2024-07-31,0.0
+Morpheus Blue Xo Pr,bar,,0,,BTL,2024-07-31,0.0
+Jim Beam,bar,,0,,BTL,2024-07-31,0.0
+Jack Daniels,bar,,0,,BTL,2024-07-31,0.0
+Bira White,bar,,0,,BTL,2024-07-31,0.0
+Kingfisher Ultra,bar,,0,,BTL,2024-07-31,0.0
+Kingfisher Strong,bar,,0,,BTL,2024-07-31,0.0
+Kingfisher,bar,,0,,BTL,2024-07-31,0.0
+Hoegaarden Belgian,bar,,0,,BTL,2024-07-31,0.0
+Heineken Silver,bar,,0,,BTL,2024-07-31,0.0
+Heineken,bar,,0,,BTL,2024-07-31,0.0
+Corona,bar,,0,,BTL,2024-07-31,0.0
+Carlsberg,bar,,0,,BTL,2024-07-31,0.0
+Budweiser,bar,Beer,0,,BTL,2024-07-31,0.0
+The Jura 12yrs Single Malt Scotch,bar,,,,BTL,2024-07-31,0.0
+The Dalmore 12yrs Single Malt,bar,,,,BTL,2024-07-31,0.0
+The Dalmore 15yrs H. Single Malt Scotch,bar,,,,BTL,2024-07-31,0.0
+The Glenlivet 18yrs Single Malt Scotch,bar,,,,BTL,2024-07-31,0.0
+Breezer Cranberrry,bar,,,,BTL,2024-07-31,0.0
+Macallan 12 Yo Trpcsk (t),bar,,,,BTL,2024-07-31,0.0
+Kingfisher Ultra Max,bar,Beer,,,BTL,2024-07-31,0.0
+Macallan 15yo Double Cask,bar,Single Malt,,,BTL,2024-07-31,0.0
+White Chocolate,Bakery,,0,,Kg,2024-07-31,0.0
+Yellow Banana Chips,Bakery,,0,,Kg,2024-07-31,1.0
+White Compound,Bakery,,0,,Kg,2024-07-31,0.0
+Spicy Banana Chips (red),Bakery,,0,,Kg,2024-07-31,4.0
+Dark White Compound Chips,Bakery,,0,,Kg,2024-07-31,0.0
+Dark Compound,Bakery,,0,,Kg,2024-07-31,0.0
+Dark Chocolate 2.5kg,Bakery,Food Ingredients,0,,Kg,2024-07-31,0.0
+Dark Chocolate,Bakery,Food Ingredients,0,,Kg,2024-07-31,0.0
+Custard Powder,Bakery,Food Ingredients,0,,Kg,2024-07-31,9.0
+Cocoa Powder,Bakery,Food Ingredients,0,,Kg,2024-07-31,0.0
+Choco Chips,Bakery,Food Ingredients,0,,Kg,2024-07-31,0.0
+Bread Improver,Bakery,Food Ingredients,0,,Kg,2024-07-31,0.0
+Bonomelli Polenta,Bakery,Food Ingredients,0,,Kg,2024-07-31,0.0
+Blueberry Filling,Bakery,Food Ingredients,0,,Kg,2024-07-31,0.0
+Biscoff Spread,Bakery,Food Ingredients,0,,JAR,2024-07-31,1.0
+Wafer Chips,Bakery,,0,,PKT,2024-07-31,3.0
+Tortilla Bread,Bakery,Food Ingredients,0,,PKT,2024-07-31,0.0
+Drinking Chocolate,Bakery,Food Ingredients,0,,PKT,2024-07-31,1.0
+Dairy Cream Sachet,Bakery,Food Ingredients,0,,PKT,2024-07-31,1.0
+Green Vatana,Grocery,Dal,0,,Kg,2024-07-31,0.0
+Balar Dal,Grocery,Dal,0,,Kg,2024-07-31,0.0
+Gluten,Grocery,,0,,Kg,2024-07-31,0.0
+White Vatana,Grocery,,0,,Kg,2024-07-31,0.0
+Soya Keema,Grocery,,0,,Kg,2024-07-31,0.0
+Shiitake Mushroom,Grocery,,0,,Kg,2024-07-31,0.8
+Sheera Rava,Grocery,,0,,Kg,2024-07-31,0.0
+Salt Whole,Grocery,,0,,Kg,2024-07-31,2.0
+Sabudana,Grocery,,0,,Kg,2024-07-31,3.0
+Potato Starch,Grocery,,0,,Kg,2024-07-31,9.0
+Poha,Grocery,,0,,Kg,2024-07-31,0.0
+Peanut Roasted,Grocery,,0,,Kg,2024-07-31,6.0
+Peanut Raw,Grocery,,0,,Kg,2024-07-31,1.0
+Lemon Pickle,Grocery,,0,,Kg,2024-07-31,10.0
+Imli,Grocery,,0,,Kg,2024-07-31,4.5
+Idli Rava,Grocery,,0,,Kg,2024-07-31,0.0
+Farsan,Grocery,,0,,Kg,2024-07-31,0.0
+Daliya,Grocery,,0,,Kg,2024-07-31,0.0
+Dalda,Grocery,,0,,Kg,2024-07-31,7.0
+Corn Flour,Grocery,,0,,Kg,2024-07-31,16.0
+Coconut Powder,Grocery,,0,,Kg,2024-07-31,0.0
+Coconut Dry,Grocery,,0,,Kg,2024-07-31,0.0
+Citric Acid,Grocery,,0,,Kg,2024-07-31,0.5
+Chawli Dal,Grocery,,0,,Kg,2024-07-31,0.0
+Char Magaz,Grocery,,0,,Kg,2024-07-31,3.0
+Bread Crumbs Penko,Grocery,,0,,Kg,2024-07-31,6.0
+Boondi,Grocery,,0,,Kg,2024-07-31,0.5
+Black Salt Powder,Grocery,,0,,Kg,2024-07-31,2.0
+Sugar,Grocery,Sugar,0,,Kg,2024-07-31,45.0
+Palm Sugar,Grocery,Sugar,0,,Kg,2024-07-31,1.5
+Icing Sugar,Grocery,Sugar,0,,Kg,2024-07-31,17.0
+Demerara Sugar,Grocery,Sugar,0,,Kg,2024-07-31,4.0
+Castor Sugar,Grocery,Sugar,0,,Kg,2024-07-31,0.5
+Yellow Chilli Powder,Grocery,Spices,0,,Kg,2024-07-31,0.5
+White Pepper Powder,Grocery,Spices,0,,Kg,2024-07-31,2.5
+Trifala,Grocery,Spices,0,,Kg,2024-07-31,0.25
+Tej Patta,Grocery,Spices,0,,Kg,2024-07-31,0.45
+Star Fool,Grocery,Spices,0,,Kg,2024-07-31,0.95
+Peri Peri Masala,Grocery,Spices,0,,Kg,2024-07-31,0.0
+Pandi Chilli,Grocery,Spices,0,,Kg,2024-07-31,0.25
+Methi (w),Grocery,Spices,0,,Kg,2024-07-31,0.45
+Laung,Grocery,Spices,0,,Kg,2024-07-31,0.3
+Kashmiri Chilli,Grocery,Spices,0,,Kg,2024-07-31,12.9
+Kalonji,Grocery,Spices,0,,Kg,2024-07-31,0.0
+Jeera Whole,Grocery,Spices,0,,Kg,2024-07-31,0.0
+Jeera Powder,Grocery,Spices,0,,Kg,2024-07-31,3.0
+Javantry,Grocery,Spices,0,,Kg,2024-07-31,0.2
+Jaiphal,Grocery,Spices,0,,Kg,2024-07-31,0.2
+Haldi Powder,Grocery,Spices,0,,Kg,2024-07-31,2.0
+Green Elaichi,Grocery,Spices,0,,Kg,2024-07-31,0.75
+Ghati Masala,Grocery,Spices,0,,Kg,2024-07-31,0.3
+Garam Masala,Grocery,Spices,0,,Kg,2024-07-31,0.0
+Dry Ginger,Grocery,Spices,0,,Kg,2024-07-31,0.0
+Dhaniya Whole,Grocery,Spices,0,,Kg,2024-07-31,1.0
+Dhaniya Powder,Grocery,Spices,0,,Kg,2024-07-31,2.0
+Dalchini Powder,Grocery,Spices,0,,Kg,2024-07-31,0.0
+Dagad Phool,Grocery,Spices,0,,Kg,2024-07-31,0.2
+Cinnamon (dalchini),Grocery,Spices,0,,Kg,2024-07-31,0.0
+Chilli Flakes,Grocery,Spices,0,,Kg,2024-07-31,2.0
+Bor Chilli,Grocery,Spices,0,,Kg,2024-07-31,3.0
+Black Pepper Whole,Grocery,Spices,0,,Kg,2024-07-31,0.9
+Black Pepper Powder,Grocery,Spices,0,,Kg,2024-07-31,1.0
+Black Fungus,Grocery,Spices,0,,Kg,2024-07-31,0.65
+Black Elaichi,Grocery,Spices,0,,Kg,2024-07-31,0.35
+Bedki Chilli Dry,Grocery,Spices,0,,Kg,2024-07-31,0.0
+Amchur Powder,Grocery,Spices,0,,Kg,2024-07-31,0.0
+Almond Powder,Grocery,Spices,0,,Kg,2024-07-31,0.0
+Ajwain,Grocery,Spices,0,,Kg,2024-07-31,0.85
+White Till,Grocery,Seeds,0,,Kg,2024-07-31,3.6
+Rai,Grocery,Seeds,0,,Kg,2024-07-31,0.9
+Black Till,Grocery,Seeds,0,,Kg,2024-07-31,1.5
+Black Beans Seed,Grocery,Seeds,0,,Kg,2024-07-31,0.0
+Bajra,Grocery,Seeds,0,,Kg,2024-07-31,3.0
+Badi Sunf,Grocery,Seeds,0,,Kg,2024-07-31,0.2
+Ukda Rice Brown,Grocery,Rice,0,,Kg,2024-07-31,2.0
+Staff Rice,Grocery,Rice,0,,Kg,2024-07-31,0.0
+Risotto Rice,Grocery,Rice,0,,Kg,2024-07-31,0.0
+Jasmine Rice,Grocery,Rice,0,,Kg,2024-07-31,4.0
+Basmati Rice,Grocery,Rice,0,,Kg,2024-07-31,61.0
+Appam Rice,Grocery,Rice,0,,Kg,2024-07-31,17.0
+Chilli Pickle,Grocery,Pickle,0,,Kg,2024-07-31,0.0
+Yellow Kirin Soft Flour,Grocery,Flour,0,,Kg,2024-07-31,0.0
+Tempura Flour,Grocery,Flour,0,,Kg,2024-07-31,20.0
+Rice Atta,Grocery,Flour,0,,Kg,2024-07-31,5.0
+Rajgiri Atta,Grocery,Flour,0,,Kg,2024-07-31,0.0
+Phulka Atta,Grocery,Flour,0,,Kg,2024-07-31,0.0
+Makai Atta,Grocery,Flour,0,,Kg,2024-07-31,6.0
+Maida,Grocery,Flour,0,,Kg,2024-07-31,49.0
+Dhokla Atta,Grocery,Flour,0,,Kg,2024-07-31,0.0
+Churma Atta,Grocery,Flour,0,,Kg,2024-07-31,5.0
+Blue Bird Maida,Grocery,Flour,0,,Kg,2024-07-31,6.0
+Besan,Grocery,Flour,0,,Kg,2024-07-31,10.0
+Bajra Atta,Grocery,Flour,0,,Kg,2024-07-31,0.0
+Atta,Grocery,Flour,0,,Kg,2024-07-31,5.0
+Walnuts,Grocery,Dry Fruits,0,,Kg,2024-07-31,0.0
+Pista,Grocery,Dry Fruits,0,,Kg,2024-07-31,0.1
+Kishmish,Grocery,Dry Fruits,0,,Kg,2024-07-31,1.3
+Khajur,Grocery,Dry Fruits,0,,Kg,2024-07-31,5.0
+Kaju Whole,Grocery,Dry Fruits,0,,Kg,2024-07-31,0.2
+Kaju Tukda,Grocery,Dry Fruits,0,,Kg,2024-07-31,9.5
+Almond,Grocery,Dry Fruits,0,,Kg,2024-07-31,0.0
+White Chana,Grocery,Dal,0,,Kg,2024-07-31,0.0
+Toor Dal,Grocery,Dal,0,,Kg,2024-07-31,22.0
+Rajma Chitra,Grocery,Dal,0,,Kg,2024-07-31,5.5
+Moong Whole,Grocery,Dal,0,,Kg,2024-07-31,0.0
+Moong Dal,Grocery,Dal,0,,Kg,2024-07-31,6.0
+Matki Dal,Grocery,Dal,0,,Kg,2024-07-31,0.0
+Masoor Whole,Grocery,Dal,0,,Kg,2024-07-31,4.0
+Masoor Dal,Grocery,Dal,0,,Kg,2024-07-31,0.0
+Kabuli Chana,Grocery,Dal,0,,Kg,2024-07-31,4.5
+Chana Dal,Grocery,Dal,0,,Kg,2024-07-31,1.5
+Black Dal,Grocery,Dal,0,,Kg,2024-07-31,16.9
+Black Chana,Grocery,Dal,0,,Kg,2024-07-31,0.0
+Green Peppercorn,Grocery,,0,,BTL,2024-07-31,1.0
+French Mustard,Grocery,,0,,BTL,2024-07-31,4.0
+Dijon Mustard,Grocery,,0,,BTL,2024-07-31,2.0
+Eno Regular,Grocery,,0,,BTL,2024-07-31,2.0
+Hing Powder,Grocery,Spices,0,,BTL,2024-07-31,5.0
+Jamaican Jerk Seasonings,Grocery,Spices,0,,JAR,2024-07-31,2.0
+Chapati For Staff,Grocery,,0,,PCS,2024-07-31,0.0
+Digestive Biscuit,Grocery,Biscuits,0,,PKT,2024-07-31,3.0
+Soba Noodles,Grocery,,0,,PKT,2024-07-31,12.0
+Salt Tata,Grocery,,0,,PKT,2024-07-31,30.0
+Salt Sachet,Grocery,,0,,PKT,2024-07-31,1.0
+Pepper Sachet,Grocery,,0,,PKT,2024-07-31,0.0
+Papdi,Grocery,,0,,PKT,2024-07-31,0.0
+Papad Big,Grocery,,0,,PKT,2024-07-31,10.0
+Oreo Biscuit,Grocery,,0,,PKT,2024-07-31,0.0
+Nutrela Soya,Grocery,,0,,PKT,2024-07-31,3.0
+Nature Jaggery,Grocery,,0,,PKT,2024-07-31,2.0
+Mix Pickle,Grocery,,0,,PKT,2024-07-31,0.0
+Khichiya Papad,Grocery,,0,,PKT,2024-07-31,2.0
+Jaggery Powder Sachet,Grocery,,0,,PKT,2024-07-31,32.0
+Falooda,Grocery,,0,,PKT,2024-07-31,1.0
+Corn Flakes,Grocery,,0,,PKT,2024-07-31,0.0
+Coconut Milk Powder,Grocery,,0,,PKT,2024-07-31,5.0
+Baking Soda,Grocery,,0,,PKT,2024-07-31,0.0
+After Mint T One,Grocery,,0,,PKT,2024-07-31,31.0
+After Mint M Pot,Grocery,,0,,PKT,2024-07-31,15.0
+Everyday Milk Powder,Grocery,,0,,PKT,2024-07-31,5.0
+Dry Yeast,Grocery,,0,,PKT,2024-07-31,0.0
+Bread Slice,Grocery,,0,,PKT,2024-07-31,0.0
+Sugar Free,Grocery,Sugar,0,,PKT,2024-07-31,2.0
+Sugar 5 Gm,Grocery,Sugar,0,,PKT,2024-07-31,9.0
+Demerara Sugar 5 Gm,Grocery,Sugar,0,,PKT,2024-07-31,4.0
+Togarashi Powder,Grocery,Spices,0,,PKT,2024-07-31,3.0
+Sambhar Masala,Grocery,Spices,0,,PKT,2024-07-31,0.0
+Saffron (kesar),Grocery,Spices,0,,PKT,2024-07-31,2.0
+Rasam Powder,Grocery,Spices,0,,PKT,2024-07-31,5.0
+Pav Bhaji Masala,Grocery,Spices,0,,PKT,2024-07-31,5.0
+Meat Masala,Grocery,Spices,0,,PKT,2024-07-31,8.0
+Maggi Cube Veg,Grocery,Spices,0,,PKT,2024-07-31,7.0
+Kitchen King,Grocery,Spices,0,,PKT,2024-07-31,2.0
+Khichu Masala,Grocery,Spices,0,,PKT,2024-07-31,1.0
+Kasuri Methi,Grocery,Spices,0,,PKT,2024-07-31,15.0
+Kashmiri Chilli Powder,Grocery,Spices,0,,PKT,2024-07-31,3.0
+Jal Jeera,Grocery,Spices,0,,PKT,2024-07-31,1.0
+Chicken Masala,Grocery,Spices,0,,PKT,2024-07-31,2.0
+Chicken Broth Powder,Grocery,Spices,0,,PKT,2024-07-31,0.0
+Chat Masala,Grocery,Spices,0,,PKT,2024-07-31,13.0
+Chana Masala,Grocery,Spices,0,,PKT,2024-07-31,0.0
+Black Pepper Sachet,Grocery,Spices,0,,PKT,2024-07-31,1.0
+Baking Powder,Grocery,Spices,0,,PKT,2024-07-31,2.0
+Aromatic Powder,Grocery,Spices,0,,PKT,2024-07-31,2.0
+Agar Agar Powder,Grocery,Spices,0,,PKT,2024-07-31,0.0
+Whole Wheat Penne,Grocery,Pasta,0,,PKT,2024-07-31,2.0
+Spaghetti Pasta,Grocery,Pasta,0,,PKT,2024-07-31,4.0
+Penne Pasta,Grocery,Pasta,0,,PKT,2024-07-31,7.0
+Macaroni Pasta,Grocery,Pasta,0,,PKT,2024-07-31,2.0
+Lasagna Sheet,Grocery,Pasta,0,,PKT,2024-07-31,1.0
+Fusili Pasta,Grocery,Pasta,0,,PKT,2024-07-31,2.0
+Farfale Pasta,Grocery,Pasta,0,,PKT,2024-07-31,2.0
+Madras Curry Powder,Grocery,Spices,0,,TIN,2024-07-31,1.0
+Sea Salt (kg),grocery,,0,,Kg,2024-07-31,0.0
+Jaggery Powder,grocery,,,,Kg,2024-07-31,2.0
+Green Cucumber,grocery,,,,Kg,2024-07-31,0.0
+Gulkand,grocery,,,,Kg,2024-07-31,0.0
+White Urad Dal,grocery,Dal,,,Kg,2024-07-31,16.0
+Cake Base Round Big,grocery,,,,NOS,2024-07-31,0.0
+Chikki,grocery,,,,PKT,2024-07-31,0.0
+Gas Bill,Accounts,Gas Expenses,,,NOS,2024-07-31,1.0
+Electricity Bill,Accounts,Electricity Bill,,,NOS,2024-07-31,3.0
+Repair Works,Accounts,Repair & Maintenance,,,NOS,2024-07-31,7.0
+Medical Expenses,Accounts,Medical,,,NOS,2024-07-31,1.0
+Rubber Ring Mat,Accounts,Vendor,,,NOS,2024-07-31,0.0
+Sev Puri,Accounts,Boss Expenses,,,NOS,2024-07-31,3.0
+Stationary,Accounts,Printing & Stationary,,,NOS,2024-07-31,13.0
+Home Delivery (conv),Accounts,Conveyance,,,NOS,2024-07-31,1.0
+Incentives,Accounts,Incentives & Commissions,,,NOS,2024-07-31,2.0
+Car Wash,Accounts,Repair & Maintenance,,,NOS,2024-07-31,14.0
+Amazon & Flipkart,Accounts,Amazon & Flipkart,,,NOS,2024-07-31,1.0
+Nagesh Shetty,Accounts,Conveyance,,,NOS,2024-07-31,1.0
+Ravindra Shetty,Accounts,Conveyance,,,NOS,2024-07-31,5.0
+Shambhu,Accounts,Conveyance,,,NOS,2024-07-31,1.0
+Pooja Expenses,Accounts,Pooja,,,NOS,2024-07-31,12.0
+Flower For Mpot,Accounts,Flowers,,,NOS,2024-07-31,1.0
+Printing,Accounts,Printing & Stationary,,,NOS,2024-07-31,1.0
+Cling Foil,Non Food,,0,,ROLL,2024-07-31,6.0
+A4 Size Paper,Non Food,,0,,RIM,2024-07-31,8.0
+Garbage Bags,Non Food,H.k Materials,0,,Kg,2024-07-31,31.0
+Lemon Grass Liquid,Non Food,H.k Materials,0,,BTL,2024-07-31,4.0
+Harpic,Non Food,H.k Materials,0,,BTL,2024-07-31,0.0
+Hand Wash Kimberly Clerk 1ltr,Non Food,H.k Materials,0,,BTL,2024-07-31,0.0
+Floor Cleaner,Non Food,H.k Materials,0,,BTL,2024-07-31,1.0
+Clorex,Non Food,H.k Materials,0,,BTL,2024-07-31,6.0
+Shower Gel 5l,Non Food,H.k Materials,0,,CAN,2024-07-31,0.0
+Shampoo 5l,Non Food,H.k Materials,0,,CAN,2024-07-31,0.0
+Reva-m Rinse,Non Food,H.k Materials,0,,CAN,2024-07-31,1.0
+Reva-m Det,Non Food,H.k Materials,0,,CAN,2024-07-31,1.0
+Reva R6,Non Food,H.k Materials,0,,CAN,2024-07-31,0.0
+Reva R5,Non Food,H.k Materials,0,,CAN,2024-07-31,0.0
+Reva R4,Non Food,H.k Materials,0,,CAN,2024-07-31,0.0
+Reva R2,Non Food,H.k Materials,0,,CAN,2024-07-31,0.0
+Reva R1,Non Food,H.k Materials,0,,CAN,2024-07-31,0.0
+Hand Wash 5 Ltr,Non Food,H.k Materials,0,,CAN,2024-07-31,0.0
+Glass Cleaner,Non Food,H.k Materials,0,,CAN,2024-07-31,0.0
+Body Lotion 5l,Non Food,H.k Materials,0,,CAN,2024-07-31,0.0
+White Phenyle,Non Food,H.k Materials,0,,LTR,2024-07-31,10.0
+Sanitizer,Non Food,H.k Materials,0,,LTR,2024-07-31,0.0
+Liquid Soup,Non Food,H.k Materials,0,,LTR,2024-07-31,155.0
+Bath Towels,Non Food,Others,0,,NOS,2024-07-31,0.0
+Aluminium Dia,Non Food,Others,0,,NOS,2024-07-31,0.0
+Buckets,Non Food,H.k Materials,0,,NOS,2024-07-31,0.0
+Register Book,Non Food,,0,,NOS,2024-07-31,6.0
+Push Pump,Non Food,,0,,NOS,2024-07-31,2.0
+Printer Cartridges,Non Food,,0,,NOS,2024-07-31,2.0
+Pencil Battery,Non Food,,0,,NOS,2024-07-31,0.0
+Pencil,Non Food,,0,,NOS,2024-07-31,0.0
+Pen,Non Food,,0,,NOS,2024-07-31,25.0
+Note Book,Non Food,,0,,NOS,2024-07-31,3.0
+Marker,Non Food,,0,,NOS,2024-07-31,8.0
+Kot Roll,Non Food,,0,,NOS,2024-07-31,87.0
+Kot Book,Non Food,,0,,NOS,2024-07-31,0.0
+Kitchen Roll Dispencer,Non Food,,0,,NOS,2024-07-31,0.0
+Kitchen Roll,Non Food,,0,,NOS,2024-07-31,0.0
+Keyboard,Non Food,,0,,NOS,2024-07-31,1.0
+Hrt Roll Big,Non Food,,0,,NOS,2024-07-31,0.0
+Fevi Kwik,Non Food,,0,,NOS,2024-07-31,2.0
+Duracell,Non Food,,0,,NOS,2024-07-31,0.0
+Cello Tape,Non Food,,0,,NOS,2024-07-31,24.0
+Carbon Paper,Non Food,,0,,NOS,2024-07-31,0.0
+Scrub Pad,Non Food,U.t Materials,0,,NOS,2024-07-31,13.0
+Wiper,Non Food,H.k Materials,0,,NOS,2024-07-31,3.0
+Plastic Broom,Non Food,H.k Materials,0,,NOS,2024-07-31,0.0
+Mop Set,Non Food,H.k Materials,0,,NOS,2024-07-31,1.0
+Mop Rod,Non Food,H.k Materials,0,,NOS,2024-07-31,3.0
+Mop Refill,Non Food,H.k Materials,0,,NOS,2024-07-31,2.0
+Mop Clip,Non Food,H.k Materials,0,,NOS,2024-07-31,1.0
+Hard Broom,Non Food,H.k Materials,0,,NOS,2024-07-31,4.0
+Glass Wiper,Non Food,H.k Materials,0,,NOS,2024-07-31,1.0
+Garbage Bags Small,Non Food,H.k Materials,0,,NOS,2024-07-31,0.0
+Garbage Bags Medium,Non Food,H.k Materials,0,,NOS,2024-07-31,12.0
+Garbage Bags Large,Non Food,H.k Materials,0,,NOS,2024-07-31,0.0
+Floor Duster,Non Food,H.k Materials,0,,NOS,2024-07-31,6.0
+Dustpan (supri),Non Food,H.k Materials,0,,NOS,2024-07-31,0.0
+Ceiling Broom,Non Food,H.k Materials,0,,NOS,2024-07-31,8.0
+Paper Bag Small,Non Food,Disposable,0,,NOS,2024-07-31,200.0
+Paper Bag Big,Non Food,Disposable,0,,NOS,2024-07-31,150.0
+Lunch Box Small,Non Food,Disposable,0,,NOS,2024-07-31,0.0
+Lunch Box Big,Non Food,Disposable,0,,NOS,2024-07-31,1000.0
+Heat Sealable Bag Small,Non Food,Disposable,0,,NOS,2024-07-31,0.0
+Face Tissue,Non Food,Disposable,0,,NOS,2024-07-31,0.0
+Butter Paper,Non Food,Disposable,0,,NOS,2024-07-31,0.0
+Pet Bottle,Non Food,Disposable,0,,PCS,2024-07-31,100.0
+Hand Towel,Non Food,Others,0,,PCS,2024-07-31,0.0
+Shoe Shine Box,Non Food,H.k Materials,0,,PCS,2024-07-31,0.0
+Shaving Kit,Non Food,H.k Materials,0,,PCS,2024-07-31,0.0
+Check Duster,Non Food,,0,,PCS,2024-07-31,17.0
+Box File,Non Food,,0,,PCS,2024-07-31,4.0
+Steel Scrubber,Non Food,U.t Materials,0,,PCS,2024-07-31,14.0
+Urine Mat,Non Food,H.k Materials,0,,PCS,2024-07-31,2.0
+Toilet Hockey Brush,Non Food,H.k Materials,0,,PCS,2024-07-31,2.0
+Mop Refill 300 Gm,Non Food,H.k Materials,0,,PCS,2024-07-31,4.0
+Dental Kit,Non Food,H.k Materials,0,,PCS,2024-07-31,0.0
+Comb,Non Food,H.k Materials,0,,PCS,2024-07-31,0.0
+Bathing Bar (soap),Non Food,H.k Materials,0,,PCS,2024-07-31,0.0
+Wonder Wipe,Non Food,Disposable,0,,PCS,2024-07-31,30.0
+Silver Foil,Non Food,Disposable,0,,PCS,2024-07-31,4.0
+Coffee Cups 250 Ml,Non Food,Disposable,0,,PCS,2024-07-31,150.0
+Coffee Cup Lid 450 Ml,Non Food,Disposable,0,,PCS,2024-07-31,1925.0
+Coffee Cup Lid 350 Ml,Non Food,Disposable,0,,PCS,2024-07-31,1725.0
+Coffee Cup Lid 250 Ml,Non Food,Disposable,0,,PCS,2024-07-31,2550.0
+Coffee Cup 350 Ml,Non Food,Disposable,0,,PCS,2024-07-31,1529.0
+Cake Box Small,Non Food,Disposable,0,,PCS,2024-07-31,0.0
+Cake Box Big,Non Food,Disposable,0,,PCS,2024-07-31,0.0
+Hand Gloves Surgical,Non Food,Disposable,0,,PKT,2024-07-31,2.0
+Kirana Bag,Non Food,,0,,PKT,2024-07-31,1.0
+Good Night Mosquito,Non Food,,0,,PKT,2024-07-31,0.0
+Envelope,Non Food,,0,,PKT,2024-07-31,25.0
+Surf Powder,Non Food,U.t Materials,0,,PKT,2024-07-31,0.0
+Pitambari,Non Food,U.t Materials,0,,PKT,2024-07-31,11.0
+Caustic Soda,Non Food,U.t Materials,0,,PKT,2024-07-31,3.0
+Toilet Round Brush,Non Food,H.k Materials,0,,PKT,2024-07-31,1.0
+Toilet Roll,Non Food,H.k Materials,0,,PKT,2024-07-31,22.0
+Naphthalene,Non Food,H.k Materials,0,,PKT,2024-07-31,18.0
+Ettarra Coasters,Non Food,Disposable,0,,PKT,2024-07-31,0.0
+Tenone Stickers,Non Food,Disposable,0,,PKT,2024-07-31,7000.0
+Tenone Coasters,Non Food,Disposable,0,,PKT,2024-07-31,5000.0
+Melting Pot Stickers,Non Food,Disposable,0,,PKT,2024-07-31,5000.0
+Melting Pot Coasters,Non Food,Disposable,0,,PKT,2024-07-31,0.0
+Wooden Stirrer,Non Food,Disposable,0,,PKT,2024-07-31,2.0
+Wooden Spoon,Non Food,Disposable,0,,PKT,2024-07-31,0.0
+Wooden Fork,Non Food,Disposable,0,,PKT,2024-07-31,4.0
+Tooth Pick Taj,Non Food,Disposable,0,,PKT,2024-07-31,2.0
+Tooth Pick 500 Pc,Non Food,Disposable,0,,PKT,2024-07-31,13.0
+Tissue Paper Ten One,Non Food,Disposable,0,,PKT,2024-07-31,220.0
+Tissue Paper Melting Pot,Non Food,Disposable,0,,PKT,2024-07-31,140.0
+Tissue Paper Ettarra,Non Food,Disposable,0,,PKT,2024-07-31,58.0
+Straws,Non Food,Disposable,0,,PKT,2024-07-31,0.0
+Stirrers With Logo Small,Non Food,Disposable,0,,PKT,2024-07-31,0.0
+Stirrers With Logo Medium,Non Food,Disposable,0,,PKT,2024-07-31,0.0
+Skull Cap,Non Food,Disposable,0,,PKT,2024-07-31,8.0
+Silver Container 750 Ml,Non Food,Disposable,0,,PKT,2024-07-31,1.0
+Silver Container 450 Ml,Non Food,Disposable,0,,PKT,2024-07-31,4.0
+Plastic Cont With Lid 900 Ml Rnd,Non Food,Disposable,0,,PKT,2024-07-31,2.0
+Plastic Cont With Lid 750 Ml Rect,Non Food,Disposable,0,,PKT,2024-07-31,7.0
+Plastic Cont With Lid 700 Ml Rnd,Non Food,Disposable,0,,PKT,2024-07-31,7.0
+Plastic Cont With Lid 50 Ml,Non Food,Disposable,0,,PKT,2024-07-31,4.0
+Plastic Cont With Lid 450 Ml Rnd,Non Food,Disposable,0,,PKT,2024-07-31,6.0
+Plastic Cont With Lid 30 Ml,Non Food,Disposable,0,,PKT,2024-07-31,4.0
+Plastic Cont With Lid 250 Ml Rnd,Non Food,Disposable,0,,PKT,2024-07-31,14.0
+Plastic Cont With Lid 1000 Ml Rect,Non Food,Disposable,0,,PKT,2024-07-31,2.0
+Paper Straw,Non Food,Disposable,0,,PKT,2024-07-31,29.0
+M Fold Tissue,Non Food,Disposable,0,,PKT,2024-07-31,80.0
+Hand Gloves Rubber,Non Food,Disposable,0,,PKT,2024-07-31,0.0
+Hand Gloves Plastic,Non Food,Disposable,0,,PKT,2024-07-31,0.0
+Dolly Paper Small,Non Food,Disposable,0,,PKT,2024-07-31,0.0
+Dolly Paper Big,Non Food,Disposable,0,,PKT,2024-07-31,8.0
+Fuel Tin,Non Food,,0,,TIN,2024-07-31,0.0
+Standup Pouches,non food,,,,Piece,2024-07-31,0.0
+Johnson's Baby Oil,non food,,,,ML,2024-07-31,0.0
+White Cloth,non food,,,,MTR,2024-07-31,15.0
+Squeeze Bottle,non food,,,,BTL,2024-07-31,6.0
+Squeeze Bottle Big,non food,,,,BTL,2024-07-31,0.0
+Air Freshener Btl,non food,H.k Materials,,,BTL,2024-07-31,0.0
+Air Freshener Btl 250,non food,H.k Materials,,,BTL,2024-07-31,0.0
+Air Freshener Can,non food,H.k Materials,0,,CAN,2024-07-31,1.0
+Flat Bottom Pouch,non food,,,,NOS,2024-07-31,500.0
+Coffee Debara Set,non food,,,,NOS,2024-07-31,0.0
+Black Coffee Cup 450 Ml,non food,Disposable,0,,PCS,2024-07-31,325.0
+Shower Cap,non food,,,,PCS,2024-07-31,0.0
+Bathroom Slippers,non food,,,,PCS,2024-07-31,0.0
+Piping Bag,non food,,,,PCS,2024-07-31,0.0
+250 Gm Coffee Pouch,non food,,,,PCS,2024-07-31,500.0
+Ad Register Front Office,non food,,,,PCS,2024-07-31,5.0
+Dimsum Basket,non food,,,,PCS,2024-07-31,0.0
+Stone Knife,non food,,,,PCS,2024-07-31,0.0
+Spring File,non food,,,,PCS,2024-07-31,4.0
+Black Cup 250m,non food,Disposable,,,PCS,2024-07-31,0.0
+Nankhatai Jar Lid,non food,Disposable,,,PCS,2024-07-31,0.0
+Hook,non food,H.k Materials,,,PCS,2024-07-31,0.0
+Spatula,non food,,,,PCS,2024-07-31,0.0
+Tea Powder,Beverages,Tea,0,,Kg,2024-07-31,22.0
+Tonic Water Britvit,Beverages,,0,,BTL,2024-07-31,1.0
+Thums Up,Beverages,,0,,BTL,2024-07-31,0.0
+Sprite,Beverages,,0,,BTL,2024-07-31,0.0
+Perrier Carbonated Water,Beverages,,0,,BTL,2024-07-31,0.0
+Pepsi,Beverages,,0,,BTL,2024-07-31,0.0
+Dukes Soda,Beverages,,0,,BTL,2024-07-31,0.0
+Bisleri 250 Ml,Beverages,,0,,BTL,2024-07-31,0.0
+Aquafina Water 500 Ml,Beverages,,0,,BTL,2024-07-31,0.0
+Aquafina Water,Beverages,,0,,BTL,2024-07-31,0.0
+7 Up 750 Ml,Beverages,,0,,BTL,2024-07-31,0.0
+7 Up,Beverages,,0,,BTL,2024-07-31,0.0
+Yuzu Mix,Beverages,Syrup,0,,BTL,2024-07-31,0.0
+Watermelon Syrup,Beverages,Syrup,0,,BTL,2024-07-31,0.0
+Vanilla Syrup,Beverages,Syrup,0,,BTL,2024-07-31,1.0
+Tiramisu Syrup,Beverages,Syrup,0,,BTL,2024-07-31,4.0
+Strawberry Syrup,Beverages,Syrup,0,,BTL,2024-07-31,0.0
+Rose Syrup,Beverages,Syrup,0,,BTL,2024-07-31,0.0
+Raspberry Syrup,Beverages,Syrup,0,,BTL,2024-07-31,1.0
+Pomegranate Syrup,Beverages,Syrup,0,,BTL,2024-07-31,0.0
+Peach Syrup,Beverages,Syrup,0,,BTL,2024-07-31,0.0
+Passion Fruit Syrup,Beverages,Syrup,0,,BTL,2024-07-31,1.0
+Mojito Mint Syrup,Beverages,Syrup,0,,BTL,2024-07-31,0.0
+Melon Syrup,Beverages,Syrup,0,,BTL,2024-07-31,1.0
+Kokam Syrup,Beverages,Syrup,0,,BTL,2024-07-31,2.0
+Irish Syrup,Beverages,Syrup,0,,BTL,2024-07-31,0.0
+Hazelnut Syrup,Beverages,Syrup,0,,BTL,2024-07-31,0.0
+Grenadine Syrup,Beverages,Syrup,0,,BTL,2024-07-31,0.0
+Green Mint Syrup,Beverages,Syrup,0,,BTL,2024-07-31,1.0
+Green Apple Syrup,Beverages,Syrup,0,,BTL,2024-07-31,1.0
+Elder Flower Syrup,Beverages,Syrup,0,,BTL,2024-07-31,0.0
+Coconut Syrup,Beverages,Syrup,0,,BTL,2024-07-31,0.0
+Cinnamon Syrup,Beverages,Syrup,0,,BTL,2024-07-31,2.0
+Chocolate Syrup,Beverages,Syrup,0,,BTL,2024-07-31,2.0
+Cherry Syrup,Beverages,Syrup,0,,BTL,2024-07-31,0.0
+Caramel Syrup,Beverages,Syrup,0,,BTL,2024-07-31,1.0
+Blue Curacao Syrup,Beverages,Syrup,0,,BTL,2024-07-31,0.0
+Almond Syrup,Beverages,Syrup,0,,BTL,2024-07-31,0.0
+Peach Crush,Beverages,Crush & Puree,0,,BTL,2024-07-31,0.0
+Strawberry Crush,Beverages,Crush & Puree,0,,BTL,2024-07-31,2.0
+Orange Crush,Beverages,Crush & Puree,0,,BTL,2024-07-31,4.0
+Mango Crush,Beverages,Crush & Puree,0,,BTL,2024-07-31,3.0
+Litchi Crush,Beverages,Crush & Puree,0,,BTL,2024-07-31,2.0
+Kiwi Crush,Beverages,Crush & Puree,0,,BTL,2024-07-31,2.0
+Tonic Water,Beverages,,0,,CAN,2024-07-31,12.0
+Red Bull,Beverages,,0,,CAN,2024-07-31,0.0
+Ginger Ale Britvic,Beverages,,0,,CAN,2024-07-31,0.0
+Ginger Ale,Beverages,,0,,CAN,2024-07-31,0.0
+Diet Coke,Beverages,,0,,CAN,2024-07-31,0.0
+7 Up Can,Beverages,,0,,CAN,2024-07-31,0.0
+Pomegranate Juice,Beverages,,0,,LTR,2024-07-31,0.0
+Orange Juice,Beverages,,0,,LTR,2024-07-31,0.0
+Mango Juice,Beverages,,0,,LTR,2024-07-31,0.0
+Litchi Juice,Beverages,,0,,LTR,2024-07-31,0.0
+Guava Juice,Beverages,,0,,LTR,2024-07-31,0.0
+Cranberry Juice,Beverages,,0,,LTR,2024-07-31,0.0
+Apple Juice,Beverages,,0,,LTR,2024-07-31,0.0
+Tomato Juice,Beverages,,0,,PKT,2024-07-31,0.0
+Pineapple Juice,Beverages,,0,,PKT,2024-07-31,0.0
+Tea Masala,Beverages,Tea,0,,PKT,2024-07-31,5.0
+Tea Light Candle,Beverages,Tea,0,,PKT,2024-07-31,3.0
+Tea Darjeeling,Beverages,Tea,0,,PKT,2024-07-31,1.0
+Tea Bag Sachet,Beverages,Tea,0,,PKT,2024-07-31,1.0
+Japanese Matcha Tea,Beverages,Tea,0,,PKT,2024-07-31,1.0
+Green Tea,Beverages,Tea,0,,PKT,2024-07-31,2.0
+Assam Tea,Beverages,Tea,0,,PKT,2024-07-31,1.0
+Yellow Zucchini,Vegetable,,0,,Kg,2024-07-31,0.0
+White Pumpkin,Vegetable,,0,,Kg,2024-07-31,0.0
+Wafer Potatos,Vegetable,,0,,Kg,2024-07-31,0.0
+Tomatos,Vegetable,,0,,Kg,2024-07-31,0.0
+Sweet Potato,Vegetable,,0,,Kg,2024-07-31,0.0
+Staff Veg,Vegetable,,0,,Kg,2024-07-31,0.0
+Spring Onion,Vegetable,,0,,Kg,2024-07-31,0.0
+Spinach,Vegetable,,0,,Kg,2024-07-31,0.0
+Snow Peas,Vegetable,,0,,Kg,2024-07-31,0.0
+Small Onion,Vegetable,,0,,Kg,2024-07-31,0.0
+Small Brinjel,Vegetable,,0,,Kg,2024-07-31,0.0
+Rosemary Fresh,Vegetable,,0,,Kg,2024-07-31,0.0
+Red Romaine Lettuce,Vegetable,,0,,Kg,2024-07-31,0.0
+Red Pumpkin,Vegetable,,0,,Kg,2024-07-31,0.0
+Red Cabbage,Vegetable,,0,,Kg,2024-07-31,0.0
+Raddish,Vegetable,,0,,Kg,2024-07-31,0.0
+Potato Bells Imp,Vegetable,,0,,Kg,2024-07-31,0.0
+Potato,Vegetable,,0,,Kg,2024-07-31,0.0
+Pok Choy,Vegetable,,0,,Kg,2024-07-31,0.0
+Peel Garlic,Vegetable,,0,,Kg,2024-07-31,34.0
+Parsley Leaves,Vegetable,,0,,Kg,2024-07-31,0.0
+Onion,Vegetable,,0,,Kg,2024-07-31,0.0
+Mint Leaves,Vegetable,,0,,Kg,2024-07-31,0.0
+Microgreen,Vegetable,,0,,Kg,2024-07-31,0.0
+Methi Fresh,Vegetable,,0,,Kg,2024-07-31,0.0
+Loloroso Lettuce,Vegetable,,0,,Kg,2024-07-31,0.0
+Lemon Leaves,Vegetable,,0,,Kg,2024-07-31,0.0
+Lemon Grass (lq),Vegetable,,0,,Kg,2024-07-31,0.0
+Lemon Grass,Vegetable,,0,,Kg,2024-07-31,0.0
+Lemon,Vegetable,,0,,Kg,2024-07-31,0.0
+Leeks,Vegetable,,0,,Kg,2024-07-31,0.0
+Lady Finger,Vegetable,,0,,Kg,2024-07-31,0.0
+Keel Patta,Vegetable,,0,,Kg,2024-07-31,0.0
+Karela,Vegetable,,0,,Kg,2024-07-31,0.0
+Kafir Lemon Leaves,Vegetable,,0,,Kg,2024-07-31,0.0
+Japanese Cucumber,Vegetable,,0,,Kg,2024-07-31,0.0
+Jalapenos Imp,Vegetable,,0,,Kg,2024-07-31,0.0
+Indian Chives,Vegetable,,0,,Kg,2024-07-31,0.0
+Iceberg Lettuce,Vegetable,,0,,Kg,2024-07-31,0.0
+Guava,Vegetable,,0,,Kg,2024-07-31,0.0
+Green Zucchini,Vegetable,,0,,Kg,2024-07-31,0.0
+Green Lemon,Vegetable,,0,,Kg,2024-07-31,0.0
+Green Garlic,Vegetable,,0,,Kg,2024-07-31,0.0
+Green Chilly,Vegetable,,0,,Kg,2024-07-31,0.0
+Ginger,Vegetable,,0,,Kg,2024-07-31,0.0
+Garlic Whole,Vegetable,,0,,Kg,2024-07-31,0.0
+Galangal Thai,Vegetable,,0,,Kg,2024-07-31,0.0
+Fresh Red Chilly,Vegetable,,0,,Kg,2024-07-31,0.0
+Fresh Mushroom,Vegetable,,0,,Kg,2024-07-31,0.0
+Fresh Beans,Vegetable,,0,,Kg,2024-07-31,0.0
+Fresh Basil,Vegetable,,0,,Kg,2024-07-31,0.0
+French Lettuce Red,Vegetable,,0,,Kg,2024-07-31,0.0
+French Lettuce Green,Vegetable,,0,,Kg,2024-07-31,0.0
+Edamame Pitted Imp,Vegetable,,0,,Kg,2024-07-31,0.0
+Edammame With Pot,Vegetable,,0,,Kg,2024-07-31,0.0
+Drum Stick,Vegetable,,0,,Kg,2024-07-31,0.0
+Cucumber,Vegetable,,0,,Kg,2024-07-31,0.0
+Coriander Leaves,Vegetable,,0,,Kg,2024-07-31,0.0
+Chinese Cabbage,Vegetable,,0,,Kg,2024-07-31,0.0
+Cherry Tomato,Vegetable,,0,,Kg,2024-07-31,0.0
+Celery Leaves,Vegetable,,0,,Kg,2024-07-31,0.0
+Cauliflower,Vegetable,,0,,Kg,2024-07-31,0.0
+Carrots,Vegetable,,0,,Kg,2024-07-31,0.0
+Capsicum,Vegetable,,0,,Kg,2024-07-31,0.0
+Cabbage,Vegetable,,0,,Kg,2024-07-31,0.0
+Broccoli,Vegetable,,0,,Kg,2024-07-31,0.0
+Brinjal Big,Vegetable,,0,,Kg,2024-07-31,0.0
+Bhavnagri Chilly,Vegetable,,0,,Kg,2024-07-31,0.0
+Bell Pepper Red,Vegetable,,0,,Kg,2024-07-31,0.0
+Bell Papper Yellow,Vegetable,,0,,Kg,2024-07-31,0.0
+Beetroots,Vegetable,,0,,Kg,2024-07-31,0.0
+Bean Sprouts,Vegetable,,0,,Kg,2024-07-31,0.0
+Banana Raw,Vegetable,,0,,Kg,2024-07-31,0.0
+Baby Potato,Vegetable,,0,,Kg,2024-07-31,0.0
+Baby Corn,Vegetable,,0,,Kg,2024-07-31,0.0
+Baby Coriander,Vegetable,,0,,Kg,2024-07-31,0.0
+Asparagus Imp,Vegetable,,0,,Kg,2024-07-31,0.0
+Asparagus,Vegetable,,0,,Kg,2024-07-31,0.0
+Aragula,Vegetable,,0,,Kg,2024-07-31,0.0
+American Corn,Vegetable,,0,,Kg,2024-07-31,0.0
+Avocado Ind,Vegetable,,0,,Kg,2024-07-31,0.0
+Avocado Imp,Vegetable,,0,,Kg,2024-07-31,0.0
+Coconut Big,Vegetable,,0,,PCS,2024-07-31,0.0
+Banana Leaf,Vegetable,,0,,PCS,2024-07-31,0.0
+Edible Flower,Vegetable,,0,,PKT,2024-07-31,0.0
+Chill Guava Premium Juice Bottles,beverages,,20089994,,NOS,2024-07-31,0.0
+Mango Premium Juice Bottles,beverages,,20089911,,NOS,2024-07-31,0.0
+Apple Premium Juice Bottles,beverages,,20097900,,NOS,2024-07-31,0.0
+Pineapple Premium Juice Bottles,beverages,,20094900,,NOS,2024-07-31,0.0
+Orange Premium Juice Bottles,beverages,,20099000,,NOS,2024-07-31,0.0
+Cash Voucher Book,Stationery,,,,NOS,2024-07-31,15.0
+Edc Roll,Stationery,,,,PCS,2024-07-31,180.0
+Wireless Mouse,Stationery,,,,PCS,2024-07-31,1.0
+Ink Pad,Stationery,,,,PCS,2024-07-31,1.0
+Kodai Shroom,Coffee Beans,,,,Kg,2024-07-31,0.0
+Baba Budan Peak,Coffee Beans,,,,Kg,2024-07-31,0.0
+Mazes Of Coorg,Coffee Beans,,,,Kg,2024-07-31,3.0
+Wild Chikmagalur,Coffee Beans,,,,Kg,2024-07-31,0.0
+Waves Of Malnad,Coffee Beans,,,,Kg,2024-07-31,2.0
+Ech House Blend,Coffee Beans,,,,Kg,2024-07-31,2.0
+Tamma Kaapi,Coffee Beans,,,,PKT,2024-07-31,17.0
+Yellow Banana,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Water Melon,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Sweet Lemon,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Red Apple,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Pomelo Red Fruit,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Pomegranate (anar),Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Pineapple Fruit,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Pears Fruit,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Passion Fruit,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Papaya Raw,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Papaya,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Orange Imp,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Orange,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Muskmelon,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Kiwi Fruit,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Fresh Mango,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Elaichi Bananas,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Blood Orange,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Apple Imp,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Apple,Fresh Fruits,,0,,Kg,2024-07-31,0.0
+Tiger Prawns,Meat Material,Sea Food,0,,Kg,2024-07-31,0.0
+Surmay Fish,Meat Material,Sea Food,0,,Kg,2024-07-31,0.0
+Squid,Meat Material,Sea Food,0,,Kg,2024-07-31,0.0
+Small Crab Whole,Meat Material,Sea Food,0,,Kg,2024-07-31,0.0
+Rawas Fish,Meat Material,Sea Food,0,,Kg,2024-07-31,0.0
+Prawns Frozen 70/80,Meat Material,Sea Food,0,,Kg,2024-07-31,0.0
+Pomfret,Meat Material,Sea Food,0,,Kg,2024-07-31,0.0
+Medium Prawns,Meat Material,Sea Food,0,,Kg,2024-07-31,0.0
+Lobster Fish,Meat Material,Sea Food,0,,Kg,2024-07-31,0.0
+Crab Whole Big,Meat Material,Sea Food,0,,Kg,2024-07-31,0.0
+Crab Meat,Meat Material,Sea Food,0,,Kg,2024-07-31,0.0
+Clams,Meat Material,Sea Food,0,,Kg,2024-07-31,0.0
+Bombil,Meat Material,Sea Food,0,,Kg,2024-07-31,0.0
+Basa Fish,Meat Material,Sea Food,0,,Kg,2024-07-31,0.0
+Mutton Leg Small,Meat Material,Meat,0,,Kg,2024-07-31,0.0
+Mutton Big Raan,Meat Material,Meat,0,,Kg,2024-07-31,0.0
+Gawti Chicken,Meat Material,Meat,0,,Kg,2024-07-31,0.0
+Chicken Tandoori,Meat Material,Meat,0,,Kg,2024-07-31,0.0
+Chicken Supreme,Meat Material,Meat,0,,Kg,2024-07-31,0.0
+Chicken Leg Bonless,Meat Material,Meat,0,,Kg,2024-07-31,0.0
+Chicken Drumstick,Meat Material,Meat,0,,Kg,2024-07-31,0.0
+Chicken Carcass (haddi),Meat Material,Meat,0,,Kg,2024-07-31,0.0
+Chicken Broiler,Meat Material,Meat,0,,Kg,2024-07-31,0.0
+Chicken Breast Bonless,Meat Material,Meat,0,,Kg,2024-07-31,0.0
+Bangda Fish,Meat Material,,,,Kg,2024-07-31,0.0
+White Butter,Dairy Products,Dairy,0,,Kg,2024-07-31,0.0
+Tofu,Dairy Products,Dairy,0,,Kg,2024-07-31,2.0
+Silken Tofu,Dairy Products,Dairy,0,,Kg,2024-07-31,0.6
+Sada Mawa,Dairy Products,Dairy,0,,Kg,2024-07-31,0.0
+Mawa,Dairy Products,Dairy,0,,Kg,2024-07-31,0.0
+Malai Paneer,Dairy Products,Dairy,0,,Kg,2024-07-31,7.8
+Hariyali Mawa,Dairy Products,Dairy,0,,Kg,2024-07-31,0.0
+Ghee Nandani,Dairy Products,Dairy,0,,Kg,2024-07-31,3.0
+Ghee,Dairy Products,Dairy,0,,Kg,2024-07-31,0.0
+Curd Mother Dairy,Dairy Products,Dairy,0,,Kg,2024-07-31,40.0
+Curd,Dairy Products,Dairy,0,,Kg,2024-07-31,0.0
+Parmesan Cheese,Dairy Products,Cheese,0,,Kg,2024-07-31,0.0
+Feta Cheese,Dairy Products,Cheese,0,,Kg,2024-07-31,0.0
+Cream Cheese,Dairy Products,Cheese,0,,Kg,2024-07-31,0.0
+Cheese Mozzarella,Dairy Products,Cheese,0,,Kg,2024-07-31,6.0
+Cheese Mascarpone,Dairy Products,Cheese,0,,Kg,2024-07-31,0.0
+Cheese Amul,Dairy Products,Cheese,0,,Kg,2024-07-31,12.5
+Pan Pasand Ice Cream,Dairy Products,,,,Kg,2024-07-31,0.0
+Kesar Pista Ice Cream,Dairy Products,,,,Kg,2024-07-31,0.0
+Shrikhand 400 G,Dairy Products,Dairy,0,,JAR,2024-07-31,0.0
+Oat Milk,Dairy Products,Dairy,0,,LTR,2024-07-31,0.0
+Fresh Milk (tabela),Dairy Products,Dairy,0,,LTR,2024-07-31,0.0
+Amul Milk,Dairy Products,Dairy,0,,LTR,2024-07-31,24.0
+Havmor Butterscotch Ice Cream,Dairy Products,,,,LTR,2024-07-31,0.0
+Havmor Vanilla Ice Cream,Dairy Products,,,,LTR,2024-07-31,0.0
+Havmor Chocolate Ice Cream,Dairy Products,,,,LTR,2024-07-31,0.0
+Havmor Strawberry Ice Cream,Dairy Products,,,,LTR,2024-07-31,0.0
+Sour Cream,Dairy Products,Dairy,0,,PKT,2024-07-31,0.0
+Rich Whip Topping Cream,Dairy Products,Dairy,0,,PKT,2024-07-31,1.0
+Rich Cooking Cream,Dairy Products,Dairy,0,,PKT,2024-07-31,7.0
+Milk 3 Fat,Dairy Products,Dairy,0,,PKT,2024-07-31,11.0
+Fresh Cream,Dairy Products,Dairy,0,,PKT,2024-07-31,0.0
+Butter Amul Blister 10gm,Dairy Products,Dairy,0,,PKT,2024-07-31,2.0
+Butter Amul,Dairy Products,Dairy,0,,PKT,2024-07-31,38.0
+Amul Cream,Dairy Products,Dairy,0,,PKT,2024-07-31,13.0
+Almond Milk,Dairy Products,Dairy,0,,PKT,2024-07-31,15.0
+Cheese Philadelphia,Dairy Products,Cheese,0,,PKT,2024-07-31,0.0
+Cheese Amul Slice,Dairy Products,Cheese,0,,PKT,2024-07-31,3.0
+Millet Milk,Dairy Products,,,,PKT,2024-07-31,60.0
+Potato Wedges,Food Ingredients,Frozan,0,,N3,2024-07-31,1.0
+Pillsbury Vanilla Flavour Mix,Food Ingredients,,0,,Kg,2024-07-31,0.0
+Nutella Sauce,Food Ingredients,Sauce,0,,Kg,2024-07-31,1.5
+Extra Hot & Spicy,Food Ingredients,Sauce,0,,Kg,2024-07-31,1.0
+Aalu Bukhara (plum),Food Ingredients,,0,,Kg,2024-07-31,1.5
+Yeast,Food Ingredients,,0,,Kg,2024-07-31,0.0
+Wasabi Powder,Food Ingredients,,0,,Kg,2024-07-31,1.0
+Sweet Soda,Food Ingredients,,0,,Kg,2024-07-31,1.85
+Sev,Food Ingredients,,0,,Kg,2024-07-31,0.0
+Potato Flakes,Food Ingredients,,0,,Kg,2024-07-31,0.0
+Pillsbury Chocolate Flavour Mix,Food Ingredients,,0,,Kg,2024-07-31,0.0
+Oregano Dry,Food Ingredients,,0,,Kg,2024-07-31,1.0
+Nylon Sev,Food Ingredients,,0,,Kg,2024-07-31,0.0
+Lemon Ice Tea,Food Ingredients,,0,,Kg,2024-07-31,0.0
+Lapsi,Food Ingredients,,0,,Kg,2024-07-31,2.0
+Kokum,Food Ingredients,,0,,Kg,2024-07-31,2.0
+Khas Khas,Food Ingredients,,0,,Kg,2024-07-31,0.5
+Gulab Phool,Food Ingredients,,0,,Kg,2024-07-31,0.2
+Dark Cherry Filling,Food Ingredients,Toppings,0,,Kg,2024-07-31,0.0
+Steam Noodles,Food Ingredients,Noodles,0,,Kg,2024-07-31,6.0
+Malaysian Noodles Flat,Food Ingredients,Noodles,0,,Kg,2024-07-31,0.0
+Chopsuey Noodles,Food Ingredients,Noodles,0,,Kg,2024-07-31,9.0
+Ice,Food Ingredients,Frozan,0,,Kg,2024-07-31,0.0
+Tahina Paste,Food Ingredients,Can Food,0,,Kg,2024-07-31,1.0
+Strawberry Steek,Food Ingredients,Can Food,0,,Kg,2024-07-31,1.0
+Strawberry Filling,Food Ingredients,Can Food,0,,Kg,2024-07-31,0.0
+Xo Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,0.0
+Worcestershire Sauce Kalvert (bar),Food Ingredients,Sauce,0,,BTL,2024-07-31,4.0
+Worcestershire Sauce (chinese),Food Ingredients,Sauce,0,,BTL,2024-07-31,1.0
+Veg Oyester Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,12.0
+Veg Mayonnaise,Food Ingredients,Sauce,0,,BTL,2024-07-31,5.0
+Tomato Sauce Maker,Food Ingredients,Sauce,0,,BTL,2024-07-31,1.0
+Tomato Ketchup,Food Ingredients,Sauce,0,,BTL,2024-07-31,10.0
+Tabasco Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,9.0
+Thai Chilli Sauce Kimball,Food Ingredients,Sauce,0,,BTL,2024-07-31,1.0
+Thai Chilli Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,0.0
+Teriyaki Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,3.0
+Sweet Chilly Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,1.0
+Sriracha Extra Hot Chilli Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,6.0
+Soya Sauce Sing Cheung,Food Ingredients,Sauce,0,,BTL,2024-07-31,6.0
+Soya Sauce Llk,Food Ingredients,Sauce,0,,BTL,2024-07-31,9.0
+Soya Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,0.0
+Sambal Oleal Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,5.0
+Plum Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,2.0
+Oyester Sauce Panda,Food Ingredients,Sauce,0,,BTL,2024-07-31,1.0
+Maggi Seasoning Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,2.0
+Light Soya Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,3.0
+Hoisin Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,2.0
+Fish Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,2.0
+Chilli Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,14.0
+Chilli Bean Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,2.0
+Capsico Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,9.0
+Black Bean Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,3.0
+Bbq Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,11.0
+8 To 9 Sauce,Food Ingredients,Sauce,0,,BTL,2024-07-31,1.0
+White Vinegar,Food Ingredients,Vinegar,0,,BTL,2024-07-31,14.0
+Sushi White Vinegar,Food Ingredients,Vinegar,0,,BTL,2024-07-31,10.0
+Sushi Vinegar,Food Ingredients,Vinegar,0,,BTL,2024-07-31,2.0
+Shao Hsing Vinegar,Food Ingredients,Vinegar,0,,BTL,2024-07-31,3.0
+Balsamic Vinegar,Food Ingredients,Vinegar,0,,BTL,2024-07-31,1.0
+Triple Sec,Food Ingredients,Toppings,0,,BTL,2024-07-31,0.0
+Peach & Apricot Topping,Food Ingredients,Toppings,0,,BTL,2024-07-31,0.0
+Olives Black Pitted Bar,Food Ingredients,Toppings,0,,BTL,2024-07-31,4.0
+Lime Juice Cordial,Food Ingredients,Toppings,0,,BTL,2024-07-31,3.0
+Ginger & Lime Cordial,Food Ingredients,Toppings,0,,BTL,2024-07-31,0.0
+Gherkins,Food Ingredients,Toppings,0,,BTL,2024-07-31,1.0
+Angostura Bitter,Food Ingredients,Toppimgs,0,,BTL,2024-07-31,0.0
+Truffle Oil,Food Ingredients,Can Food,0,,BTL,2024-07-31,0.0
+Sundried Tomatoes Oil,Food Ingredients,Can Food,0,,BTL,2024-07-31,2.0
+Spring Sesame Oil,Food Ingredients,Can Food,0,,BTL,2024-07-31,0.0
+Sesame Oil,Food Ingredients,Can Food,0,,BTL,2024-07-31,2.0
+Rose Water,Food Ingredients,Can Food,0,,BTL,2024-07-31,4.0
+Vanilla Sticks,Food Ingredients,Can Food,0,,JAR,2024-07-31,1.0
+Yellow Bean Sauce,Food Ingredients,Sauce,0,,JAR,2024-07-31,3.0
+Soya Sauce Lkk,Food Ingredients,Sauce,0,,JAR,2024-07-31,0.0
+Green Curry Paste,Food Ingredients,Sauce,0,,JAR,2024-07-31,1.0
+Hazelnut Paste,Food Ingredients,Toppings,0,,JAR,2024-07-31,0.0
+Tom Yum Paste,Food Ingredients,Can Food,0,,JAR,2024-07-31,0.0
+Lemon Iced Tea Syrup,Food Ingredients,Toppings,0,,LTR,2024-07-31,0.0
+Vanilla Md Ice Cream,Food Ingredients,Ice Cream & Kulfi,0,,LTR,2024-07-31,0.0
+Tuty Fruty Ice Cream,Food Ingredients,Ice Cream & Kulfi,0,,LTR,2024-07-31,0.0
+Strawberry Ice Cream,Food Ingredients,Ice Cream & Kulfi,0,,LTR,2024-07-31,0.0
+Frut Overload Ice Cream,Food Ingredients,Ice Cream & Kulfi,0,,LTR,2024-07-31,4.0
+Chocolate Ice Cream,Food Ingredients,Ice Cream & Kulfi,0,,LTR,2024-07-31,8.0
+Butter Scotch Ice Cream,Food Ingredients,Ice Cream & Kulfi,0,,LTR,2024-07-31,8.0
+Salad Oil,Food Ingredients,Can Food,0,,LTR,2024-07-31,1.0
+Refind Oil,Food Ingredients,Can Food,0,,LTR,2024-07-31,11.0
+Sushi Nori Sheet,Food Ingredients,,0,,PCS,2024-07-31,1.0
+Roasted Almond Slice Kulfi,Food Ingredients,Ice Cream & Kulfi,0,,PCS,2024-07-31,10.0
+Millennium Kulfi,Food Ingredients,Ice Cream & Kulfi,0,,PCS,2024-07-31,12.0
+Mango Slice Kulfi,Food Ingredients,Ice Cream & Kulfi,0,,PCS,2024-07-31,13.0
+Malai Kulfi,Food Ingredients,Ice Cream & Kulfi,0,,PCS,2024-07-31,55.0
+Kesar Pista Kulfi,Food Ingredients,Ice Cream & Kulfi,0,,PCS,2024-07-31,15.0
+Gulab Badam Slice Kulfi,Food Ingredients,Ice Cream & Kulfi,0,,PCS,2024-07-31,15.0
+Eggs,Food Ingredients,Egg,0,,PCS,2024-07-31,256.0
+Tomato Ketchup Sachet,Food Ingredients,Sauce,0,,PKT,2024-07-31,5.0
+Wasabi Tube,Food Ingredients,,0,,PKT,2024-07-31,4.0
+Tom Yum Cube,Food Ingredients,,0,,PKT,2024-07-31,25.0
+Orange Marmalade 15gm,Food Ingredients,,0,,PKT,2024-07-31,200.0
+Kori Rotti,Food Ingredients,,0,,PKT,2024-07-31,0.0
+Golden Curry,Food Ingredients,,0,,PKT,2024-07-31,1.0
+Vermicelli Noodle,Food Ingredients,Noodles,0,,PKT,2024-07-31,2.0
+Udon Noodle,Food Ingredients,Noodles,0,,PKT,2024-07-31,12.0
+Sevai,Food Ingredients,Noodles,0,,PKT,2024-07-31,9.0
+Ramen Noodle,Food Ingredients,Noodles,0,,PKT,2024-07-31,12.0
+Plain Noodles,Food Ingredients,Noodles,0,,PKT,2024-07-31,3.0
+Glass Noodles,Food Ingredients,Noodles,0,,PKT,2024-07-31,3.0
+Flat Noodles,Food Ingredients,Noodles,0,,PKT,2024-07-31,3.0
+China Grass,Food Ingredients,Noodles,0,,PKT,2024-07-31,5.0
+Wonton Patta,Food Ingredients,Frozan,0,,PKT,2024-07-31,5.0
+French Fries 9mm,Food Ingredients,Frozan,0,,PKT,2024-07-31,1.0
+Green Peas,Food Ingredients,Frozan,0,,PKT,2024-07-31,3.0
+Madagascar Chocolate,Food Ingredients,Toppimgs,0,,PKT,2024-07-31,0.0
+Olives Black Slice,Food Ingredients,Toppings,0,,TIN,2024-07-31,0.0
+Olives Black Pitted Kitchen,Food Ingredients,Toppings,0,,TIN,2024-07-31,2.0
+Jalepenos Slice,Food Ingredients,Toppings,0,,TIN,2024-07-31,0.0
+Green Olive Slice,Food Ingredients,Toppings,0,,TIN,2024-07-31,1.0
+Green Olive Pitted,Food Ingredients,Toppings,0,,TIN,2024-07-31,1.0
+Bamboo Shoots,Food Ingredients,Toppings,0,,TIN,2024-07-31,3.0
+Baked Beans,Food Ingredients,Toppings,0,,TIN,2024-07-31,11.0
+Water Chestnuts,Food Ingredients,Can Food,0,,TIN,2024-07-31,1.0
+Tomato Puree,Food Ingredients,Can Food,0,,TIN,2024-07-31,11.0
+Sweet Corn Cream,Food Ingredients,Can Food,0,,TIN,2024-07-31,5.0
+Soya Chap,Food Ingredients,Can Food,0,,TIN,2024-07-31,1.0
+Sarso Ka Sag,Food Ingredients,Can Food,0,,TIN,2024-07-31,4.0
+Hazelut,food ingredients,,0,,Kg,2024-07-31,0.0
+Pickled Ginger,food ingredients,,0,,Kg,2024-07-31,0.0
+Mango Pickle,food ingredients,,0,,Kg,2024-07-31,15.0
+California Almond Flour,food ingredients,,,,Kg,2024-07-31,0.0
+Clear Gel,food ingredients,,,,Kg,2024-07-31,0.0
+Tuty Fruty Red,food ingredients,,,,Kg,2024-07-31,0.0
+Tuty Fruty Green,food ingredients,,,,Kg,2024-07-31,0.0
+Tuty Fruty Orange,food ingredients,,,,Kg,2024-07-31,0.0
+Olive Oil Pomace,food ingredients,,0,,BTL,2024-07-31,1.0
+Olive Oil Extra Virgin,food ingredients,,0,,BTL,2024-07-31,1.0
+Mustard Oil,food ingredients,,0,,BTL,2024-07-31,10.0
+Mustard Kasundi 1000gm,food ingredients,,0,,BTL,2024-07-31,1.0
+Kewra Water,food ingredients,,0,,BTL,2024-07-31,1.0
+Ice Spring Yozu Japanese Citrus,food ingredients,,0,,BTL,2024-07-31,4.0
+Honey,food ingredients,,0,,BTL,2024-07-31,3.0
+Glucose Liquid,food ingredients,,0,,BTL,2024-07-31,0.0
+Coconut Oil,food ingredients,,0,,BTL,2024-07-31,3.0
+Rosella 500ml,food ingredients,,,,BTL,2024-07-31,0.0
+Sea Salt (btl),food ingredients,,,,BTL,2024-07-31,1.0
+Yellow Color,food ingredients,,,,BTL,2024-07-31,0.0
+Red Curry Paste Veg,food ingredients,,0,,JAR,2024-07-31,2.0
+Mixed Fruit Jam 1 Kg,food ingredients,,0,,JAR,2024-07-31,1.0
+Mixed Fruit Jam,food ingredients,,0,,JAR,2024-07-31,0.0
+Rosella Jam,food ingredients,,,,JAR,2024-07-31,0.0
+Mixed Pickle 12 Gm,food ingredients,,0,,PCS,2024-07-31,400.0
+Mix Fruit Jam 15 Gm,food ingredients,,0,,PCS,2024-07-31,100.0
+Honey 15 Gm,food ingredients,,0,,PCS,2024-07-31,200.0
+Ferrero Shells,food ingredients,,,,PCS,2024-07-31,0.0
+Butter Croissant Small,food ingredients,,,,PCS,2024-07-31,0.0
+Butter Croissant Medium,food ingredients,,,,PCS,2024-07-31,0.0
+Macarons,food ingredients,,,,PCS,2024-07-31,0.0
+Smiles,food ingredients,Frozan,0,,PKT,2024-07-31,1.0
+Rosella,food ingredients,,,,PKT,2024-07-31,0.0
+Demi Glace Sauce Powder,food ingredients,,,,PKT,2024-07-31,0.0
+Pita Bread,food ingredients,,,,PKT,2024-07-31,0.0
+Red Cherry,food ingredients,,0,,TIN,2024-07-31,3.0
+Pineapple Slice,food ingredients,,0,,TIN,2024-07-31,3.0
+Olive Oil,food ingredients,,0,,TIN,2024-07-31,0.0
+Milk Maid,food ingredients,,0,,TIN,2024-07-31,15.0
+Mango Pulp,food ingredients,,0,,TIN,2024-07-31,6.0
+Lychee,food ingredients,,0,,TIN,2024-07-31,0.0
+Green Corn,food ingredients,,0,,TIN,2024-07-31,23.0
+Fruit Cocktail,food ingredients,,0,,TIN,2024-07-31,0.0
+Cheesling,food ingredients,,0,,TIN,2024-07-31,0.0
+Ap Spoon,Crockery & Cultery,,,,NOS,2024-07-31,0.0
+Service Spoon,Crockery & Cultery,,,,NOS,2024-07-31,0.0
+Soup Spoon,Crockery & Cultery,,,,NOS,2024-07-31,0.0
+Dessert Spoon,Crockery & Cultery,,,,NOS,2024-07-31,0.0
+Fish Knife,Crockery & Cultery,,,,NOS,2024-07-31,0.0
+Sauce Spoon,Crockery & Cultery,,,,NOS,2024-07-31,0.0
+Half Plate,Crockery & Cultery,,,,NOS,2024-07-31,0.0
+Monkey Bowl,Crockery & Cultery,,,,NOS,2024-07-31,0.0
+Pickel+chetny Set Bowl,Crockery & Cultery,,,,NOS,2024-07-31,0.0
+Biryani Handi,Crockery & Cultery,,,,NOS,2024-07-31,0.0
+Quarter Plate,Crockery & Cultery,,,,NOS,2024-07-31,0.0
+Water Glass,Crockery & Cultery,,,,NOS,2024-07-31,0.0
+Lever Coffee Dripper,Crockery & Cultery,,,,PCS,2024-07-31,0.0
+Soup Chef N Dish,cutlery & crockery,,,,PCS,2024-07-31,0.0
+Crisol - Ovel Plate,cutlery & crockery,,,,PCS,2024-07-31,0.0
+M Pot- A P Spoon,cutlery & crockery,,,,PCS,2024-07-31,0.0
+M Pot- A P Fork,cutlery & crockery,,,,PCS,2024-07-31,0.0
+M Pot- Quarter Plate,cutlery & crockery,,,,PCS,2024-07-31,0.0
+Frappe Can Glass 350 Ml,cutlery & crockery,,,,PCS,2024-07-31,0.0

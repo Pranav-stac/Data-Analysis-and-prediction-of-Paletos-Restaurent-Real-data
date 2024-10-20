@@ -1,0 +1,191 @@
+Created,Item_Modified_Date,Modified_After_In_Minutes,KOT_No_,Order_Type,User,Status,Reason,Item_Name,Old_Value,New_Value,KOT_Item_Status,Price
+2024-10-01 00:02:24+00:00,2024-10-01 00:04:59+00:00,2.583,112,Dine In (5),vijay (vijay shetty) (Electron Pos),Modified,nan,SEVEN UP,1,0,Item Deleted,185.0
+2024-10-01 13:57:57+00:00,2024-10-01 14:11:51+00:00,13.9,17,Dine In (21),TAPASH (TAPASH) (Electron Pos),Cancelled,GUEST CANCELLED CARAMEL WAS SO BITTER,CREAM CARAMEL,1,0,Item Deleted,295.0
+2024-10-01 14:50:15+00:00,2024-10-01 14:57:05+00:00,6.833,26,Dine In (11),sachindra (sachindra) (Electron Pos),Modified,HALF,Bhindi Mirch Masala,1,0.5,Item Quantity Changed,795.0
+2024-10-01 15:02:33+00:00,2024-10-01 15:07:13+00:00,4.667,28,Dine In (16),SANDEEP (SANDEEP MORE) (Electron Pos),Modified,nan,FRIED RICE (VEG),1,0,Item Deleted,765.0
+2024-10-01 20:58:55+00:00,2024-10-01 21:00:21+00:00,1.433,88,Dine In (22),TAPASH (TAPASH) (Electron Pos),Modified,WRONG PUNCHING MAKE ROASTED MASALA PAPAD,ROASTED PAPAD,1,0,Item Deleted,70.0
+2024-10-01 23:23:14+00:00,2024-10-01 23:37:59+00:00,14.75,178,Dine In (12),sachindra (sachindra) (Electron Pos),Modified,MORE SPICY,TOMATO SOUP,1,0,Item Deleted,325.0
+2024-10-02 00:04:39+00:00,2024-10-02 00:19:32+00:00,14.883,191,Dine In (10),TAPASH (TAPASH) (Electron Pos),Cancelled,GUEST IS SIAD RABDI VERY THIN,ANGOORI RABDI,1,0,Item Deleted,395.0
+2024-10-02 12:47:33+00:00,2024-10-02 12:48:45+00:00,1.2,7,Dine In (15),TAPASH (TAPASH) (Electron Pos),Cancelled,TODAY IS DRY DAY,CORONA,1,0,Item Deleted,595.0
+2024-10-02 12:47:33+00:00,2024-10-02 12:48:45+00:00,1.2,7,Dine In (15),TAPASH (TAPASH) (Electron Pos),Cancelled,TODAY IS DRY DAY,KINGFISHER,1,0,Item Deleted,330.0
+2024-10-02 13:04:01+00:00,2024-10-02 13:08:15+00:00,4.233,17,Dine In (4),TAPASH (TAPASH) (Electron Pos),Modified,NOT AVAILABLE MUTON,Mutton Kebabs (Lucknowi Sheekh),1,0,Item Deleted,855.0
+2024-10-02 13:11:12+00:00,2024-10-02 14:54:04+00:00,102.867,7,Dine In (16),Japheth (Japheth Onka) (Electron Pos),Modified,WRONG PUNCH,Dal Tadka,1,0,Item Deleted,400.0
+2024-10-02 14:09:04+00:00,2024-10-02 15:18:03+00:00,68.983,91,Dine In (9),TAPASH (TAPASH) (Electron Pos),Modified,guest found it raw,Zafrani Chicken,1,0,Item Deleted,795.0
+2024-10-02 15:03:09+00:00,2024-10-02 15:12:11+00:00,9.033,126,Dine In (30),TAPASH (TAPASH) (Electron Pos),Modified,GUEST DID NOT LIKE IT WAS NOT COOKED PROPERLY,Zafrani Chicken,1,0,Item Deleted,795.0
+2024-10-02 20:52:17+00:00,2024-10-02 20:55:03+00:00,2.767,222,Dine In (5),TAPASH (TAPASH) (Electron Pos),Cancelled,GUEST CALL PLAIN ROTI NOT READY ROTI,Butter Roti,1,0,Item Deleted,95.0
+2024-10-02 21:30:36+00:00,2024-10-02 22:07:07+00:00,36.517,271,Dine In (16),TAPASH (TAPASH) (Electron Pos),Modified,"guest cancel , , , not served , ,",Appam (2pc),2,1,Item Quantity Changed,225.0
+2024-10-02 21:30:36+00:00,2024-10-02 21:43:24+00:00,12.8,271,Dine In (16),TAPASH (TAPASH) (Electron Pos),Modified,"GUEST CANCEL , PREPARATION NO STARTED,",Malabari Paratha (1pc),1,0,Item Deleted,225.0
+2024-10-02 21:55:46+00:00,2024-10-02 22:03:05+00:00,7.317,293,Dine In (5),TAPASH (TAPASH) (Electron Pos),Modified,REGULAR NOTAVALE,Chinese Prawns (REGULAR),1,0,Item Deleted,1255.0
+2024-10-02 23:02:13+00:00,2024-10-02 23:10:06+00:00,7.883,331,Dine In (22),TAPASH (TAPASH) (Electron Pos),Cancelled,CHANGE TO ROASTED MASALA PAPAPD,ROASTED PAPAD,1,0,Item Deleted,70.0
+2024-10-03 14:26:16+00:00,2024-10-03 15:15:37+00:00,49.35,21,Delivery(Parcel),KOT is cancelled due to Zomato (5409) has cancelled online order (Electron Pos),Cancelled,Order rejected due to 'Customer cancellation because they do not require order anymore',Paneer Lawabdar,1,0,Item Deleted,795.0
+2024-10-03 14:26:16+00:00,2024-10-03 15:15:37+00:00,49.35,21,Delivery(Parcel),KOT is cancelled due to Zomato (5409) has cancelled online order (Electron Pos),Cancelled,Order rejected due to 'Customer cancellation because they do not require order anymore',Garlic Naan,1,0,Item Deleted,150.0
+2024-10-03 14:26:16+00:00,2024-10-03 15:15:37+00:00,49.35,21,Delivery(Parcel),KOT is cancelled due to Zomato (5409) has cancelled online order (Electron Pos),Cancelled,Order rejected due to 'Customer cancellation because they do not require order anymore',Kung Pao Patato,1,0,Item Deleted,795.0
+2024-10-03 21:33:59+00:00,2024-10-03 22:13:35+00:00,39.6,156,Dine In (16),TAPASH (TAPASH) (Electron Pos),Modified,guest put it on hold and then canclled,Long Island Ice Tea,1,0,Item Deleted,775.0
+2024-10-03 22:33:24+00:00,2024-10-03 23:02:29+00:00,29.083,190,Dine In (21),TAPASH (TAPASH) (Electron Pos),Modified,guest cancld order,KINGFISHER,2,1,Item Quantity Changed,330.0
+2024-10-03 22:44:29+00:00,2024-10-03 23:00:39+00:00,16.167,203,Dine In (20),TAPASH (TAPASH) (Electron Pos),Modified,guest changed order,KINGFISHER,5,4,Item Quantity Changed,330.0
+2024-10-03 22:46:34+00:00,2024-10-03 23:01:31+00:00,14.95,205,Dine In (20),TAPASH (TAPASH) (Electron Pos),Cancelled,guest cancled food not prepared,Dim Sum (CHICKEN),2,0,Item Deleted,725.0
+2024-10-04 13:48:49+00:00,2024-10-04 14:03:21+00:00,14.533,22,Dine In (20),TAPASH (TAPASH) (Electron Pos),Modified,CHANGE TO BTR ROOMALI ROTI,Roomali Roti,1,0,Item Deleted,150.0
+2024-10-04 20:20:41+00:00,2024-10-04 20:26:41+00:00,6.0,78,Dine In (3),vijay (vijay shetty) (Electron Pos),Cancelled,order change to peri peri,KUNG PAO PANEER,1,0,Item Deleted,795.0
+2024-10-04 21:17:16+00:00,2024-10-04 21:20:31+00:00,3.25,141,Dine In (G 1),TAPASH (TAPASH) (Electron Pos),Cancelled,GUEST CHANGED ORDER FOOD NOT PREPARED,Subzi Ka Mela,1,0,Item Deleted,795.0
+2024-10-04 21:19:46+00:00,2024-10-04 21:33:14+00:00,13.467,147,Dine In (15),SANDEEP (SANDEEP MORE) (Electron Pos),Modified,nan,Dal Tadka,1,0,Item Deleted,525.0
+2024-10-04 21:19:46+00:00,2024-10-04 21:33:14+00:00,13.467,147,Dine In (15),SANDEEP (SANDEEP MORE) (Electron Pos),Modified,nan,Roti,1,0,Item Deleted,85.0
+2024-10-04 23:13:13+00:00,2024-10-04 23:15:56+00:00,2.717,223,Dine In (14),TAPASH (TAPASH) (Electron Pos),Modified,"change to thums up , not open pepsi",PEPSI,2,1,Item Quantity Changed,185.0
+2024-10-05 13:24:11+00:00,2024-10-05 13:46:14+00:00,22.05,19,Dine In (30),TAPASH (TAPASH) (Electron Pos),Modified,WRONG RATE FOR 500 GMS CRAB,Chinese Crab (500 GMS),1,0,Item Deleted,1345.0
+2024-10-05 14:31:41+00:00,2024-10-05 14:32:36+00:00,0.917,58,Dine In (20),TAPASH (TAPASH) (Electron Pos),Cancelled,WRONG TABLE,Ginger Bliss,1,0,Item Deleted,385.0
+2024-10-05 14:31:41+00:00,2024-10-05 14:32:36+00:00,0.917,58,Dine In (20),TAPASH (TAPASH) (Electron Pos),Cancelled,WRONG TABLE,Lemon Fizz,1,0,Item Deleted,365.0
+2024-10-05 19:56:17+00:00,2024-10-05 19:56:56+00:00,0.65,117,Delivery(Parcel),KOT is cancelled due to Zomato (5409) has cancelled online order (Electron Pos),Cancelled,Order rejected due to 'Customer Cancellation',Chilly Crispy Patato,1,0,Item Deleted,795.0
+2024-10-05 19:56:17+00:00,2024-10-05 19:56:56+00:00,0.65,117,Delivery(Parcel),KOT is cancelled due to Zomato (5409) has cancelled online order (Electron Pos),Cancelled,Order rejected due to 'Customer Cancellation',Veg Sweet Corn Soup,1,0,Item Deleted,365.0
+2024-10-05 23:02:54+00:00,2024-10-05 23:46:07+00:00,43.217,269,Dine In (15),TAPASH (TAPASH) (Electron Pos),Cancelled,guest order after cancell,Papad Masala,1,0,Item Deleted,90.0
+2024-10-06 19:15:14+00:00,2024-10-06 19:36:35+00:00,21.35,129,Dine In (3),TAPASH (TAPASH) (Electron Pos),Modified,GUEST CANCLED,Roti,1,0,Item Deleted,85.0
+2024-10-06 20:29:31+00:00,2024-10-06 20:36:43+00:00,7.2,200,Dine In (20),TAPASH (TAPASH) (Electron Pos),Cancelled,WRONG TABLE PUNCHED BY MISTAKE,Veg Sweet Corn Soup,2,0,Item Deleted,365.0
+2024-10-06 20:29:31+00:00,2024-10-06 20:36:43+00:00,7.2,200,Dine In (20),TAPASH (TAPASH) (Electron Pos),Cancelled,WRONG TABLE PUNCHED BY MISTAKE,Chilly Crispy Patato,1,0,Item Deleted,795.0
+2024-10-06 21:09:46+00:00,2024-10-06 21:10:51+00:00,1.083,259,Dine In (G 2),SANDEEP (SANDEEP MORE) (Electron Pos),Modified,nan,THUMPS UP,2,0,Item Deleted,185.0
+2024-10-06 21:35:40+00:00,2024-10-06 22:58:20+00:00,82.667,288,Delivery(Parcel),KOT is cancelled due to Zomato (5409) has cancelled online order (Electron Pos),Cancelled,Order rejected due to 'Items out of stock',Kung Pao Patato,1,0,Item Deleted,795.0
+2024-10-06 21:35:40+00:00,2024-10-06 22:58:20+00:00,82.667,288,Delivery(Parcel),KOT is cancelled due to Zomato (5409) has cancelled online order (Electron Pos),Cancelled,Order rejected due to 'Items out of stock',Hot Pot Rice (Veg),1,0,Item Deleted,765.0
+2024-10-06 21:44:10+00:00,2024-10-06 21:56:24+00:00,12.233,303,Dine In (14),TAPASH (TAPASH) (Electron Pos),Modified,GUEST IS DIDNT LIKE,ANGOORI RABDI,1,0,Item Deleted,395.0
+2024-10-07 21:09:45+00:00,2024-10-07 21:10:58+00:00,1.217,71,Dine In (7),MANISH (MANISH KOTIAN) (Electron Pos),Modified,nan,JIM BEAM,2,0,Item Deleted,315.0
+2024-10-08 14:21:14+00:00,2024-10-08 14:28:19+00:00,7.083,11,Dine In (20),SANDEEP (SANDEEP MORE) (Electron Pos),Modified,nan,Missi Roti,3,0,Item Deleted,135.0
+2024-10-08 15:49:25+00:00,2024-10-08 15:52:16+00:00,2.85,41,Dine In (16),SANDEEP (SANDEEP MORE) (Electron Pos),Modified,nan,FUTCHI RICE (CHICKEN),1,0,Item Deleted,765.0
+2024-10-09 00:18:08+00:00,2024-10-09 00:20:12+00:00,2.067,153,Dine In (15),SAFIK (SAFIK KHAN) (Electron Pos),Modified,nan,KINGFISHER,1,0,Item Deleted,330.0
+2024-10-09 00:18:08+00:00,2024-10-09 00:20:12+00:00,2.067,153,Dine In (15),SAFIK (SAFIK KHAN) (Electron Pos),Modified,nan,THUMPS UP,1,0,Item Deleted,185.0
+2024-10-09 21:18:04+00:00,2024-10-09 21:48:40+00:00,30.6,108,Dine In (5),TAPASH (TAPASH) (Electron Pos),Modified,GUEST CANCLED,ROASTED PAPAD,2,0,Item Deleted,70.0
+2024-10-09 22:34:37+00:00,2024-10-09 22:35:57+00:00,1.333,166,Dine In (10),TAPASH (TAPASH) (Electron Pos),Cancelled,GUEST CANCLED,Butter Naan,1,0,Item Deleted,150.0
+2024-10-09 23:58:16+00:00,2024-10-10 00:01:32+00:00,3.267,197,Dine In (14),MANISH (MANISH KOTIAN) (Electron Pos),Modified,nan,CARLSBERG,2,1,Item Quantity Changed,465.0
+2024-10-10 20:26:52+00:00,2024-10-10 22:10:52+00:00,104.0,55,Dine In (G 2),MANISH (MANISH KOTIAN) (Electron Pos),Modified,nan,ROASTED PAPAD,2,1,Item Quantity Changed,70.0
+2024-10-10 20:48:38+00:00,2024-10-10 20:49:05+00:00,0.45,70,Dine In (G 2),MANISH (MANISH KOTIAN) (Electron Pos),Modified,nan,Crispy Spinach Paneer,2,1,Item Quantity Changed,795.0
+2024-10-10 20:56:45+00:00,2024-10-10 21:18:06+00:00,21.35,82,Dine In (22),TAPASH (TAPASH) (Electron Pos),Cancelled,System has cancelled KOT while move kot to table no 21,FRIED RICE (VEG),1,0,Item Deleted,765.0
+2024-10-10 20:56:45+00:00,2024-10-10 21:18:06+00:00,21.35,82,Dine In (22),TAPASH (TAPASH) (Electron Pos),Cancelled,System has cancelled KOT while move kot to table no 21,VEG MANCHURIAN DRY,1,0,Item Deleted,795.0
+2024-10-10 22:30:11+00:00,2024-10-10 22:31:33+00:00,1.367,135,Dine In (21),SAFIK (SAFIK KHAN) (Electron Pos),Modified,nan,Juices Fresh,1,0,Item Deleted,225.0
+2024-10-10 23:01:35+00:00,2024-10-10 23:03:39+00:00,2.067,147,Dine In (20),TAPASH (TAPASH) (Electron Pos),Modified,guest cancld,CHOCOLATE ICE CREAM,1,0,Item Deleted,245.0
+2024-10-11 15:08:06+00:00,2024-10-11 15:17:54+00:00,9.8,66,Dine In (12),SANDEEP (SANDEEP MORE) (Electron Pos),Modified,nan,MALAI KULFI,1,0,Item Deleted,295.0
+2024-10-11 18:42:30+00:00,2024-10-11 23:17:46+00:00,275.267,73,Dine In (CRS 1),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,Kingfisher Ultra Max,6,0,Item Deleted,475.0
+2024-10-11 18:52:36+00:00,2024-10-11 23:16:48+00:00,264.2,74,Dine In (CRS 1),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,DIET COKE,3,0,Item Deleted,195.0
+2024-10-11 18:52:36+00:00,2024-10-11 23:16:48+00:00,264.2,74,Dine In (CRS 1),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,SEVEN UP,3,0,Item Deleted,185.0
+2024-10-11 18:52:36+00:00,2024-10-11 23:16:48+00:00,264.2,74,Dine In (CRS 1),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,THUMPS UP,3,2,Item Quantity Changed,185.0
+2024-10-11 18:52:36+00:00,2024-10-11 23:16:48+00:00,264.2,74,Dine In (CRS 1),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,Soda,6,4,Item Quantity Changed,135.0
+2024-10-11 19:25:41+00:00,2024-10-11 19:27:33+00:00,1.867,82,Dine In (16),SANDEEP (SANDEEP MORE) (Electron Pos),Modified,nan,KINGFISHER,1,0,Item Deleted,330.0
+2024-10-11 19:38:13+00:00,2024-10-11 19:56:04+00:00,17.85,87,Dine In (14),TAPASH (TAPASH) (Electron Pos),Cancelled,GUEST DID NOT LIKE THE TASTE,Lemon Coriander Soup (CHICKEN),1,0,Item Deleted,365.0
+2024-10-11 20:29:56+00:00,2024-10-11 20:31:59+00:00,2.05,136,Dine In (15),TAPASH (TAPASH) (Electron Pos),Cancelled,BY MISTAKE WRONG PUNCHED,Black & White Btl,2,0,Item Deleted,7875.0
+2024-10-11 21:23:24+00:00,2024-10-11 21:26:54+00:00,3.5,195,Dine In (G 1),TAPASH (TAPASH) (Electron Pos),Cancelled,GUEST CHANGED ORDER,Dum Pukht Biryani (VEG),1,0,Item Deleted,795.0
+2024-10-11 22:09:17+00:00,2024-10-11 22:14:14+00:00,4.95,254,Dine In (9),TAPASH (TAPASH) (Electron Pos),Modified,"WRONG PUNCH 8 , JUST ORDER NOW ALL READY INFORM KITCHEN",Dum Pukht Biryani (VEG),8,1,Item Quantity Changed,795.0
+2024-10-11 22:25:19+00:00,2024-10-11 22:26:48+00:00,1.483,265,Dine In (20),TAPASH (TAPASH) (Electron Pos),Cancelled,GUEST CANCLED,VANILLA ICE CREAM,1,0,Item Deleted,245.0
+2024-10-11 22:31:35+00:00,2024-10-11 23:16:14+00:00,44.65,272,Dine In (CRS 1),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,CORONA,3,2,Item Quantity Changed,595.0
+2024-10-11 22:31:35+00:00,2024-10-11 23:16:14+00:00,44.65,272,Dine In (CRS 1),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,KINGFISHER ULTRA,5,2,Item Quantity Changed,465.0
+2024-10-11 22:32:26+00:00,2024-10-11 22:55:50+00:00,23.4,273,Dine In (3),TAPASH (TAPASH) (Electron Pos),Modified,wrong order,Dal Tadka,1,0,Item Deleted,525.0
+2024-10-11 22:52:56+00:00,2024-10-11 22:57:27+00:00,4.517,286,Dine In (30),sachindra (sachindra) (Electron Pos),Cancelled,"GUEST CANCEL , NOT READY",Butter Roti,2,0,Item Deleted,95.0
+2024-10-11 23:12:58+00:00,2024-10-11 23:27:14+00:00,14.267,302,Dine In (22),TAPASH (TAPASH) (Electron Pos),Cancelled,wrong punchi  order chocolate ice cream,CHOCOLATE FONDUE CAKE,1,0,Item Deleted,395.0
+2024-10-12 12:32:49+00:00,2024-10-12 12:39:33+00:00,6.733,7,Dine In (G 4),TAPASH (TAPASH) (Electron Pos),Modified,GUEST CHANGED ORDER,Diwani Handi,2,1,Item Quantity Changed,795.0
+2024-10-12 13:39:17+00:00,2024-10-12 13:39:36+00:00,0.317,48,Dine In (3),MANISH (MANISH KOTIAN) (Electron Pos),Modified,nan,THUMPS UP,2,1,Item Quantity Changed,185.0
+2024-10-12 19:34:43+00:00,2024-10-12 19:35:38+00:00,0.917,153,Delivery(Parcel),KOT is cancelled due to Zomato (5409) has cancelled online order (Electron Pos),Cancelled,Order rejected due to 'Customer Cancellation',Three Treasure Vegetables In Choice Of Sauce,1,0,Item Deleted,795.0
+2024-10-12 19:34:43+00:00,2024-10-12 19:35:38+00:00,0.917,153,Delivery(Parcel),KOT is cancelled due to Zomato (5409) has cancelled online order (Electron Pos),Cancelled,Order rejected due to 'Customer Cancellation',Fried Rice (Veg),2,0,Item Deleted,765.0
+2024-10-12 19:56:42+00:00,2024-10-12 20:01:03+00:00,4.35,182,Dine In (7),vijay (vijay shetty) (Electron Pos),Cancelled,System has cancelled KOT while move kot to table no 6,ABSOLUT,2,0,Item Deleted,325.0
+2024-10-12 19:56:42+00:00,2024-10-12 20:01:03+00:00,4.35,182,Dine In (7),vijay (vijay shetty) (Electron Pos),Cancelled,System has cancelled KOT while move kot to table no 6,Kingfisher Ultra Max,1,0,Item Deleted,475.0
+2024-10-12 19:56:42+00:00,2024-10-12 20:01:03+00:00,4.35,182,Dine In (7),vijay (vijay shetty) (Electron Pos),Cancelled,System has cancelled KOT while move kot to table no 6,FRESH LIME SODA,1,0,Item Deleted,185.0
+2024-10-12 20:09:44+00:00,2024-10-12 20:58:45+00:00,49.017,197,Dine In (11),SAFIK (SAFIK KHAN) (Electron Pos),Modified,nan,Kai Yooung,1,0,Item Deleted,795.0
+2024-10-12 20:11:45+00:00,2024-10-12 20:45:16+00:00,33.517,202,Dine In (20),MANISH (MANISH KOTIAN) (Electron Pos),Modified,nan,Kung Pao Patato,1,0,Item Deleted,795.0
+2024-10-12 20:45:02+00:00,2024-10-12 21:09:19+00:00,24.283,234,Dine In (10),SAFIK (SAFIK KHAN) (Electron Pos),Modified,nan,TOMATO SOUP,1,0,Item Deleted,325.0
+2024-10-12 21:13:41+00:00,2024-10-12 21:22:47+00:00,9.1,259,Dine In (5),vijay (vijay shetty) (Electron Pos),Cancelled,System has cancelled KOT while move kot to table no 10,Virgin Mojito,1,0,Item Deleted,365.0
+2024-10-12 21:55:17+00:00,2024-10-12 22:03:02+00:00,7.75,310,Dine In (20),TAPASH (TAPASH) (Electron Pos),Cancelled,NOT AVAILABLE,Mateus Rose,1,0,Item Deleted,4500.0
+2024-10-12 23:10:14+00:00,2024-10-12 23:55:16+00:00,45.033,389,Dine In (21),TAPASH (TAPASH) (Electron Pos),Modified,guest cancled soup not prepared,Wonton & Noodle Soup (VEG),1,0,Item Deleted,365.0
+2024-10-12 23:37:59+00:00,2024-10-12 23:41:58+00:00,3.983,409,Dine In (20),TAPASH (TAPASH) (Electron Pos),Cancelled,WRONG TABLE PUNCHED BY MISTAKE,Papad Fried,1,0,Item Deleted,70.0
+2024-10-13 12:11:13+00:00,2024-10-13 15:39:02+00:00,207.817,4,Dine In (CRISOL),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,FRESH LIME SODA,6,2,Item Quantity Changed,185.0
+2024-10-13 12:21:47+00:00,2024-10-13 13:18:46+00:00,56.983,12,Dine In (3),TAPASH (TAPASH) (Electron Pos),Modified,CHANGE TO VODKA TINI,Caprioska (ABSOLUT),1,0,Item Deleted,600.0
+2024-10-13 12:35:27+00:00,2024-10-13 15:29:28+00:00,174.017,22,Dine In (CRS 1),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,SEVEN UP,5,3,Item Quantity Changed,185.0
+2024-10-13 12:35:27+00:00,2024-10-13 15:29:28+00:00,174.017,22,Dine In (CRS 1),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,DIET COKE,5,0,Item Deleted,195.0
+2024-10-13 12:35:27+00:00,2024-10-13 15:29:28+00:00,174.017,22,Dine In (CRS 1),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,THUMPS UP,5,4,Item Quantity Changed,185.0
+2024-10-13 12:57:01+00:00,2024-10-13 13:00:55+00:00,3.9,36,Dine In (4),sachindra (sachindra) (Electron Pos),Cancelled,System has cancelled KOT while move kot to table no B 1,Sweet Corn Soup (VEG),1,0,Item Deleted,365.0
+2024-10-13 12:57:01+00:00,2024-10-13 13:00:55+00:00,3.9,36,Dine In (4),sachindra (sachindra) (Electron Pos),Cancelled,System has cancelled KOT while move kot to table no B 1,Manchow Soup (VEG),1,0,Item Deleted,365.0
+2024-10-13 12:57:20+00:00,2024-10-13 12:58:57+00:00,1.617,37,Dine In (3),TAPASH (TAPASH) (Electron Pos),Cancelled,"CHANE TO VODKA TINI , NOT READY",Martini (ABSOLUT),1,0,Item Deleted,725.0
+2024-10-13 12:57:35+00:00,2024-10-13 13:18:46+00:00,21.183,38,Dine In (3),TAPASH (TAPASH) (Electron Pos),Modified,CHANGE TO VODKA TINI,Caprioska (ABSOLUT),1,0,Item Deleted,600.0
+2024-10-13 13:18:39+00:00,2024-10-13 15:27:01+00:00,128.367,56,Dine In (CRS 1),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,Kingfisher Ultra Max,4,2,Item Quantity Changed,475.0
+2024-10-13 13:18:39+00:00,2024-10-13 13:52:08+00:00,33.483,56,Dine In (CRS 1),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,Kingfisher Ultra Max,5,4,Item Quantity Changed,475.0
+2024-10-13 13:33:47+00:00,2024-10-13 15:12:31+00:00,98.733,77,Dine In (CRS 1),sachindra (sachindra) (Electron Pos),Cancelled,System has cancelled KOT while move kot to table no CRISOL,Virgin Mojito,4,0,Item Deleted,365.0
+2024-10-13 13:37:28+00:00,2024-10-13 15:31:22+00:00,113.9,79,Dine In (CRS 1),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,Tonic Water,3,2,Item Quantity Changed,195.0
+2024-10-13 13:47:46+00:00,2024-10-13 15:26:36+00:00,98.833,93,Dine In (CRS 1),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,HOEGAARDEN,5,0,Item Deleted,595.0
+2024-10-13 13:51:14+00:00,2024-10-13 13:56:42+00:00,5.467,96,Dine In (10),TAPASH (TAPASH) (Electron Pos),Modified,guest changed quantity,Reshmi Paneer,3,2,Item Quantity Changed,795.0
+2024-10-13 13:51:14+00:00,2024-10-13 13:56:42+00:00,5.467,96,Dine In (10),TAPASH (TAPASH) (Electron Pos),Modified,guest changed quantity,Subzi Lahori,3,2,Item Quantity Changed,795.0
+2024-10-13 14:08:40+00:00,2024-10-13 14:42:31+00:00,33.85,113,Dine In (5),sachindra (sachindra) (Electron Pos),Modified,bitter,Juices Fresh,1,0,Item Deleted,225.0
+2024-10-13 14:59:37+00:00,2024-10-13 15:03:00+00:00,3.383,170,Dine In (G 2),SAFIK (SAFIK KHAN) (Electron Pos),Modified,nan,BLACK & WHITE,2,0,Item Deleted,315.0
+2024-10-13 19:08:21+00:00,2024-10-13 23:12:05+00:00,243.733,226,Dine In (CRS 1),vijay (vijay shetty) (Electron Pos),Cancelled,crisol party,Soda,4,0,Item Deleted,135.0
+2024-10-13 19:08:21+00:00,2024-10-13 23:12:05+00:00,243.733,226,Dine In (CRS 1),vijay (vijay shetty) (Electron Pos),Cancelled,crisol party,DIET COKE,4,0,Item Deleted,195.0
+2024-10-13 19:08:21+00:00,2024-10-13 23:12:05+00:00,243.733,226,Dine In (CRS 1),vijay (vijay shetty) (Electron Pos),Cancelled,crisol party,SEVEN UP,4,0,Item Deleted,185.0
+2024-10-13 19:08:21+00:00,2024-10-13 23:12:05+00:00,243.733,226,Dine In (CRS 1),vijay (vijay shetty) (Electron Pos),Cancelled,crisol party,THUMPS UP,4,0,Item Deleted,185.0
+2024-10-13 19:11:21+00:00,2024-10-13 19:16:22+00:00,5.017,229,Pick Up,TAPASH (TAPASH) (Electron Pos),Modified,nan,Naan,1,0,Item Deleted,130.0
+2024-10-13 19:11:21+00:00,2024-10-13 19:16:22+00:00,5.017,229,Pick Up,TAPASH (TAPASH) (Electron Pos),Modified,nan,Butter Paratha,2,0,Item Deleted,135.0
+2024-10-13 19:11:21+00:00,2024-10-13 19:15:54+00:00,4.55,229,Pick Up,vijay (vijay shetty) (Electron Pos),Modified,change order,Butter Roti,3,0,Item Deleted,95.0
+2024-10-13 19:25:36+00:00,2024-10-13 19:27:36+00:00,2.0,243,Dine In (15),TAPASH (TAPASH) (Electron Pos),Cancelled,"NOT AVAILABLE , FINISH",Kingfisher Ultra Max,1,0,Item Deleted,475.0
+2024-10-13 19:52:17+00:00,2024-10-13 20:26:58+00:00,34.683,273,Dine In (3),TAPASH (TAPASH) (Electron Pos),Modified,nan,DIET COKE,2,1,Item Quantity Changed,195.0
+2024-10-13 19:52:17+00:00,2024-10-13 20:26:58+00:00,34.683,273,Dine In (3),TAPASH (TAPASH) (Electron Pos),Modified,nan,LASSI,2,1,Item Quantity Changed,195.0
+2024-10-13 19:54:39+00:00,2024-10-13 20:21:37+00:00,26.967,278,Dine In (16),TAPASH (TAPASH) (Electron Pos),Modified,"GUEST CANCEL, , , NOT ORDER MAKING HOLD",Diwani Handi,1,0,Item Deleted,795.0
+2024-10-13 19:54:39+00:00,2024-10-13 20:21:37+00:00,26.967,278,Dine In (16),TAPASH (TAPASH) (Electron Pos),Modified,"GUEST CANCEL , , NOT READY , , MAKING HOLD",Roomali Roti,1,0,Item Deleted,150.0
+2024-10-13 19:54:39+00:00,2024-10-13 20:21:37+00:00,26.967,278,Dine In (16),TAPASH (TAPASH) (Electron Pos),Modified,"GUEST CANCEL , , , NOT READY MAKING HOLD",Butter Roti,1,0,Item Deleted,95.0
+2024-10-13 20:05:55+00:00,2024-10-13 20:11:29+00:00,5.567,295,Dine In (30),TAPASH (TAPASH) (Electron Pos),Modified,GUEST CHANGED ORDER,Butter Paratha,2,1,Item Quantity Changed,135.0
+2024-10-13 20:05:55+00:00,2024-10-13 20:11:29+00:00,5.567,295,Dine In (30),TAPASH (TAPASH) (Electron Pos),Modified,GUEST CHANGED ORDER,DAL KHICHDI,1,0,Item Deleted,675.0
+2024-10-13 20:12:44+00:00,2024-10-13 20:26:58+00:00,14.233,303,Dine In (3),TAPASH (TAPASH) (Electron Pos),Cancelled,System has cancelled KOT while move kot to table no B 3,Chilly Crispy Patato,1,0,Item Deleted,795.0
+2024-10-13 20:14:05+00:00,2024-10-13 20:26:58+00:00,12.883,307,Dine In (3),TAPASH (TAPASH) (Electron Pos),Modified,nan,Butter Paratha,1,0,Item Deleted,135.0
+2024-10-13 20:14:05+00:00,2024-10-13 20:26:58+00:00,12.883,307,Dine In (3),TAPASH (TAPASH) (Electron Pos),Modified,nan,Chinese Prawns (REGULAR),1,0,Item Deleted,1255.0
+2024-10-13 20:14:05+00:00,2024-10-13 20:26:58+00:00,12.883,307,Dine In (3),TAPASH (TAPASH) (Electron Pos),Modified,nan,Dum Paneer Kalamiri,1,0,Item Deleted,795.0
+2024-10-13 20:28:21+00:00,2024-10-13 20:34:48+00:00,6.45,328,Dine In (10),MANISH (MANISH KOTIAN) (Electron Pos),Modified,nan,Basil Garlic Cheesy Potato,1,0,Item Deleted,795.0
+2024-10-13 20:57:51+00:00,2024-10-13 20:59:22+00:00,1.517,374,Dine In (G 4),TAPASH (TAPASH) (Electron Pos),Cancelled,WRONG PUNCHING,Double Black Bottle,1,0,Item Deleted,17375.0
+2024-10-13 21:01:59+00:00,2024-10-13 21:23:04+00:00,21.083,382,Dine In (G 1),SAFIK (SAFIK KHAN) (Electron Pos),Modified,nan,DAL KHICHDI,2,1,Item Quantity Changed,675.0
+2024-10-13 21:02:37+00:00,2024-10-13 21:03:10+00:00,0.55,385,Dine In (3),TAPASH (TAPASH) (Electron Pos),Cancelled,System has cancelled KOT while move kot to table no B 3,DIET COKE,1,0,Item Deleted,195.0
+2024-10-13 21:28:17+00:00,2024-10-13 22:21:20+00:00,53.05,430,Dine In (5),MANISH (MANISH KOTIAN) (Electron Pos),Modified,nan,ROASTED MASALA PAPAD,1,0,Item Deleted,90.0
+2024-10-14 14:21:13+00:00,2024-10-14 14:30:23+00:00,9.167,23,Dine In (PDR 4),sachindra (sachindra) (Electron Pos),Modified,"NOT READY . . ONLY 2 PEOPLE , , NCGUEST",Stir Fried Chicken Chilly & Basil,1,0.5,Item Quantity Changed,795.0
+2024-10-14 14:26:09+00:00,2024-10-14 14:30:23+00:00,4.233,27,Dine In (PDR 4),sachindra (sachindra) (Electron Pos),Modified,"NOT READY  ONLY 2 PEOPLE  , , ,NC GUEST",Crispy Spinach Paneer,1,0.5,Item Quantity Changed,795.0
+2024-10-14 15:11:24+00:00,2024-10-14 15:18:17+00:00,6.883,37,Dine In (16),SANDEEP (SANDEEP MORE) (Electron Pos),Modified,nan,Burnt Garlic Soup (VEG),1,0,Item Deleted,365.0
+2024-10-14 18:50:11+00:00,2024-10-14 19:06:30+00:00,16.317,42,Dine In (B 1),vijay (vijay shetty) (Electron Pos),Cancelled,System has cancelled KOT while move kot to table no B 3,GREEN TEA,1,0,Item Deleted,115.0
+2024-10-14 21:16:48+00:00,2024-10-14 21:20:44+00:00,3.933,104,Dine In (4),TAPASH (TAPASH) (Electron Pos),Modified,"GUEST CANCEL , , , NOT OPEN BOTTLE",THUMPS UP,3,2,Item Quantity Changed,185.0
+2024-10-14 23:17:14+00:00,2024-10-14 23:17:47+00:00,0.55,198,Dine In (PDR 4),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,CHIVAS REGAL,2,1,Item Quantity Changed,645.0
+2024-10-14 23:20:01+00:00,2024-10-14 23:21:38+00:00,1.617,199,Dine In (G 2),TAPASH (TAPASH) (Electron Pos),Cancelled,WRONG PUNCHED,GLENFIDDICH - 12 YEARS,5,0,Item Deleted,950.0
+2024-10-15 00:14:24+00:00,2024-10-15 00:19:13+00:00,4.817,221,Dine In (15),TAPASH (TAPASH) (Electron Pos),Cancelled,guest cancled,Mojito,1,0,Item Deleted,495.0
+2024-10-15 14:24:03+00:00,2024-10-15 14:33:18+00:00,9.25,31,Dine In (3),TAPASH (TAPASH) (Electron Pos),Modified,nan,HOEGAARDEN,2,0,Item Deleted,595.0
+2024-10-15 15:01:21+00:00,2024-10-15 15:03:06+00:00,1.75,45,Dine In (14),vijay (vijay shetty) (Electron Pos),Cancelled,guest cancelled,Tonic Water,1,0,Item Deleted,195.0
+2024-10-15 20:33:04+00:00,2024-10-15 21:07:51+00:00,34.783,103,Dine In (30),vijay (vijay shetty) (Electron Pos),Modified,change to sevenu;p,DIET COKE,2,1,Item Quantity Changed,195.0
+2024-10-15 20:47:55+00:00,2024-10-15 20:53:13+00:00,5.3,111,Dine In (G 2),TAPASH (TAPASH) (Electron Pos),Modified,"GUEST CANCEL  , , , , NOT READY , , ,",Crispy Corn,1,0,Item Deleted,795.0
+2024-10-15 20:59:09+00:00,2024-10-15 21:00:50+00:00,1.683,121,Dine In (11),SANDEEP (SANDEEP MORE) (Electron Pos),Modified,nan,Kingfisher Ultra Max,1,0,Item Deleted,475.0
+2024-10-15 21:12:05+00:00,2024-10-15 21:13:48+00:00,1.717,140,Dine In (30),vijay (vijay shetty) (Electron Pos),Cancelled,double punch,Butter Naan,1,0,Item Deleted,150.0
+2024-10-15 22:17:39+00:00,2024-10-15 22:31:27+00:00,13.8,200,Dine In (G 3),TAPASH (TAPASH) (Electron Pos),Cancelled,"GUEST CANCEL  , , , , NOT SERVED",ROASTED PAPAD,1,0,Item Deleted,70.0
+2024-10-15 23:08:48+00:00,2024-10-15 23:09:10+00:00,0.367,225,Delivery(Parcel),KOT is cancelled due to Zomato (5409) has cancelled online order (Electron Pos),Cancelled,Order rejected due to 'Customer Cancellation',Chicken Kebabs (Chicken Reshmi),1,0,Item Deleted,795.0
+2024-10-15 23:59:10+00:00,2024-10-16 00:01:58+00:00,2.8,235,Dine In (15),SAFIK (SAFIK KHAN) (Electron Pos),Modified,nan,Dal Tadka,1,0,Item Deleted,525.0
+2024-10-16 00:02:06+00:00,2024-10-16 00:23:11+00:00,21.083,236,Dine In (15),vijay (vijay shetty) (Electron Pos),Cancelled,guest cancel,Amritsari Dal,1,0,Item Deleted,525.0
+2024-10-16 00:07:18+00:00,2024-10-16 00:10:01+00:00,2.717,238,Dine In (22),vijay (vijay shetty) (Electron Pos),Modified,change order,Green Salad,1,0,Item Deleted,375.0
+2024-10-16 14:30:51+00:00,2024-10-16 14:31:35+00:00,0.733,60,Dine In (CRS 1),Saikat (Saikat Sarkar) (Electron Pos),Cancelled,double punched,Sweet Corn Soup (CHICKEN),1,0,Item Deleted,365.0
+2024-10-16 14:30:51+00:00,2024-10-16 14:31:35+00:00,0.733,60,Dine In (CRS 1),Saikat (Saikat Sarkar) (Electron Pos),Cancelled,double punched,Manchow Soup (CHICKEN),3,0,Item Deleted,365.0
+2024-10-16 14:53:47+00:00,2024-10-16 15:03:56+00:00,10.15,66,Dine In (11),TAPASH (TAPASH) (Electron Pos),Modified,"GUEST MIND CHANGE AND ORDER SOMETHINF ELSE , , , ORDER WAS NOT READY NOT SERVED",LASOONI PALAK,1,0,Item Deleted,795.0
+2024-10-16 15:01:41+00:00,2024-10-16 15:12:37+00:00,10.933,71,Dine In (20),TAPASH (TAPASH) (Electron Pos),Cancelled,GUEST CHANGE ORDER,MALAI KULFI,2,0,Item Deleted,295.0
+2024-10-16 15:42:22+00:00,2024-10-16 15:43:08+00:00,0.767,85,Dine In (5),TAPASH (TAPASH) (Electron Pos),Cancelled,GUEST CANCLD,KULFI RABDI FALOODA,1,0,Item Deleted,395.0
+2024-10-16 19:25:40+00:00,2024-10-16 20:03:13+00:00,37.55,106,Dine In (5),sachindra (sachindra) (Electron Pos),Modified,"GUEST CANCEL 1 SMALL , , ,NOT SERVED",TANQUERAY,4,3,Item Quantity Changed,450.0
+2024-10-16 19:45:25+00:00,2024-10-16 21:02:16+00:00,76.85,117,Delivery(Parcel),KOT is cancelled due to Zomato (5409) has cancelled online order (Electron Pos),Cancelled,Order rejected due to 'Customer cancellation because they do not require order anymore',Neer Dosa(4pc),2,0,Item Deleted,225.0
+2024-10-16 19:45:25+00:00,2024-10-16 21:02:16+00:00,76.85,117,Delivery(Parcel),KOT is cancelled due to Zomato (5409) has cancelled online order (Electron Pos),Cancelled,Order rejected due to 'Customer cancellation because they do not require order anymore',Spicy Lime Noodles (Veg),1,0,Item Deleted,765.0
+2024-10-16 19:45:25+00:00,2024-10-16 21:02:16+00:00,76.85,117,Delivery(Parcel),KOT is cancelled due to Zomato (5409) has cancelled online order (Electron Pos),Cancelled,Order rejected due to 'Customer cancellation because they do not require order anymore',Vegetable Stew,1,0,Item Deleted,795.0
+2024-10-16 19:54:54+00:00,2024-10-16 19:59:02+00:00,4.133,123,Dine In (11),sachindra (sachindra) (Electron Pos),Modified,CHANGE TO HOEGARDEN,KINGFISHER ULTRA,1,0,Item Deleted,465.0
+2024-10-16 19:56:05+00:00,2024-10-16 20:11:31+00:00,15.433,124,Dine In (16),TAPASH (TAPASH) (Electron Pos),Modified,WRONG PUNCHED,FRESH LIME WATER,2,1,Item Quantity Changed,185.0
+2024-10-16 20:03:00+00:00,2024-10-16 20:46:04+00:00,43.067,129,Dine In (21),TAPASH (TAPASH) (Electron Pos),Cancelled,"guest cancel , , , not ready , , ,",FRIED RICE (VEG),1,0,Item Deleted,765.0
+2024-10-16 20:03:00+00:00,2024-10-16 20:46:04+00:00,43.067,129,Dine In (21),TAPASH (TAPASH) (Electron Pos),Cancelled,"guest cancel , , , not ready , , ,starter full",Exotic Hot Pot Vegtable,1,0,Item Deleted,795.0
+2024-10-16 20:24:17+00:00,2024-10-16 20:32:43+00:00,8.433,148,Dine In (12),TAPASH (TAPASH) (Electron Pos),Cancelled,System has cancelled KOT while move kot to table no 14,Dim Sum (VEG),1,0,Item Deleted,725.0
+2024-10-16 20:24:57+00:00,2024-10-16 20:28:28+00:00,3.517,149,Dine In (G 2),TAPASH (TAPASH) (Electron Pos),Modified,guest changed order,Crispy Spinach Paneer,3,2,Item Quantity Changed,795.0
+2024-10-16 21:13:39+00:00,2024-10-16 21:29:06+00:00,15.45,184,Dine In (G 1),TAPASH (TAPASH) (Electron Pos),Modified,GUEST WANTS SEPERATE BILL,CAMPARI,2,0,Item Deleted,575.0
+2024-10-16 21:14:02+00:00,2024-10-16 21:29:06+00:00,15.067,185,Dine In (G 2),TAPASH (TAPASH) (Electron Pos),Modified,GUEST WANTS SEPERATE BILL,CHIVAS REGAL,4,0,Item Deleted,645.0
+2024-10-16 21:15:16+00:00,2024-10-16 21:29:06+00:00,13.833,187,Dine In (G 2),TAPASH (TAPASH) (Electron Pos),Cancelled,GUEST WANTS SEPERATE BILL,CHIVAS REGAL,2,0,Item Deleted,645.0
+2024-10-16 22:06:04+00:00,2024-10-16 22:15:48+00:00,9.733,227,Dine In (G 2),TAPASH (TAPASH) (Electron Pos),Modified,guest changed order,Subzi Sunheri,2,0,Item Deleted,795.0
+2024-10-17 13:20:24+00:00,2024-10-17 13:25:08+00:00,4.733,3,Dine In (16),sachindra (sachindra) (Electron Pos),Modified,guest cancelled,PANEER MAKHANWALA,1,0,Item Deleted,795.0
+2024-10-17 13:20:24+00:00,2024-10-17 13:25:08+00:00,4.733,3,Dine In (16),sachindra (sachindra) (Electron Pos),Modified,guest cancelled,BUTTER GARLIC NAAN,1,0,Item Deleted,165.0
+2024-10-17 13:20:24+00:00,2024-10-17 13:25:08+00:00,4.733,3,Dine In (16),sachindra (sachindra) (Electron Pos),Modified,guest cancelled,Naan,1,0,Item Deleted,130.0
+2024-10-17 13:20:24+00:00,2024-10-17 13:25:08+00:00,4.733,3,Dine In (16),sachindra (sachindra) (Electron Pos),Modified,guest cancelled,THUMPS UP,1,0,Item Deleted,185.0
+2024-10-17 13:20:24+00:00,2024-10-17 13:25:08+00:00,4.733,3,Dine In (16),sachindra (sachindra) (Electron Pos),Modified,guest cancelled,Khasta Chaat,1,0,Item Deleted,295.0
+2024-10-17 14:36:16+00:00,2024-10-17 14:41:15+00:00,4.983,18,Dine In (22),SANDEEP (SANDEEP MORE) (Electron Pos),Modified,nan,Virgin Mojito,2,1,Item Quantity Changed,365.0
+2024-10-17 14:53:04+00:00,2024-10-17 14:53:55+00:00,0.85,22,Dine In (16),SANDEEP (SANDEEP MORE) (Electron Pos),Modified,nan,Virgin Mojito,2,1,Item Quantity Changed,365.0
+2024-10-17 16:29:42+00:00,2024-10-17 21:15:36+00:00,285.9,31,Dine In (CRISOL),vijay (vijay shetty) (Electron Pos),Modified,return from crisol party,SEVEN UP,5,1,Item Quantity Changed,185.0
+2024-10-17 16:29:42+00:00,2024-10-17 21:15:36+00:00,285.9,31,Dine In (CRISOL),vijay (vijay shetty) (Electron Pos),Modified,return from crisol party,THUMPS UP,5,1,Item Quantity Changed,185.0
+2024-10-17 16:29:42+00:00,2024-10-17 21:15:36+00:00,285.9,31,Dine In (CRISOL),vijay (vijay shetty) (Electron Pos),Modified,return from crisol party,FRESH LIME SODA,8,6,Item Quantity Changed,185.0
+2024-10-17 16:48:56+00:00,2024-10-17 20:55:23+00:00,246.45,33,Dine In (CRS 1),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,KINGFISHER,5,3,Item Quantity Changed,330.0
+2024-10-17 17:53:17+00:00,2024-10-17 20:54:43+00:00,181.433,36,Dine In (CRS 1),TAPASH CAP (TAPASH) (Electron Pos),Modified,nan,DIET COKE,5,3,Item Quantity Changed,195.0
+2024-10-17 17:54:14+00:00,2024-10-17 21:15:36+00:00,201.367,37,Dine In (CRISOL),vijay (vijay shetty) (Electron Pos),Modified,return from crisol party,THUMPS UP,5,4,Item Quantity Changed,185.0
+2024-10-17 17:54:14+00:00,2024-10-17 21:16:57+00:00,202.717,37,Dine In (CRISOL),vijay (vijay shetty) (Electron Pos),Modified,return from crisol party,THUMPS UP,4,1,Item Quantity Changed,185.0
+2024-10-17 20:25:33+00:00,2024-10-17 20:29:38+00:00,4.083,75,Dine In (3),TAPASH (TAPASH) (Electron Pos),Modified,GUEST CHANGED ORDER,KINGFISHER ULTRA,2,0,Item Deleted,465.0
+2024-10-17 20:44:08+00:00,2024-10-17 20:45:03+00:00,0.917,91,Dine In (10),SAFIK (SAFIK KHAN) (Electron Pos),Modified,nan,Soda,2,0,Item Deleted,0.0
+2024-10-17 21:03:09+00:00,2024-10-17 21:26:06+00:00,22.95,112,Dine In (22),SANDEEP (SANDEEP MORE) (Electron Pos),Modified,nan,Papad Masala,2,0,Item Deleted,90.0
+2024-10-17 21:03:09+00:00,2024-10-17 22:12:27+00:00,69.3,112,Dine In (22),vijay (vijay shetty) (Electron Pos),Modified,nan,FUTCHI NOODLES (CHICKEN),1,0,Item Deleted,765.0
+2024-10-17 22:07:43+00:00,2024-10-17 23:02:49+00:00,55.1,161,Dine In (10),TAPASH (TAPASH) (Electron Pos),Modified,guest is said no salt,Amritsari Dal,2,1,Item Quantity Changed,525.0
+2024-10-17 22:30:34+00:00,2024-10-17 22:42:16+00:00,11.7,176,Dine In (6),SAFIK (SAFIK KHAN) (Electron Pos),Modified,nan,Roomali Roti,1,0,Item Deleted,150.0
+2024-10-17 22:39:13+00:00,2024-10-17 23:29:52+00:00,50.65,185,Dine In (30),TAPASH (TAPASH) (Electron Pos),Cancelled,guest is thought chicken hard,Chilli Chicken,1,0,Item Deleted,795.0

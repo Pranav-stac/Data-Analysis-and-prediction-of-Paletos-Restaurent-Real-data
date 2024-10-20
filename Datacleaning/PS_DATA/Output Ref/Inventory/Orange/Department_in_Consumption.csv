@@ -1,0 +1,1241 @@
+Department,Raw_Material,Unit,IssuedQuantity,ConsumedQuantity,Variance,VariancePercentage
+Bar,100 Piper,BTL,1.0,,,
+Bar,7 Up,BTL,96.0,,,
+Bar,7 Up 750 Ml,BTL,48.0,,,
+Bar,Absolut Vodka,BTL,8.0,,,
+Bar,Amrut Amalgam,BTL,1.0,,,
+Bar,Antiquity Blue,BTL,2.0,,,
+Bar,Apple,Kg,1.5,0.2,1.3,86.66666666666667
+Bar,Apple Juice,LTR,6.0,,,
+Bar,Aquafina Water,BTL,1980.0,,,
+Bar,Bacardi,BTL,3.0,,,
+Bar,Ballantine S Finest,BTL,3.0,,,
+Bar,Bira White,BTL,52.0,,,
+Bar,Bisleri 1 Ltr,BTL,780.0,,,
+Bar,Black & White,BTL,3.0,,,
+Bar,Black Dog Triple Gold Reserve,BTL,3.0,,,
+Bar,Blue Curacao Syrup,BTL,3.0,,,
+Bar,Bombay Sapphire,BTL,2.0,,,
+Bar,Budweiser,BTL,72.0,,,
+Bar,Budweiser Magnum,BTL,48.0,,,
+Bar,Carlsberg,BTL,48.0,,,
+Bar,Cheesling,TIN,8.0,,,
+Bar,Chivas Regal 12 Yrs,BTL,4.0,,,
+Bar,Chivas Regal 18 Yrs,BTL,1.0,,,
+Bar,Coconut Syrup,BTL,2.0,,,
+Bar,Corona,BTL,72.0,,,
+Bar,Cranberry Juice,LTR,3.0,,,
+Bar,Demerara Sugar,Kg,0.5,,,
+Bar,Diet Coke,CAN,216.0,,,
+Bar,Dukes Soda,BTL,816.0,,,
+Bar,Eggs,PCS,10.0,16664.0,-16654.0,-166540.0
+Bar,Ginger Ale,CAN,36.0,,,
+Bar,Green Lemon,Kg,1.0,,,
+Bar,Grenadine Syrup,BTL,2.0,,,
+Bar,Grey Goose Vodka,BTL,3.0,,,
+Bar,Heineken,BTL,24.0,,,
+Bar,Hendricks,BTL,1.0,,,
+Bar,Hoegaarden Belgian,BTL,24.0,,,
+Bar,Ice,Kg,720.0,,,
+Bar,Irish Whisky Jameson Triple Distilled,BTL,2.0,,,
+Bar,J W Black Label,BTL,2.0,,,
+Bar,J W Double Black,BTL,2.0,,,
+Bar,J W Red Label,BTL,2.0,,,
+Bar,Jacob S Creek Classic Caberne Shirz,BTL,6.0,,,
+Bar,Jacob S Creek Classic Chardonnay,BTL,3.0,,,
+Bar,Jacobs Creek Cabernet Shiraz,BTL,3.0,,,
+Bar,Jim Beam,BTL,1.0,,,
+Bar,Ketel One,BTL,1.0,,,
+Bar,Kingfisher,BTL,120.0,,,
+Bar,Kingfisher Strong,BTL,48.0,,,
+Bar,Kingfisher Ultra,BTL,120.0,,,
+Bar,Kiwi Crush,BTL,1.0,,,
+Bar,Kot Roll,NOS,24.0,,,
+Bar,Legacy Premium,BTL,1.0,,,
+Bar,Lemon,Kg,82.0,2.887000000000002,79.113,96.47926829268293
+Bar,Lemon Iced Tea Syrup,LTR,6.0,,,
+Bar,Litchi Crush,BTL,1.0,,,
+Bar,Mint Leaves,Kg,3.25,1.49,1.76,54.15384615384615
+Bar,Mojito Mint Syrup,BTL,3.0,,,
+Bar,Monkey Shoulder,BTL,2.0,,,
+Bar,Orange Imp,Kg,2.0,,,
+Bar,Paper Straw,PKT,20.0,,,
+Bar,Peach Syrup,BTL,1.0,,,
+Bar,Peanut Roasted,Kg,65.0,,,
+Bar,Pepsi,BTL,48.0,,,
+Bar,Perrier Carbonated Water,BTL,24.0,,,
+Bar,Pineapple Fruit,Kg,4.0,0.17,3.83,95.75
+Bar,Red Bull,CAN,24.0,,,
+Bar,Red Cherry,TIN,16.0,,,
+Bar,Red La Reserve,BTL,3.0,,,
+Bar,Royal Challenge,BTL,2.0,,,
+Bar,Salt Tata,PKT,1.0,29.94699999999923,-28.94699999999923,-2894.699999999923
+Bar,Signature Rare Aged,BTL,2.0,,,
+Bar,Singleton,BTL,1.0,,,
+Bar,Smirnoff,BTL,3.0,,,
+Bar,Strawberry Crush,BTL,4.0,,,
+Bar,Sugar,Kg,19.5,30.33599999999956,-10.835999999999562,-55.56923076922852
+Bar,Sweet Lemon,Kg,1.0,,,
+Bar,Tabasco Sauce,BTL,3.0,,,
+Bar,Tanqueray Gin,BTL,2.0,,,
+Bar,Teachers 50,BTL,2.0,,,
+Bar,Teachers Highland Cream,BTL,1.0,,,
+Bar,The Glenlivet 12 Years,BTL,3.0,,,
+Bar,Thums Up,BTL,288.0,,,
+Bar,Tomato Juice,PKT,3.0,,,
+Bar,Tonic Water,CAN,48.0,,,
+Bar,Triple Sec,BTL,2.0,,,
+Bar,Vanilla Md Ice Cream,LTR,12.0,1.92,10.08,84.0
+Bar,Worcestershire Sauce (chinese),BTL,3.0,,,
+Bar,Yellow Tail Chardonnay,BTL,3.0,,,
+Breakfast,Atta,Kg,25.0,72.09999999999977,-47.09999999999977,-188.39999999999907
+Breakfast,Banana Leaf,PCS,5.0,11.0,-6.0,-120.0
+Breakfast,Besan,Kg,10.0,3.25,6.75,67.5
+Breakfast,Coconut Big,PCS,30.0,1200.5,-1170.5,-3901.6666666666665
+Breakfast,Curd Mother Dairy,Kg,8.0,19.5619999999999,-11.561999999999902,-144.52499999999878
+Breakfast,Daliya,Kg,5.0,,,
+Breakfast,Dhokla Atta,Kg,6.0,,,
+Breakfast,Drum Stick,Kg,5.0,,,
+Breakfast,Green Peas,PKT,4.0,4.956000000000001,-0.9560000000000013,-23.900000000000034
+Breakfast,Hing Powder,BTL,6.0,0.56,5.4399999999999995,90.66666666666666
+Breakfast,Kaju Tukda,Kg,1.0,6.024000000000002,-5.024000000000002,-502.4000000000002
+Breakfast,Kishmish,Kg,0.5,,,
+Breakfast,Milk 3 Fat,PKT,4.0,28.64999999999998,-24.64999999999998,-616.2499999999995
+Breakfast,Nature Jaggery,PKT,3.0,,,
+Breakfast,Peanut Roasted,Kg,2.0,,,
+Breakfast,Red Pumpkin,Kg,8.0,,,
+Breakfast,Refind Oil,LTR,40.0,35.69899999999958,4.301000000000421,10.752500000001053
+Breakfast,Sabudana,Kg,2.0,,,
+Breakfast,Sambhar Masala,PKT,4.0,,,
+Breakfast,Vermicelli Noodle,PKT,6.0,,,
+Butchery kitchen,Bombil,Kg,18.0,1.0,17.0,94.44444444444444
+Butchery kitchen,Chicken Breast Bonless,Kg,166.0,47.07999999999999,118.92000000000002,71.63855421686748
+Butchery kitchen,Chicken Broiler,Kg,160.8,,,
+Butchery kitchen,Chicken Carcass (haddi),Kg,73.0,,,
+Butchery kitchen,Chicken Leg Bonless,Kg,283.0,179.94,103.06,36.416961130742045
+Butchery kitchen,Chicken Supreme,Kg,68.5,,,
+Butchery kitchen,Chicken Tandoori,Kg,24.099999999999998,,,
+Butchery kitchen,Crab Whole Big,Kg,1.0,,,
+Butchery kitchen,Medium Prawns,Kg,26.900000000000002,9.45,17.450000000000003,64.86988847583643
+Butchery kitchen,Mutton Big Raan,Kg,138.60000000000002,39.45999999999998,99.14000000000004,71.52958152958155
+Butchery kitchen,Pomfret,Kg,75.3,0.4,74.89999999999999,99.468791500664
+Butchery kitchen,Prawns Frozen 70/80,Kg,18.0,0.19,17.81,98.94444444444443
+Butchery kitchen,Rawas Fish,Kg,21.5,3.64,17.86,83.06976744186046
+Butchery kitchen,Small Crab Whole,Kg,18.3,,,
+Butchery kitchen,Squid,Kg,6.5,1.6500000000000004,4.85,74.6153846153846
+Butchery kitchen,Surmay Fish,Kg,14.0,2.0,12.0,85.71428571428571
+Butchery kitchen,Tiger Prawns,Kg,37.0,,,
+Cafe,Almond Milk,PKT,245.0,,,
+Cafe,Amul Milk,LTR,610.0,,,
+Cafe,Baba Budan Peak,Kg,2.0,,,
+Cafe,Banana Leaf,PCS,320.0,11.0,309.0,96.5625
+Cafe,Bisleri 250 Ml,BTL,14256.0,,,
+Cafe,Black Coffee Cup 450 Ml,PCS,750.0,,,
+Cafe,Black Cup 250m,PCS,200.0,,,
+Cafe,Caramel Syrup,BTL,4.0,,,
+Cafe,Cling Foil,ROLL,5.0,,,
+Cafe,Coffee Cup 350 Ml,PCS,2450.0,,,
+Cafe,Coffee Cup Lid 250 Ml,PCS,1450.0,,,
+Cafe,Coffee Cup Lid 350 Ml,PCS,2275.0,,,
+Cafe,Coffee Cup Lid 450 Ml,PCS,200.0,,,
+Cafe,Coffee Cups 250 Ml,PCS,1625.0,,,
+Cafe,Demerara Sugar 5 Gm,PKT,5.0,,,
+Cafe,Dvg Chocolate Sauce 2 Ltr,BTL,1.0,,,
+Cafe,Dvg Smoothies Pumps,PCS,1.0,,,
+Cafe,Ech House Blend,Kg,61.0,,,
+Cafe,Edc Roll,PCS,20.0,,,
+Cafe,Frappe Powder,PKT,114.0,,,
+Cafe,Ginger Ale,CAN,37.0,,,
+Cafe,Ginger Ale Britvic,CAN,5.0,,,
+Cafe,Hand Gloves Plastic,PKT,3.0,,,
+Cafe,Havmor Butterscotch Ice Cream,LTR,5.0,,,
+Cafe,Havmor Chocolate Ice Cream,LTR,5.0,,,
+Cafe,Havmor Vanilla Ice Cream,LTR,5.0,,,
+Cafe,Hazelnut Syrup,BTL,14.0,,,
+Cafe,Hazelut,Kg,1.0,,,
+Cafe,Honey 15 Gm,PCS,100.0,,,
+Cafe,Hot Drink Maker 2 Ltr,PCS,1.0,,,
+Cafe,Ice,Kg,1835.0,,,
+Cafe,Irish Syrup,BTL,3.0,,,
+Cafe,Jaggery Powder Sachet,PKT,33.0,,,
+Cafe,Kitchen Roll,NOS,3.0,,,
+Cafe,Kodai Shroom,Kg,4.0,,,
+Cafe,Kot Roll,NOS,28.0,,,
+Cafe,Lunch Box Big,NOS,1900.0,,,
+Cafe,Macron Box,NOS,90.0,,,
+Cafe,Madagascar Chocolate,PKT,6.0,,,
+Cafe,Mazes Of Coorg,Kg,2.0,,,
+Cafe,Milk Maid,TIN,60.0,,,
+Cafe,Nutella Sauce,Kg,4.5,,,
+Cafe,Oat Milk,LTR,16.4,,,
+Cafe,Paper Bag Big,NOS,200.0,,,
+Cafe,Paper Bag Small,NOS,1250.0,,,
+Cafe,Paper Straw,PKT,73.0,,,
+Cafe,Scrub Pad,NOS,4.0,,,
+Cafe,Spicy Banana Chips (red),Kg,129.0,,,
+Cafe,Spicy Banana Chips Standup Pouches,Piece,100.0,,,
+Cafe,Standup Pouches,Piece,54.0,,,
+Cafe,Sugar 5 Gm,PKT,10.0,,,
+Cafe,Sugar Free,PKT,1.0,,,
+Cafe,Swa Caramel Syrup,BTL,1.0,,,
+Cafe,Swa Coconut Syrup,BTL,5.0,,,
+Cafe,Swa Hibiscus Cascara Syrup,BTL,8.0,,,
+Cafe,Tamma Kaapi,PKT,147.0,,,
+Cafe,Tiramisu Syrup,BTL,1.0,,,
+Cafe,Tissue Paper Ettarra,PKT,151.0,,,
+Cafe,Tonic Water,CAN,36.0,,,
+Cafe,Tonic Water Britvit,BTL,15.0,,,
+Cafe,Vanilla Syrup,BTL,5.0,,,
+Cafe,Waves Of Malnad,Kg,4.0,,,
+Cafe,White Butter,Kg,0.5,,,
+Cafe,Wild Chikmagalur,Kg,4.0,,,
+Cafe,Wonder Wipe,PCS,3.0,,,
+Cafe,Wooden Fork,PKT,7.0,,,
+Cafe,Wooden Spoon,PKT,30.0,,,
+Cafe,Wooden Stirrer,PKT,3.0,,,
+Cafe,Yellow Banana,Kg,2.0,,,
+Cafe,Yellow Banana Chips,Kg,131.5,,,
+Cafe,Yellow Banana Chips Standup Pouches,Piece,100.0,,,
+Food Testing (Trial),Aromatic Powder,PKT,1.0,5.236000000000004,-4.236000000000004,-423.6000000000004
+Food Testing (Trial),Asparagus,Kg,1.0,1.6700000000000006,-0.6700000000000006,-67.00000000000006
+Food Testing (Trial),Avocado Imp,Kg,0.6,,,
+Food Testing (Trial),Avocado Ind,Kg,0.55,,,
+Food Testing (Trial),Baby Corn,Kg,0.5,10.730000000000006,-10.230000000000006,-2046.0000000000011
+Food Testing (Trial),Baby Spinach,Kg,1.0,,,
+Food Testing (Trial),Baking Powder,PKT,1.0,0.037500000000000006,0.9625,96.25
+Food Testing (Trial),Bamboo Shoots,TIN,1.0,,,
+Food Testing (Trial),Banana Leaf,PCS,10.0,11.0,-1.0,-10.0
+Food Testing (Trial),Basmati Rice,Kg,1.0,112.99999999999999,-111.99999999999999,-11199.999999999998
+Food Testing (Trial),Beetroots,Kg,0.5,3.5,-3.0,-600.0
+Food Testing (Trial),Bell Papper Yellow,Kg,1.5,13.200000000000003,-11.700000000000003,-780.0000000000001
+Food Testing (Trial),Bell Pepper Red,Kg,1.0,13.2,-12.2,-1220.0
+Food Testing (Trial),Bonomelli Polenta,Kg,1.0,,,
+Food Testing (Trial),Broccoli,Kg,2.0,17.329999999999995,-15.329999999999995,-766.4999999999998
+Food Testing (Trial),Butter Amul,PKT,1.0,43.673999999999715,-42.673999999999715,-4267.399999999971
+Food Testing (Trial),Capsicum,Kg,1.0,73.45499999999993,-72.45499999999993,-7245.499999999993
+Food Testing (Trial),Carrots,Kg,1.0,32.40999999999992,-31.40999999999992,-3140.999999999992
+Food Testing (Trial),Castor Sugar,Kg,1.0,,,
+Food Testing (Trial),Cayenne Pepper 40gm,JAR,1.0,,,
+Food Testing (Trial),Celery Leaves,Kg,0.25,0.8099999999999999,-0.5599999999999999,-223.99999999999997
+Food Testing (Trial),Check Duster,PCS,2.0,,,
+Food Testing (Trial),Cherry Tomato,Kg,0.25,,,
+Food Testing (Trial),Chinese Cabbage,Kg,1.0,2.8900000000000015,-1.8900000000000015,-189.00000000000014
+Food Testing (Trial),Cinnamon (dalchini),Kg,0.1,0.2980000000000002,-0.1980000000000002,-198.0000000000002
+Food Testing (Trial),Coriander Leaves,Kg,1.5,19.017999999999713,-17.517999999999713,-1167.8666666666475
+Food Testing (Trial),Corn Flour,Kg,1.0,12.114000000000003,-11.114000000000003,-1111.4000000000003
+Food Testing (Trial),Crab Stick,Kg,1.0,,,
+Food Testing (Trial),Edammame With Pot,Kg,2.0,,,
+Food Testing (Trial),Edible Flower,PKT,1.0,,,
+Food Testing (Trial),Eggs,PCS,30.0,16664.0,-16634.0,-55446.66666666667
+Food Testing (Trial),French Lettuce Green,Kg,0.75,,,
+Food Testing (Trial),Fresh Basil,Kg,0.45,2.782000000000001,-2.3320000000000007,-518.2222222222224
+Food Testing (Trial),Fresh Mushroom,Kg,0.6000000000000001,36.32499999999999,-35.72499999999999,-5954.166666666663
+Food Testing (Trial),Fresh Red Chilly,Kg,0.5,4.814000000000004,-4.314000000000004,-862.8000000000008
+Food Testing (Trial),Ginger,Kg,0.5,3.398000000000002,-2.898000000000002,-579.6000000000004
+Food Testing (Trial),Green Corn,TIN,1.0,5.459999999999999,-4.459999999999999,-445.9999999999999
+Food Testing (Trial),Green Peas,PKT,1.0,4.956000000000001,-3.9560000000000013,-395.60000000000014
+Food Testing (Trial),Green Zucchini,Kg,1.0,4.700000000000002,-3.700000000000002,-370.00000000000017
+Food Testing (Trial),Italian Lemon,Kg,0.6,,,
+Food Testing (Trial),Japanese Cucumber,Kg,1.1,,,
+Food Testing (Trial),Kashmiri Chilli,Kg,0.5,1.9520000000000004,-1.4520000000000004,-290.4000000000001
+Food Testing (Trial),Lemon,Kg,0.5,2.887000000000002,-2.387000000000002,-477.4000000000004
+Food Testing (Trial),Lemon Grass,Kg,0.25,0.042,0.208,83.2
+Food Testing (Trial),Lemon Leaves,Kg,0.1,,,
+Food Testing (Trial),Lotus Root,Kg,0.5,,,
+Food Testing (Trial),Macro Green,PKT,3.0,,,
+Food Testing (Trial),Maida,Kg,5.0,129.06700000000063,-124.06700000000063,-2481.3400000000124
+Food Testing (Trial),Malai Paneer,Kg,1.75,334.8149999999996,-333.0649999999996,-19032.285714285692
+Food Testing (Trial),Miso Paste Light,Kg,1.0,,,
+Food Testing (Trial),Onion,Kg,3.0,27.169999999999945,-24.169999999999945,-805.6666666666649
+Food Testing (Trial),Parsley Leaves,Kg,0.5,,,
+Food Testing (Trial),Pok Choy,Kg,1.0,4.150000000000002,-3.150000000000002,-315.0000000000002
+Food Testing (Trial),Potato Starch,Kg,3.5,0.7960000000000006,2.7039999999999993,77.25714285714284
+Food Testing (Trial),Refind Oil,LTR,9.0,35.69899999999958,-26.69899999999958,-296.6555555555509
+Food Testing (Trial),Salt Tata,PKT,1.0,29.94699999999923,-28.94699999999923,-2894.699999999923
+Food Testing (Trial),Sesame Oil,BTL,2.0,0.11000000000000001,1.89,94.5
+Food Testing (Trial),Shiitake Mushroom,Kg,0.5,1.5250000000000004,-1.0250000000000004,-205.00000000000006
+Food Testing (Trial),Silken Tofu,Kg,0.5,,,
+Food Testing (Trial),Singapore Laksa Paste 190g,BTL,1.0,,,
+Food Testing (Trial),Spring Onion,Kg,0.5,,,
+Food Testing (Trial),Star Fool,Kg,0.05,0.2720000000000001,-0.2220000000000001,-444.0000000000001
+Food Testing (Trial),Sweet Corn Cream,TIN,1.0,2.853333333333333,-1.853333333333333,-185.33333333333331
+Food Testing (Trial),Sweet Potato,Kg,1.0,,,
+Food Testing (Trial),Tej Patta,Kg,0.05,0.08000000000000004,-0.03000000000000004,-60.00000000000008
+Food Testing (Trial),Teriyaki Sauce,BTL,1.0,,,
+Food Testing (Trial),Tobiko Orange,Kg,0.5,,,
+Food Testing (Trial),Tofu,Kg,0.5,0.94,-0.43999999999999995,-87.99999999999999
+Food Testing (Trial),Togarashi Powder,PKT,1.0,,,
+Food Testing (Trial),Tomato Ketchup,BTL,1.0,8.070000000000002,-7.070000000000002,-707.0000000000002
+Food Testing (Trial),Tomatos,Kg,1.0,,,
+Food Testing (Trial),Veg Mayonnaise,BTL,1.0,0.7,0.30000000000000004,30.000000000000004
+Food Testing (Trial),Water Chestnuts,TIN,2.0,5.279999999999999,-3.2799999999999994,-163.99999999999997
+Food Testing (Trial),Water Melon,Kg,1.5,,,
+Food Testing (Trial),Wheat Starch,Kg,0.5,,,
+Food Testing (Trial),White Pepper Powder,Kg,2.0,0.8030000000000006,1.1969999999999994,59.84999999999997
+Food Testing (Trial),White Yambin,Kg,0.7,,,
+Food Testing (Trial),Yellow Zucchini,Kg,0.5,,,
+Food Testing (Trial),Youki Sauce 1kg,BTL,1.0,,,
+Front Office,A4 Size Paper,RIM,11.0,,,
+Front Office,Box File,PCS,6.0,,,
+Front Office,Cash Voucher Book,NOS,1.0,,,
+Front Office,Cello Tape,NOS,10.0,,,
+Front Office,Dairy Cream Sachet,PKT,1.0,,,
+Front Office,Envelope,PKT,3.0,,,
+Front Office,Marker,NOS,10.0,,,
+Front Office,Nescafe Sachet,PKT,4.0,,,
+Front Office,Pen,NOS,45.0,,,
+Front Office,Rubber Band,PKT,2.0,,,
+Front Office,Spring File,PCS,4.0,,,
+Front Office,Sugar 5 Gm,PKT,2.0,,,
+Front Office,Wooden Stirrer,PKT,1.0,,,
+Main Bakery,Amul Cream,PKT,18.0,90.7340000000005,-72.7340000000005,-404.0777777777806
+Main Bakery,Amul Milk,LTR,22.0,,,
+Main Bakery,Apple,Kg,1.5,0.2,1.3,86.66666666666667
+Main Bakery,Atta,Kg,5.0,72.09999999999977,-67.09999999999977,-1341.9999999999955
+Main Bakery,Beetroots,Kg,1.0,3.5,-2.5,-250.0
+Main Bakery,Bell Papper Yellow,Kg,5.0,13.200000000000003,-8.200000000000003,-164.00000000000006
+Main Bakery,Bell Pepper Red,Kg,5.0,13.2,-8.2,-164.0
+Main Bakery,Biscoff Biscut 250 Gm,PKT,5.0,,,
+Main Bakery,Biscoff Spread,JAR,4.0,,,
+Main Bakery,Black Till,Kg,0.5,0.008,0.492,98.4
+Main Bakery,Blueberry Filling,Kg,5.0,,,
+Main Bakery,Bread Crumbs Penko,Kg,2.0,5.100000000000001,-3.1000000000000014,-155.00000000000006
+Main Bakery,Bread Improver,Kg,2.0,,,
+Main Bakery,Broccoli,Kg,1.0,17.329999999999995,-16.329999999999995,-1632.9999999999995
+Main Bakery,Butter Amul,PKT,80.0,43.673999999999715,36.326000000000285,45.407500000000354
+Main Bakery,Butter Croissant Small,PCS,360.0,,,
+Main Bakery,Capsicum,Kg,5.0,73.45499999999993,-68.45499999999993,-1369.0999999999985
+Main Bakery,Carrots,Kg,1.0,32.40999999999992,-31.40999999999992,-3140.999999999992
+Main Bakery,Castor Sugar,Kg,24.0,,,
+Main Bakery,Check Duster,PCS,7.0,,,
+Main Bakery,Cheese Amul,Kg,5.0,13.455000000000004,-8.455000000000004,-169.10000000000008
+Main Bakery,Cheese Amul Slice,PKT,1.0,,,
+Main Bakery,Cheese Mozzarella,Kg,5.0,,,
+Main Bakery,China Grass,PKT,11.0,,,
+Main Bakery,Cinnamon (dalchini),Kg,0.7,0.2980000000000002,0.40199999999999975,57.428571428571395
+Main Bakery,Cling Foil,ROLL,9.0,,,
+Main Bakery,Cocoa Powder,Kg,5.0,,,
+Main Bakery,Coconut Milk Powder,PKT,2.0,32.152000000000044,-30.152000000000044,-1507.6000000000022
+Main Bakery,Corn Flour,Kg,1.0,12.114000000000003,-11.114000000000003,-1111.4000000000003
+Main Bakery,Cream Cheese,Kg,11.0,,,
+Main Bakery,Dalda,Kg,1.0,,,
+Main Bakery,Dark Chocolate 2.5kg,Kg,10.0,,,
+Main Bakery,Dark Compound,Kg,5.0,,,
+Main Bakery,Demerara Sugar,Kg,3.0,,,
+Main Bakery,Eggs,PCS,150.0,16664.0,-16514.0,-11009.333333333334
+Main Bakery,Everyday Milk Powder,PKT,2.0,,,
+Main Bakery,F,PKT,4.0,,,
+Main Bakery,French Lettuce Green,Kg,1.0,,,
+Main Bakery,French Lettuce Red,Kg,0.1,,,
+Main Bakery,Fresh Cream,PKT,5.0,0.8,4.2,84.00000000000001
+Main Bakery,Fresh Mushroom,Kg,4.9,36.32499999999999,-31.42499999999999,-641.3265306122446
+Main Bakery,Ghee Nandani,Kg,2.0,42.68600000000008,-40.68600000000008,-2034.3000000000038
+Main Bakery,Ginger,Kg,0.5,3.398000000000002,-2.898000000000002,-579.6000000000004
+Main Bakery,Glucose Liquid,BTL,5.0,,,
+Main Bakery,Green Chilly,Kg,0.5,18.64699999999974,-18.14699999999974,-3629.399999999948
+Main Bakery,Green Zucchini,Kg,0.5,4.700000000000002,-4.200000000000002,-840.0000000000003
+Main Bakery,Hrt Roll Big,NOS,10.0,,,
+Main Bakery,Iceberg Lettuce,Kg,1.5,0.8,0.7,46.666666666666664
+Main Bakery,Icing Sugar,Kg,12.0,,,
+Main Bakery,Kesar Pista Ice Cream,Kg,0.5,,,
+Main Bakery,Kirana Bag,PKT,5.0,,,
+Main Bakery,Lemon,Kg,1.5,2.887000000000002,-1.3870000000000018,-92.46666666666678
+Main Bakery,Macarons,PCS,444.0,,,
+Main Bakery,Madagascar Chocolate,PKT,7.0,,,
+Main Bakery,Maida,Kg,410.0,129.06700000000063,280.93299999999937,68.52024390243886
+Main Bakery,Malai Paneer,Kg,5.4,334.8149999999996,-329.4149999999996,-6100.27777777777
+Main Bakery,Mango Pulp,TIN,1.0,0.7333333333333334,0.2666666666666666,26.66666666666666
+Main Bakery,Milk 3 Fat,PKT,43.0,28.64999999999998,14.35000000000002,33.372093023255864
+Main Bakery,Milk Maid,TIN,9.0,,,
+Main Bakery,Modak Box,BOX,30.0,,,
+Main Bakery,Ness Coffee,PKT,2.0,,,
+Main Bakery,Nutella Sauce,Kg,9.5,,,
+Main Bakery,Pan Pasand Ice Cream,Kg,0.5,,,
+Main Bakery,Parsley Leaves,Kg,0.30000000000000004,,,
+Main Bakery,Pav Bhaji Masala,PKT,5.0,,,
+Main Bakery,Pencil Battery,NOS,2.0,,,
+Main Bakery,Pillsbury Chocolate Flavour Mix,Kg,10.0,,,
+Main Bakery,Piping Bag,PCS,10.0,,,
+Main Bakery,Pista,Kg,0.5,0.2870000000000001,0.2129999999999999,42.59999999999998
+Main Bakery,Potato,Kg,45.0,22.45499999999997,22.54500000000003,50.100000000000065
+Main Bakery,Ragi Atta,Kg,0.5,,,
+Main Bakery,Red Cabbage,Kg,1.0,,,
+Main Bakery,Refind Oil,LTR,36.0,35.69899999999958,0.30100000000042115,0.836111111112281
+Main Bakery,Rice Atta,Kg,1.0,,,
+Main Bakery,Rich Cooking Cream,PKT,6.0,,,
+Main Bakery,Rich Whip Topping Cream,PKT,12.0,,,
+Main Bakery,Salt Tata,PKT,5.0,29.94699999999923,-24.94699999999923,-498.93999999998454
+Main Bakery,Skull Cap,PKT,2.0,,,
+Main Bakery,Spaghetti Pasta,PKT,3.0,,,
+Main Bakery,Standup Pouches,Piece,20.0,,,
+Main Bakery,Sugar,Kg,21.0,30.33599999999956,-9.335999999999562,-44.45714285714077
+Main Bakery,Veg Mayonnaise,BTL,1.0,0.7,0.30000000000000004,30.000000000000004
+Main Bakery,Walnuts,Kg,1.0,,,
+Main Bakery,White Compound,Kg,5.0,,,
+Main Bakery,Yeast,Kg,10.0,,,
+Main Bakery,Yellow Zucchini,Kg,0.5,,,
+ROOM SERVICE,Air Freshener Btl,BTL,2.0,,,
+ROOM SERVICE,Apple,Kg,41.3,0.2,41.099999999999994,99.51573849878935
+ROOM SERVICE,Aquafina Water,BTL,576.0,,,
+ROOM SERVICE,Aquafina Water 500 Ml,BTL,1680.0,,,
+ROOM SERVICE,Assam Tea,PKT,2.0,,,
+ROOM SERVICE,Bisleri 1 Ltr,BTL,240.0,,,
+ROOM SERVICE,Butter Amul Blister 10gm,PKT,3.0,,,
+ROOM SERVICE,Ceiling Broom,NOS,7.0,,,
+ROOM SERVICE,Coconut Milk Powder,PKT,3.0,32.152000000000044,-29.152000000000044,-971.7333333333348
+ROOM SERVICE,Coconut Oil,BTL,2.0,0.42999999999999994,1.57,78.5
+ROOM SERVICE,Dustpan (supri),NOS,2.0,,,
+ROOM SERVICE,Elaichi Bananas,Kg,56.85,,,
+ROOM SERVICE,Face Tissue,NOS,200.0,,,
+ROOM SERVICE,Garbage Bags Small,NOS,8.0,,,
+ROOM SERVICE,Green Tea,PKT,1.0,,,
+ROOM SERVICE,Honey 15 Gm,PCS,200.0,,,
+ROOM SERVICE,Idli Wada,PCS,160.0,,,
+ROOM SERVICE,M Fold Tissue,PKT,210.0,,,
+ROOM SERVICE,Mix Fruit Jam 15 Gm,PCS,100.0,,,
+ROOM SERVICE,Mixed Pickle 12 Gm,PCS,100.0,,,
+ROOM SERVICE,Mop Refill,NOS,6.0,,,
+ROOM SERVICE,Orange,Kg,1.0,,,
+ROOM SERVICE,Orange Imp,Kg,22.0,,,
+ROOM SERVICE,Oreo Biscuit,PKT,360.0,,,
+ROOM SERVICE,Peanut Roasted,Kg,3.0,,,
+ROOM SERVICE,Pencil,NOS,100.0,,,
+ROOM SERVICE,Salt Sachet,PKT,1.0,,,
+ROOM SERVICE,Silver Foil,PCS,14.0,,,
+ROOM SERVICE,Sugar 5 Gm,PKT,5.0,,,
+ROOM SERVICE,Sugar Free,PKT,1.0,,,
+ROOM SERVICE,Tea Darjeeling,PKT,2.0,,,
+ROOM SERVICE,Tea Powder,Kg,2.0,,,
+ROOM SERVICE,Tissue Paper Melting Pot,PKT,41.0,,,
+ROOM SERVICE,Toilet Roll,PKT,90.0,,,
+ROOM SERVICE,Tomato Ketchup Sachet,PKT,3.0,,,
+Restaurant,After Mint M Pot,PKT,60.0,,,
+Restaurant,Apple,Kg,1.0,0.2,0.8,80.0
+Restaurant,Bisleri 250 Ml,BTL,1200.0,,,
+Restaurant,Chat Masala,PKT,30.0,148.6800000000012,-118.6800000000012,-395.600000000004
+Restaurant,Chilli Pickle,Kg,7.5,,,
+Restaurant,Chilli Sauce,BTL,3.0,,,
+Restaurant,Coconut Big,PCS,4.0,1200.5,-1196.5,-29912.5
+Restaurant,Dolly Paper Small,PKT,50.0,,,
+Restaurant,Elaichi Bananas,Kg,1.5,,,
+Restaurant,Garbage Bags Medium,NOS,12.0,,,
+Restaurant,Garbage Bags Small,NOS,5.0,,,
+Restaurant,Hand Wash Kimberly Clerk 1ltr,BTL,6.0,,,
+Restaurant,Lemon Pickle,Kg,17.5,,,
+Restaurant,M Fold Tissue,PKT,45.0,,,
+Restaurant,Mango Pickle,Kg,15.0,,,
+Restaurant,Melting Pot Coasters,PKT,10000.0,,,
+Restaurant,Mop Refill,NOS,8.0,,,
+Restaurant,Orange,Kg,1.0,,,
+Restaurant,Pears Fruit,Kg,1.0,,,
+Restaurant,Refind Oil,LTR,4.0,35.69899999999958,-31.69899999999958,-792.4749999999894
+Restaurant,Register Book,NOS,4.0,,,
+Restaurant,Rubber Band,PKT,9.0,,,
+Restaurant,Sanitizer,LTR,5.0,,,
+Restaurant,Soya Sauce Sing Cheung,BTL,12.0,,,
+Restaurant,Sweet Lemon,Kg,1.0,,,
+Restaurant,Tea Light Candle,PKT,1.0,,,
+Restaurant,Tissue Paper Melting Pot,PKT,170.0,,,
+Restaurant,Toilet Roll,PKT,20.0,,,
+Restaurant,Tomato Ketchup,BTL,15.0,8.070000000000002,6.929999999999998,46.19999999999999
+Restaurant,White Vinegar,BTL,26.0,0.7957142857142858,25.204285714285714,96.93956043956044
+Restaurant Chinese,American Corn,Kg,37.0,41.35999999999998,-4.359999999999978,-11.783783783783724
+Restaurant Chinese,Aromatic Powder,PKT,37.0,5.236000000000004,31.763999999999996,85.84864864864863
+Restaurant Chinese,Asparagus,Kg,4.0,1.6700000000000006,2.329999999999999,58.24999999999998
+Restaurant Chinese,Asparagus Imp,Kg,0.5,,,
+Restaurant Chinese,Baby Corn,Kg,33.0,10.730000000000006,22.269999999999996,67.48484848484847
+Restaurant Chinese,Baking Powder,PKT,1.0,0.037500000000000006,0.9625,96.25
+Restaurant Chinese,Bamboo Shoots,TIN,9.0,,,
+Restaurant Chinese,Basmati Rice,Kg,81.0,112.99999999999999,-31.999999999999986,-39.506172839506156
+Restaurant Chinese,Bean Sprouts,Kg,5.0,0.8500000000000001,4.15,83.0
+Restaurant Chinese,Bell Papper Yellow,Kg,28.0,13.200000000000003,14.799999999999997,52.85714285714285
+Restaurant Chinese,Bell Pepper Red,Kg,28.0,13.2,14.8,52.85714285714286
+Restaurant Chinese,Black Bean Sauce,BTL,2.0,,,
+Restaurant Chinese,Black Fungus,Kg,0.7,0.16,0.5399999999999999,77.14285714285714
+Restaurant Chinese,Black Pepper Whole,Kg,0.2,1.8370000000000004,-1.6370000000000005,-818.5000000000002
+Restaurant Chinese,Blue Bird Maida,Kg,5.0,,,
+Restaurant Chinese,Broccoli,Kg,42.5,17.329999999999995,25.170000000000005,59.223529411764716
+Restaurant Chinese,Butter Amul,PKT,28.5,43.673999999999715,-15.173999999999715,-53.242105263156894
+Restaurant Chinese,Cabbage,Kg,95.0,7.35,87.65,92.26315789473685
+Restaurant Chinese,Capsico Sauce,BTL,39.0,8.666666666666673,30.33333333333333,77.77777777777777
+Restaurant Chinese,Capsicum,Kg,29.5,73.45499999999993,-43.95499999999993,-148.99999999999974
+Restaurant Chinese,Carrots,Kg,27.0,32.40999999999992,-5.409999999999918,-20.037037037036733
+Restaurant Chinese,Celery Leaves,Kg,14.5,0.8099999999999999,13.69,94.41379310344827
+Restaurant Chinese,Cheese Amul,Kg,4.0,13.455000000000004,-9.455000000000004,-236.37500000000009
+Restaurant Chinese,Chilli Sauce,BTL,26.0,,,
+Restaurant Chinese,Chinese Cabbage,Kg,24.5,2.8900000000000015,21.61,88.20408163265306
+Restaurant Chinese,Chopsuey Noodles,Kg,49.0,,,
+Restaurant Chinese,Coconut Milk Powder,PKT,5.0,32.152000000000044,-27.152000000000044,-543.0400000000009
+Restaurant Chinese,Coriander Leaves,Kg,25.5,19.017999999999713,6.482000000000287,25.41960784313838
+Restaurant Chinese,Corn Flour,Kg,38.0,12.114000000000003,25.885999999999996,68.12105263157893
+Restaurant Chinese,Dried Black Bean Salted,PKT,1.0,,,
+Restaurant Chinese,Eggs,PCS,838.0,16664.0,-15826.0,-1888.54415274463
+Restaurant Chinese,Fish Sauce,BTL,1.0,,,
+Restaurant Chinese,Flat Noodles,PKT,2.0,,,
+Restaurant Chinese,Fresh Basil,Kg,5.0,2.782000000000001,2.217999999999999,44.359999999999985
+Restaurant Chinese,Fresh Mushroom,Kg,49.2,36.32499999999999,12.875000000000014,26.168699186991894
+Restaurant Chinese,Fresh Red Chilly,Kg,14.5,4.814000000000004,9.685999999999996,66.79999999999997
+Restaurant Chinese,Galangal Thai,Kg,0.25,,,
+Restaurant Chinese,Ginger,Kg,12.0,3.398000000000002,8.601999999999999,71.68333333333332
+Restaurant Chinese,Glass Noodles,PKT,1.0,0.78,0.21999999999999997,21.999999999999996
+Restaurant Chinese,Green Corn,TIN,72.0,5.459999999999999,66.54,92.41666666666669
+Restaurant Chinese,Green Garlic,Kg,0.4,,,
+Restaurant Chinese,Green Peppercorn,BTL,1.0,2.6400000000000006,-1.6400000000000006,-164.00000000000006
+Restaurant Chinese,Green Zucchini,Kg,18.5,4.700000000000002,13.799999999999997,74.59459459459458
+Restaurant Chinese,Hoisin Sauce,BTL,3.0,0.22857142857142856,2.7714285714285714,92.38095238095238
+Restaurant Chinese,Iceberg Lettuce,Kg,2.5,0.8,1.7,68.0
+Restaurant Chinese,Kaju Whole,Kg,2.400000000000001,0.656,1.7440000000000007,72.66666666666667
+Restaurant Chinese,Kashmiri Chilli,Kg,35.0,1.9520000000000004,33.048,94.42285714285715
+Restaurant Chinese,Lemon,Kg,7.0,2.887000000000002,4.112999999999998,58.75714285714283
+Restaurant Chinese,Lemon Grass,Kg,0.75,0.042,0.708,94.39999999999999
+Restaurant Chinese,Lemon Leaves,Kg,0.2,,,
+Restaurant Chinese,Maida,Kg,15.0,129.06700000000063,-114.06700000000063,-760.4466666666709
+Restaurant Chinese,Malai Paneer,Kg,80.0,334.8149999999996,-254.8149999999996,-318.5187499999995
+Restaurant Chinese,Onion,Kg,35.0,27.169999999999945,7.830000000000055,22.371428571428726
+Restaurant Chinese,Peel Garlic,Kg,95.0,61.60499999999928,33.39500000000072,35.15263157894813
+Restaurant Chinese,Plum Sauce,BTL,1.0,,,
+Restaurant Chinese,Pok Choy,Kg,23.0,4.150000000000002,18.849999999999998,81.95652173913042
+Restaurant Chinese,Potato Starch,Kg,26.0,0.7960000000000006,25.204,96.93846153846154
+Restaurant Chinese,Refind Oil,LTR,210.0,35.69899999999958,174.3010000000004,83.00047619047639
+Restaurant Chinese,Salt Tata,PKT,13.0,29.94699999999923,-16.94699999999923,-130.36153846153255
+Restaurant Chinese,Sambal Oleal Sauce,BTL,9.0,3.25,5.75,63.888888888888886
+Restaurant Chinese,Sesame Oil,BTL,4.0,0.11000000000000001,3.89,97.25
+Restaurant Chinese,Sevai,PKT,5.0,3.5,1.5,30.0
+Restaurant Chinese,Shiitake Mushroom,Kg,0.9999999999999999,1.5250000000000004,-0.5250000000000005,-52.50000000000006
+Restaurant Chinese,Snow Peas,Kg,1.75,,,
+Restaurant Chinese,Soya Sauce,BTL,1.0,,,
+Restaurant Chinese,Soya Sauce Lkk,JAR,9.0,,,
+Restaurant Chinese,Soya Sauce Llk,BTL,27.0,,,
+Restaurant Chinese,Spinach,Kg,24.0,,,
+Restaurant Chinese,Spring Onion,Kg,85.0,,,
+Restaurant Chinese,Spring Sesame Oil,BTL,1.0,,,
+Restaurant Chinese,Star Fool,Kg,0.4,0.2720000000000001,0.12799999999999995,31.999999999999986
+Restaurant Chinese,Steam Noodles,Kg,41.0,,,
+Restaurant Chinese,Sugar,Kg,16.0,30.33599999999956,-14.335999999999562,-89.59999999999727
+Restaurant Chinese,Sweet Chilly Sauce,BTL,1.0,,,
+Restaurant Chinese,Sweet Corn Cream,TIN,20.0,2.853333333333333,17.14666666666667,85.73333333333333
+Restaurant Chinese,Teriyaki Sauce,BTL,1.0,,,
+Restaurant Chinese,Tofu,Kg,2.0,0.94,1.06,53.0
+Restaurant Chinese,Tom Yum Cube,PKT,5.0,1.1111111111111112,3.888888888888889,77.77777777777779
+Restaurant Chinese,Tomato Ketchup,BTL,37.0,8.070000000000002,28.93,78.1891891891892
+Restaurant Chinese,Tomato Puree,TIN,1.0,32.48000000000001,-31.48000000000001,-3148.000000000001
+Restaurant Chinese,Tomatos,Kg,9.0,,,
+Restaurant Chinese,Veg Oyester Sauce,BTL,32.0,9.750000000000007,22.249999999999993,69.53124999999997
+Restaurant Chinese,Wafer Potatos,Kg,205.5,,,
+Restaurant Chinese,Water Chestnuts,TIN,46.0,5.279999999999999,40.72,88.52173913043478
+Restaurant Chinese,White Pepper Powder,Kg,6.5,0.8030000000000006,5.696999999999999,87.64615384615382
+Restaurant Chinese,White Till,Kg,0.1,,,
+Restaurant Chinese,Wonton Patta,PKT,45.0,3.1499999999999995,41.85,93.0
+Restaurant Chinese,Worcestershire Sauce (chinese),BTL,3.0,,,
+Restaurant Chinese,Worcestershire Sauce Kalvert (bar),BTL,1.0,1.5,-0.5,-50.0
+Restaurant Chinese,Yellow Zucchini,Kg,15.0,,,
+Restaurant Indian,Aalu Bukhara (plum),Kg,1.0,0.56,0.43999999999999995,43.99999999999999
+Restaurant Indian,Almond,Kg,1.72,,,
+Restaurant Indian,American Corn,Kg,2.0,41.35999999999998,-39.35999999999998,-1967.9999999999989
+Restaurant Indian,Amul Cream,PKT,79.0,90.7340000000005,-11.734000000000506,-14.853164556962668
+Restaurant Indian,Baby Corn,Kg,2.5,10.730000000000006,-8.230000000000006,-329.2000000000003
+Restaurant Indian,Baby Potato,Kg,9.0,9.5,-0.5,-5.555555555555555
+Restaurant Indian,Badi Sunf,Kg,1.0,0.094,0.906,90.60000000000001
+Restaurant Indian,Basmati Rice,Kg,114.0,112.99999999999999,1.0000000000000142,0.8771929824561528
+Restaurant Indian,Bell Papper Yellow,Kg,6.25,13.200000000000003,-6.950000000000003,-111.20000000000006
+Restaurant Indian,Bell Pepper Red,Kg,7.5,13.2,-5.699999999999999,-75.99999999999999
+Restaurant Indian,Bhavnagri Chilly,Kg,4.0,3.2000000000000006,0.7999999999999994,19.999999999999986
+Restaurant Indian,Black Dal,Kg,21.0,,,
+Restaurant Indian,Bor Chilli,Kg,0.75,,,
+Restaurant Indian,Bread Crumbs Penko,Kg,8.0,5.100000000000001,2.8999999999999986,36.249999999999986
+Restaurant Indian,Butter Amul,PKT,18.0,43.673999999999715,-25.673999999999715,-142.63333333333173
+Restaurant Indian,Capsicum,Kg,22.5,73.45499999999993,-50.95499999999993,-226.46666666666633
+Restaurant Indian,Cauliflower,Kg,25.0,29.609999999999975,-4.609999999999975,-18.4399999999999
+Restaurant Indian,Celery Leaves,Kg,1.25,0.8099999999999999,0.44000000000000006,35.2
+Restaurant Indian,Chana Dal,Kg,2.1,11.799999999999983,-9.699999999999983,-461.9047619047611
+Restaurant Indian,Char Magaz,Kg,20.0,,,
+Restaurant Indian,Chat Masala,PKT,8.0,148.6800000000012,-140.6800000000012,-1758.500000000015
+Restaurant Indian,Chicken Masala,PKT,7.0,4.480000000000002,2.519999999999998,35.99999999999997
+Restaurant Indian,Cinnamon (dalchini),Kg,0.6000000000000001,0.2980000000000002,0.3019999999999999,50.33333333333331
+Restaurant Indian,Coconut Milk Powder,PKT,15.0,32.152000000000044,-17.152000000000044,-114.34666666666695
+Restaurant Indian,Coriander Leaves,Kg,41.0,19.017999999999713,21.982000000000287,53.61463414634217
+Restaurant Indian,Corn Flour,Kg,4.0,12.114000000000003,-8.114000000000003,-202.85000000000005
+Restaurant Indian,Curd Mother Dairy,Kg,42.0,19.5619999999999,22.4380000000001,53.423809523809766
+Restaurant Indian,Dhaniya Whole,Kg,1.0,0.485,0.515,51.5
+Restaurant Indian,Eggs,PCS,135.0,16664.0,-16529.0,-12243.703703703704
+Restaurant Indian,Fresh Beans,Kg,191.0,3.2200000000000015,187.78,98.31413612565444
+Restaurant Indian,Fresh Mushroom,Kg,2.0,36.32499999999999,-34.32499999999999,-1716.2499999999995
+Restaurant Indian,Garlic Whole,Kg,12.0,,,
+Restaurant Indian,Ghee Nandani,Kg,41.0,42.68600000000008,-1.686000000000078,-4.11219512195141
+Restaurant Indian,Ginger,Kg,9.0,3.398000000000002,5.6019999999999985,62.244444444444426
+Restaurant Indian,Green Chilly,Kg,16.5,18.64699999999974,-2.146999999999739,-13.01212121211963
+Restaurant Indian,Green Elaichi,Kg,0.3,0.7962500000000006,-0.4962500000000006,-165.41666666666686
+Restaurant Indian,Green Peas,PKT,35.0,4.956000000000001,30.043999999999997,85.83999999999999
+Restaurant Indian,Haldi Powder,Kg,5.0,7.240000000000002,-2.240000000000002,-44.80000000000004
+Restaurant Indian,Hing Powder,BTL,1.0,0.56,0.43999999999999995,43.99999999999999
+Restaurant Indian,Jaiphal,Kg,0.05,0.049,0.0010000000000000009,2.0000000000000018
+Restaurant Indian,Javantry,Kg,0.2,0.06600000000000002,0.134,67.0
+Restaurant Indian,Jeera Whole,Kg,2.0,8.984000000000002,-6.984000000000002,-349.2000000000001
+Restaurant Indian,Kabuli Chana,Kg,4.0,6.5,-2.5,-62.5
+Restaurant Indian,Kaju Tukda,Kg,37.0,6.024000000000002,30.976,83.71891891891892
+Restaurant Indian,Karela,Kg,7.0,4.5,2.5,35.714285714285715
+Restaurant Indian,Kashmiri Chilli,Kg,17.1,1.9520000000000004,15.148000000000001,88.58479532163743
+Restaurant Indian,Kashmiri Chilli Powder,PKT,6.0,0.05,5.95,99.16666666666667
+Restaurant Indian,Kasuri Methi,PKT,18.0,34.87999999999952,-16.87999999999952,-93.7777777777751
+Restaurant Indian,Kewra Water,BTL,4.0,0.8,3.2,80.0
+Restaurant Indian,Kitchen King,PKT,9.0,11.616000000000009,-2.6160000000000085,-29.066666666666762
+Restaurant Indian,Lady Finger,Kg,14.0,9.6,4.4,31.428571428571434
+Restaurant Indian,Laung,Kg,0.1,0.2460000000000002,-0.14600000000000019,-146.00000000000017
+Restaurant Indian,Maida,Kg,4.0,129.06700000000063,-125.06700000000063,-3126.6750000000156
+Restaurant Indian,Malai Paneer,Kg,110.0,334.8149999999996,-224.8149999999996,-204.37727272727236
+Restaurant Indian,Meat Masala,PKT,8.0,,,
+Restaurant Indian,Methi Fresh,Kg,43.0,20.41999999999998,22.58000000000002,52.511627906976784
+Restaurant Indian,Mint Leaves,Kg,7.25,1.49,5.76,79.44827586206897
+Restaurant Indian,Moong Dal,Kg,1.5,2.6,-1.1,-73.33333333333334
+Restaurant Indian,Onion,Kg,240.0,27.169999999999945,212.83000000000004,88.67916666666669
+Restaurant Indian,Papad Big,PKT,11.0,,,
+Restaurant Indian,Peel Garlic,Kg,53.0,61.60499999999928,-8.60499999999928,-16.235849056602415
+Restaurant Indian,Potato,Kg,36.0,22.45499999999997,13.54500000000003,37.625000000000085
+Restaurant Indian,Rajma Chitra,Kg,2.1,11.799999999999981,-9.699999999999982,-461.90476190476096
+Restaurant Indian,Refind Oil,LTR,175.0,35.69899999999958,139.3010000000004,79.60057142857167
+Restaurant Indian,Rose Water,BTL,7.0,1.1520000000000001,5.848,83.54285714285714
+Restaurant Indian,Salt Tata,PKT,31.0,29.94699999999923,1.0530000000007718,3.3967741935508764
+Restaurant Indian,Small Brinjel,Kg,3.0,,,
+Restaurant Indian,Spinach,Kg,120.0,,,
+Restaurant Indian,Star Fool,Kg,0.3,0.2720000000000001,0.027999999999999914,9.333333333333304
+Restaurant Indian,Sugar,Kg,22.0,30.33599999999956,-8.335999999999562,-37.8909090909071
+Restaurant Indian,Sweet Soda,Kg,0.75,,,
+Restaurant Indian,Tej Patta,Kg,0.15000000000000002,0.08000000000000004,0.06999999999999998,46.66666666666664
+Restaurant Indian,Tomato Ketchup,BTL,2.0,8.070000000000002,-6.070000000000002,-303.5000000000001
+Restaurant Indian,Tomato Puree,TIN,21.0,32.48000000000001,-11.480000000000011,-54.66666666666672
+Restaurant Indian,Tomatos,Kg,247.0,,,
+Restaurant Indian,Toor Dal,Kg,68.0,41.4,26.6,39.11764705882353
+Restaurant Indian,Yellow Chilli Powder,Kg,1.5,1.2,0.30000000000000004,20.000000000000004
+Restaurant Kitchen,Caustic Soda,PKT,16.0,,,
+Restaurant Kitchen,Cello Tape,NOS,4.0,,,
+Restaurant Kitchen,Check Duster,PCS,119.0,,,
+Restaurant Kitchen,Cling Foil,ROLL,20.0,,,
+Restaurant Kitchen,Clorex,BTL,10.0,,,
+Restaurant Kitchen,Dolly Paper Big,PKT,25.0,,,
+Restaurant Kitchen,Floor Duster,NOS,60.0,,,
+Restaurant Kitchen,Garbage Bags,Kg,90.0,,,
+Restaurant Kitchen,Hand Gloves Surgical,PKT,2.0,,,
+Restaurant Kitchen,Hard Broom,NOS,2.0,,,
+Restaurant Kitchen,Ice,Kg,80.0,,,
+Restaurant Kitchen,Kot Roll,NOS,35.0,,,
+Restaurant Kitchen,Liquid Soup,LTR,500.0,,,
+Restaurant Kitchen,Melting Pot Stickers,PKT,7000.0,,,
+Restaurant Kitchen,Mixed Pickle 12 Gm,PCS,400.0,,,
+Restaurant Kitchen,Mop Refill,NOS,5.0,,,
+Restaurant Kitchen,Paper Bag Big,NOS,475.0,,,
+Restaurant Kitchen,Paper Bag Small,NOS,1400.0,,,
+Restaurant Kitchen,Pitambari,PKT,40.0,,,
+Restaurant Kitchen,Plastic Cont With Lid 1000 Ml Rect,PKT,10.0,,,
+Restaurant Kitchen,Plastic Cont With Lid 250 Ml Rnd,PKT,2.0,,,
+Restaurant Kitchen,Plastic Cont With Lid 30 Ml,PKT,22.0,,,
+Restaurant Kitchen,Plastic Cont With Lid 450 Ml Rnd,PKT,4.0,,,
+Restaurant Kitchen,Plastic Cont With Lid 50 Ml,PKT,18.0,,,
+Restaurant Kitchen,Plastic Cont With Lid 700 Ml Rnd,PKT,15.0,,,
+Restaurant Kitchen,Scrub Pad,NOS,25.0,,,
+Restaurant Kitchen,Silver Container 450 Ml,PKT,12.0,,,
+Restaurant Kitchen,Silver Container 750 Ml,PKT,3.0,,,
+Restaurant Kitchen,Silver Foil,PCS,24.0,,,
+Restaurant Kitchen,Skull Cap,PKT,16.0,,,
+Restaurant Kitchen,Steel Scrubber,PCS,135.0,,,
+Restaurant Kitchen,White Phenyle,LTR,40.0,,,
+Restaurant Pentry,Almond,Kg,0.2,,,
+Restaurant Pentry,Amul Cream,PKT,3.0,90.7340000000005,-87.7340000000005,-2924.4666666666835
+Restaurant Pentry,Apple,Kg,5.0,0.2,4.8,96.0
+Restaurant Pentry,Badi Sunf,Kg,1.0,0.094,0.906,90.60000000000001
+Restaurant Pentry,Beetroots,Kg,8.0,3.5,4.5,56.25
+Restaurant Pentry,Boondi,Kg,1.5,0.15999999999999998,1.34,89.33333333333334
+Restaurant Pentry,Butter Amul,PKT,30.0,43.673999999999715,-13.673999999999715,-45.579999999999046
+Restaurant Pentry,Butter Scotch Ice Cream,LTR,12.0,1.08,10.92,91.0
+Restaurant Pentry,Carrots,Kg,302.0,32.40999999999992,269.5900000000001,89.26821192052982
+Restaurant Pentry,Chat Masala,PKT,19.0,148.6800000000012,-129.6800000000012,-682.52631578948
+Restaurant Pentry,Cheese Amul,Kg,2.0,13.455000000000004,-11.455000000000004,-572.7500000000002
+Restaurant Pentry,Cheese Amul Slice,PKT,1.0,,,
+Restaurant Pentry,Cheese Mozzarella,Kg,4.0,,,
+Restaurant Pentry,Chocolate Ice Cream,LTR,12.0,0.96,11.04,92.0
+Restaurant Pentry,Coriander Leaves,Kg,6.75,19.017999999999713,-12.267999999999713,-181.74814814814388
+Restaurant Pentry,Cucumber,Kg,455.0,5.390000000000001,449.61,98.81538461538462
+Restaurant Pentry,Curd Mother Dairy,Kg,134.0,19.5619999999999,114.4380000000001,85.4014925373135
+Restaurant Pentry,Eggs,PCS,1110.0,16664.0,-15554.0,-1401.261261261261
+Restaurant Pentry,Falooda,PKT,4.0,,,
+Restaurant Pentry,French Fries 9mm,PKT,6.0,,,
+Restaurant Pentry,French Lettuce Green,Kg,1.75,,,
+Restaurant Pentry,French Lettuce Red,Kg,1.75,,,
+Restaurant Pentry,Fresh Basil,Kg,0.25,2.782000000000001,-2.532000000000001,-1012.8000000000004
+Restaurant Pentry,Frut Overload Ice Cream,LTR,8.0,0.12,7.88,98.5
+Restaurant Pentry,Ginger,Kg,16.3,3.398000000000002,12.902,79.15337423312883
+Restaurant Pentry,Green Chilly,Kg,29.0,18.64699999999974,10.35300000000026,35.7000000000009
+Restaurant Pentry,Green Lemon,Kg,22.0,,,
+Restaurant Pentry,Gulab Badam Slice Kulfi,PCS,25.0,11.0,14.0,56.00000000000001
+Restaurant Pentry,Honey,BTL,3.0,0.12,2.88,96.0
+Restaurant Pentry,Iceberg Lettuce,Kg,4.0,0.8,3.2,80.0
+Restaurant Pentry,Imli,Kg,2.4000000000000004,0.04,2.3600000000000003,98.33333333333333
+Restaurant Pentry,Jal Jeera,PKT,4.0,3.2,0.7999999999999998,19.999999999999996
+Restaurant Pentry,Kaju Tukda,Kg,2.0,6.024000000000002,-4.024000000000002,-201.2000000000001
+Restaurant Pentry,Kesar Pista Kulfi,PCS,11.0,9.0,2.0,18.181818181818183
+Restaurant Pentry,Khajur,Kg,6.0,,,
+Restaurant Pentry,Kokam Syrup,BTL,2.0,,,
+Restaurant Pentry,Lemon,Kg,70.0,2.887000000000002,67.113,95.87571428571428
+Restaurant Pentry,Lemon Ice Tea,Kg,1.0,,,
+Restaurant Pentry,Malai Kulfi,PCS,230.0,134.0,96.0,41.73913043478261
+Restaurant Pentry,Mango Slice Kulfi,PCS,2.0,3.0,-1.0,-50.0
+Restaurant Pentry,Milk 3 Fat,PKT,603.0,28.64999999999998,574.35,95.24875621890547
+Restaurant Pentry,Millennium Kulfi,PCS,24.0,24.0,0.0,0.0
+Restaurant Pentry,Mint Leaves,Kg,0.5,1.49,-0.99,-198.0
+Restaurant Pentry,Mixed Fruit Jam 1 Kg,JAR,1.0,,,
+Restaurant Pentry,Muskmelon,Kg,29.299999999999997,,,
+Restaurant Pentry,Nature Jaggery,PKT,6.0,,,
+Restaurant Pentry,Ness Coffee,PKT,4.0,,,
+Restaurant Pentry,Olive Oil Pomace,BTL,1.0,,,
+Restaurant Pentry,Onion,Kg,534.0,27.169999999999945,506.83000000000004,94.9119850187266
+Restaurant Pentry,Orange,Kg,9.0,,,
+Restaurant Pentry,Orange Imp,Kg,301.3,,,
+Restaurant Pentry,Papaya,Kg,56.79999999999999,,,
+Restaurant Pentry,Papdi,PKT,3.0,0.6000000000000001,2.4,80.0
+Restaurant Pentry,Parsley Leaves,Kg,0.2,,,
+Restaurant Pentry,Peel Garlic,Kg,2.0,61.60499999999928,-59.60499999999928,-2980.249999999964
+Restaurant Pentry,Pineapple Fruit,Kg,92.15,0.17,91.98,99.8155181768855
+Restaurant Pentry,Pineapple Slice,TIN,5.0,,,
+Restaurant Pentry,Pista,Kg,0.2,0.2870000000000001,-0.08700000000000008,-43.500000000000036
+Restaurant Pentry,Potato,Kg,124.0,22.45499999999997,101.54500000000003,81.89112903225809
+Restaurant Pentry,Raddish,Kg,19.0,,,
+Restaurant Pentry,Red Cherry,TIN,6.0,,,
+Restaurant Pentry,Refind Oil,LTR,31.0,35.69899999999958,-4.698999999999579,-15.158064516127673
+Restaurant Pentry,Roasted Almond Slice Kulfi,PCS,25.0,6.0,19.0,76.0
+Restaurant Pentry,Salt Tata,PKT,2.0,29.94699999999923,-27.94699999999923,-1397.3499999999615
+Restaurant Pentry,Sev,Kg,1.0,0.12000000000000001,0.88,88.0
+Restaurant Pentry,Sev Puri,NOS,1.0,,,
+Restaurant Pentry,Strawberry Ice Cream,LTR,4.0,0.27,3.73,93.25
+Restaurant Pentry,Sugar,Kg,52.0,30.33599999999956,21.66400000000044,41.66153846153931
+Restaurant Pentry,Sundried Tomatoes Oil,BTL,1.0,,,
+Restaurant Pentry,Sweet Lemon,Kg,48.300000000000004,,,
+Restaurant Pentry,Tea Powder,Kg,18.0,,,
+Restaurant Pentry,Tomatos,Kg,156.0,,,
+Restaurant Pentry,Vanilla Md Ice Cream,LTR,52.0,1.92,50.08,96.3076923076923
+Restaurant Pentry,Vanilla Sticks,JAR,3.0,,,
+Restaurant Pentry,Veg Mayonnaise,BTL,2.0,0.7,1.3,65.0
+Restaurant Pentry,Wafer Chips,PKT,8.0,,,
+Restaurant Pentry,Water Melon,Kg,258.4500000000001,,,
+Restaurant South Indian Dept,Amul Cream,PKT,2.0,90.7340000000005,-88.7340000000005,-4436.700000000025
+Restaurant South Indian Dept,Appam Rice,Kg,36.0,18.40000000000001,17.59999999999999,48.888888888888864
+Restaurant South Indian Dept,Aromatic Powder,PKT,1.0,5.236000000000004,-4.236000000000004,-423.6000000000004
+Restaurant South Indian Dept,Banana Leaf,PCS,220.0,11.0,209.0,95.0
+Restaurant South Indian Dept,Bedki Chilli Dry,Kg,4.0,0.8300000000000001,3.17,79.25
+Restaurant South Indian Dept,Beetroots,Kg,1.0,3.5,-2.5,-250.0
+Restaurant South Indian Dept,Capsicum,Kg,0.5,73.45499999999993,-72.95499999999993,-14590.999999999985
+Restaurant South Indian Dept,Check Duster,PCS,4.0,,,
+Restaurant South Indian Dept,Chicken Masala,PKT,1.0,4.480000000000002,-3.480000000000002,-348.0000000000002
+Restaurant South Indian Dept,Chicken Seasoning Powder,PKT,1.0,,,
+Restaurant South Indian Dept,Coconut Big,PCS,165.0,1200.5,-1035.5,-627.5757575757575
+Restaurant South Indian Dept,Coconut Milk Powder,PKT,6.0,32.152000000000044,-26.152000000000044,-435.8666666666674
+Restaurant South Indian Dept,Coconut Oil,BTL,9.0,0.42999999999999994,8.57,95.22222222222223
+Restaurant South Indian Dept,Coriander Leaves,Kg,4.0,19.017999999999713,-15.017999999999713,-375.4499999999928
+Restaurant South Indian Dept,Corn Flour,Kg,2.0,12.114000000000003,-10.114000000000003,-505.7000000000001
+Restaurant South Indian Dept,Curd Mother Dairy,Kg,6.0,19.5619999999999,-13.561999999999902,-226.0333333333317
+Restaurant South Indian Dept,Dhaniya Whole,Kg,2.0,0.485,1.5150000000000001,75.75
+Restaurant South Indian Dept,Eggs,PCS,22.0,16664.0,-16642.0,-75645.45454545454
+Restaurant South Indian Dept,Floor Duster,NOS,1.0,,,
+Restaurant South Indian Dept,Fresh Beans,Kg,4.0,3.2200000000000015,0.7799999999999985,19.49999999999996
+Restaurant South Indian Dept,Ghee Nandani,Kg,4.0,42.68600000000008,-38.68600000000008,-967.1500000000019
+Restaurant South Indian Dept,Ginger,Kg,1.5,3.398000000000002,-1.898000000000002,-126.53333333333346
+Restaurant South Indian Dept,Green Elaichi,Kg,0.1,0.7962500000000006,-0.6962500000000006,-696.2500000000006
+Restaurant South Indian Dept,Haldi Powder,Kg,1.0,7.240000000000002,-6.240000000000002,-624.0000000000002
+Restaurant South Indian Dept,Hing Powder,BTL,2.0,0.56,1.44,72.0
+Restaurant South Indian Dept,Imli,Kg,3.9,0.04,3.86,98.97435897435898
+Restaurant South Indian Dept,Jeera Whole,Kg,1.0,8.984000000000002,-7.984000000000002,-798.4000000000002
+Restaurant South Indian Dept,Kashmiri Chilli,Kg,1.0,1.9520000000000004,-0.9520000000000004,-95.20000000000005
+Restaurant South Indian Dept,Kashmiri Chilli Powder,PKT,2.0,0.05,1.95,97.5
+Restaurant South Indian Dept,Khas Khas,Kg,0.25,,,
+Restaurant South Indian Dept,Kokum,Kg,1.0,0.612,0.388,38.800000000000004
+Restaurant South Indian Dept,Lemon,Kg,15.0,2.887000000000002,12.112999999999998,80.75333333333332
+Restaurant South Indian Dept,Maida,Kg,5.0,129.06700000000063,-124.06700000000063,-2481.3400000000124
+Restaurant South Indian Dept,Malai Paneer,Kg,2.0,334.8149999999996,-332.8149999999996,-16640.749999999978
+Restaurant South Indian Dept,Milk 3 Fat,PKT,2.0,28.64999999999998,-26.64999999999998,-1332.499999999999
+Restaurant South Indian Dept,Mint Leaves,Kg,1.0,1.49,-0.49,-49.0
+Restaurant South Indian Dept,Onion,Kg,21.0,27.169999999999945,-6.169999999999945,-29.38095238095212
+Restaurant South Indian Dept,Peanut Roasted,Kg,1.0,,,
+Restaurant South Indian Dept,Peel Garlic,Kg,2.0,61.60499999999928,-59.60499999999928,-2980.249999999964
+Restaurant South Indian Dept,Peri Peri Masala,Kg,1.0,0.19999999999999998,0.8,80.0
+Restaurant South Indian Dept,Refind Oil,LTR,12.0,35.69899999999958,-23.69899999999958,-197.49166666666315
+Restaurant South Indian Dept,Salt Tata,PKT,2.0,29.94699999999923,-27.94699999999923,-1397.3499999999615
+Restaurant South Indian Dept,Salt Whole,Kg,1.0,,,
+Restaurant South Indian Dept,Sugar,Kg,1.5,30.33599999999956,-28.83599999999956,-1922.399999999971
+Restaurant South Indian Dept,Tomatos,Kg,9.0,,,
+Restaurant South Indian Dept,Ukda Rice Brown,Kg,4.0,,,
+Restaurant South Indian Dept,White Vinegar,BTL,1.0,0.7957142857142858,0.20428571428571418,20.428571428571416
+Restaurant Tandoor,8 To 9 Sauce,BTL,16.0,0.16,15.84,99.0
+Restaurant Tandoor,American Corn,Kg,2.0,41.35999999999998,-39.35999999999998,-1967.9999999999989
+Restaurant Tandoor,Amul Cream,PKT,5.0,90.7340000000005,-85.7340000000005,-1714.6800000000103
+Restaurant Tandoor,Atta,Kg,320.0,72.09999999999977,247.90000000000023,77.46875000000007
+Restaurant Tandoor,Baby Corn,Kg,2.5,10.730000000000006,-8.230000000000006,-329.2000000000003
+Restaurant Tandoor,Beetroots,Kg,5.5,3.5,2.0,36.36363636363637
+Restaurant Tandoor,Besan,Kg,5.5,3.25,2.25,40.909090909090914
+Restaurant Tandoor,Black Salt Powder,Kg,3.0,,,
+Restaurant Tandoor,Bread Crumbs Penko,Kg,16.0,5.100000000000001,10.899999999999999,68.12499999999999
+Restaurant Tandoor,Bread Slice,PKT,4.0,35.14600000000001,-31.146000000000008,-778.6500000000002
+Restaurant Tandoor,Broccoli,Kg,6.5,17.329999999999995,-10.829999999999995,-166.61538461538456
+Restaurant Tandoor,Butter Amul,PKT,98.0,43.673999999999715,54.326000000000285,55.43469387755131
+Restaurant Tandoor,Capsicum,Kg,49.0,73.45499999999993,-24.454999999999927,-49.90816326530597
+Restaurant Tandoor,Carrots,Kg,16.0,32.40999999999992,-16.40999999999992,-102.56249999999949
+Restaurant Tandoor,Cauliflower,Kg,26.0,29.609999999999975,-3.6099999999999746,-13.884615384615287
+Restaurant Tandoor,Chat Masala,PKT,38.0,148.6800000000012,-110.6800000000012,-291.26315789474
+Restaurant Tandoor,Cheese Amul,Kg,35.0,13.455000000000004,21.544999999999995,61.55714285714284
+Restaurant Tandoor,Coriander Leaves,Kg,58.0,19.017999999999713,38.98200000000028,67.2103448275867
+Restaurant Tandoor,Curd Mother Dairy,Kg,208.0,19.5619999999999,188.4380000000001,90.59519230769236
+Restaurant Tandoor,Dalda,Kg,4.0,,,
+Restaurant Tandoor,Daliya,Kg,2.0,,,
+Restaurant Tandoor,Dhaniya Whole,Kg,1.0,0.485,0.515,51.5
+Restaurant Tandoor,Eggs,PCS,243.0,16664.0,-16421.0,-6757.61316872428
+Restaurant Tandoor,Extra Hot & Spicy,Kg,1.0,,,
+Restaurant Tandoor,Fresh Beans,Kg,32.0,3.2200000000000015,28.779999999999998,89.93749999999999
+Restaurant Tandoor,Fresh Mushroom,Kg,49.1,36.32499999999999,12.775000000000013,26.01832993890023
+Restaurant Tandoor,Ginger,Kg,7.5,3.398000000000002,4.1019999999999985,54.693333333333314
+Restaurant Tandoor,Green Chilly,Kg,9.0,18.64699999999974,-9.64699999999974,-107.18888888888598
+Restaurant Tandoor,Green Elaichi,Kg,0.15000000000000002,0.7962500000000006,-0.6462500000000005,-430.8333333333336
+Restaurant Tandoor,Green Peas,PKT,5.0,4.956000000000001,0.04399999999999871,0.8799999999999742
+Restaurant Tandoor,Haldi Powder,Kg,2.0,7.240000000000002,-5.240000000000002,-262.0000000000001
+Restaurant Tandoor,Jamaican Jerk Seasonings,JAR,1.0,,,
+Restaurant Tandoor,Jeera Whole,Kg,2.0,8.984000000000002,-6.984000000000002,-349.2000000000001
+Restaurant Tandoor,Kaju Tukda,Kg,9.0,6.024000000000002,2.975999999999998,33.06666666666664
+Restaurant Tandoor,Kashmiri Chilli,Kg,3.8,1.9520000000000004,1.8479999999999994,48.63157894736841
+Restaurant Tandoor,Kashmiri Chilli Powder,PKT,2.0,0.05,1.95,97.5
+Restaurant Tandoor,Kasuri Methi,PKT,3.0,34.87999999999952,-31.87999999999952,-1062.6666666666506
+Restaurant Tandoor,Kishmish,Kg,0.75,,,
+Restaurant Tandoor,Kitchen King,PKT,4.0,11.616000000000009,-7.6160000000000085,-190.4000000000002
+Restaurant Tandoor,Lemon,Kg,33.5,2.887000000000002,30.613,91.38208955223881
+Restaurant Tandoor,Maida,Kg,212.0,129.06700000000063,82.93299999999937,39.11933962264121
+Restaurant Tandoor,Malai Paneer,Kg,124.0,334.8149999999996,-210.8149999999996,-170.01209677419322
+Restaurant Tandoor,Milk 3 Fat,PKT,30.0,28.64999999999998,1.3500000000000192,4.500000000000064
+Restaurant Tandoor,Mint Leaves,Kg,14.0,1.49,12.51,89.35714285714286
+Restaurant Tandoor,Mustard Oil,BTL,11.0,,,
+Restaurant Tandoor,Onion,Kg,114.0,27.169999999999945,86.83000000000006,76.16666666666671
+Restaurant Tandoor,Papad Big,PKT,16.0,,,
+Restaurant Tandoor,Peanut Roasted,Kg,9.0,,,
+Restaurant Tandoor,Peel Garlic,Kg,53.0,61.60499999999928,-8.60499999999928,-16.235849056602415
+Restaurant Tandoor,Peri Peri Masala,Kg,1.0,0.19999999999999998,0.8,80.0
+Restaurant Tandoor,Potato,Kg,80.0,22.45499999999997,57.54500000000003,71.93125000000003
+Restaurant Tandoor,Refind Oil,LTR,64.0,35.69899999999958,28.30100000000042,44.22031250000066
+Restaurant Tandoor,Rose Water,BTL,2.0,1.1520000000000001,0.8479999999999999,42.39999999999999
+Restaurant Tandoor,Salt Tata,PKT,8.0,29.94699999999923,-21.94699999999923,-274.33749999999037
+Restaurant Tandoor,Spinach,Kg,60.0,,,
+Restaurant Tandoor,Sugar,Kg,6.0,30.33599999999956,-24.33599999999956,-405.59999999999275
+Restaurant Tandoor,Tomatos,Kg,106.0,,,
+Restaurant Tandoor,Wafer Potatos,Kg,80.0,,,
+Restaurant Tandoor,White Till,Kg,1.0,,,
+Restaurant Tandoor,White Vinegar,BTL,4.0,0.7957142857142858,3.204285714285714,80.10714285714286
+Rooftop,After Mint T One,PKT,19.0,,,
+Rooftop,Air Freshener Can,CAN,1.0,,,
+Rooftop,Bisleri 250 Ml,BTL,480.0,,,
+Rooftop,Caustic Soda,PKT,1.0,,,
+Rooftop,Ceiling Broom,NOS,1.0,,,
+Rooftop,Chilli Pickle,Kg,7.5,,,
+Rooftop,Clorex,BTL,1.0,,,
+Rooftop,Dolly Paper Small,PKT,10.0,,,
+Rooftop,Kot Roll,NOS,10.0,,,
+Rooftop,Lemon Grass Liquid,BTL,2.0,,,
+Rooftop,M Fold Tissue,PKT,100.0,,,
+Rooftop,Mango Pickle,Kg,5.0,,,
+Rooftop,Mop Refill,NOS,4.0,,,
+Rooftop,Paper Straw,PKT,13.0,,,
+Rooftop,Reva R2,CAN,1.0,,,
+Rooftop,Reva R5,CAN,2.0,,,
+Rooftop,Salt Tata,PKT,1.0,29.94699999999923,-28.94699999999923,-2894.699999999923
+Rooftop,Scrub Pad,NOS,1.0,,,
+Rooftop,Tabasco Sauce,BTL,5.0,,,
+Rooftop,Tea Light Candle,PKT,4.0,,,
+Rooftop,Tissue Paper Ten One,PKT,100.0,,,
+Rooftop,Toilet Roll,PKT,60.0,,,
+Rooftop,Tomato Ketchup,BTL,20.0,8.070000000000002,11.929999999999998,59.64999999999999
+Rooftop,Tooth Pick 500 Pc,PKT,3.0,,,
+Rooftop,Tooth Pick Taj,PKT,1.0,,,
+Rooftop,Wonder Wipe,PCS,10.0,,,
+Rooftop Continental,Almond,Kg,0.8300000000000001,,,
+Rooftop Continental,American Corn,Kg,3.5,41.35999999999998,-37.85999999999998,-1081.714285714285
+Rooftop Continental,Amul Cream,PKT,13.0,90.7340000000005,-77.7340000000005,-597.95384615385
+Rooftop Continental,Aromatic Powder,PKT,5.0,5.236000000000004,-0.2360000000000042,-4.720000000000084
+Rooftop Continental,Avocado Imp,Kg,1.5499999999999998,,,
+Rooftop Continental,Baked Beans,TIN,4.0,,,
+Rooftop Continental,Baking Powder,PKT,1.0,0.037500000000000006,0.9625,96.25
+Rooftop Continental,Basmati Rice,Kg,1.0,112.99999999999999,-111.99999999999999,-11199.999999999998
+Rooftop Continental,Bell Papper Yellow,Kg,9.0,13.200000000000003,-4.200000000000003,-46.6666666666667
+Rooftop Continental,Bell Pepper Red,Kg,10.0,13.2,-3.1999999999999993,-31.999999999999996
+Rooftop Continental,Black Pepper Whole,Kg,0.5,1.8370000000000004,-1.3370000000000004,-267.4000000000001
+Rooftop Continental,Bread Crumbs Penko,Kg,5.0,5.100000000000001,-0.10000000000000142,-2.0000000000000284
+Rooftop Continental,Broccoli,Kg,16.0,17.329999999999995,-1.3299999999999947,-8.312499999999968
+Rooftop Continental,Butter Amul,PKT,18.0,43.673999999999715,-25.673999999999715,-142.63333333333173
+Rooftop Continental,Capsicum,Kg,16.0,73.45499999999993,-57.45499999999993,-359.09374999999955
+Rooftop Continental,Carrots,Kg,2.5,32.40999999999992,-29.90999999999992,-1196.3999999999967
+Rooftop Continental,Celery Leaves,Kg,4.0,0.8099999999999999,3.19,79.75
+Rooftop Continental,Check Duster,PCS,6.0,,,
+Rooftop Continental,Cheese Amul,Kg,25.0,13.455000000000004,11.544999999999996,46.179999999999986
+Rooftop Continental,Cheese Mozzarella,Kg,20.0,,,
+Rooftop Continental,Cherry Tomato,Kg,2.25,,,
+Rooftop Continental,Chilli Flakes,Kg,1.0,,,
+Rooftop Continental,Coconut Milk Powder,PKT,5.0,32.152000000000044,-27.152000000000044,-543.0400000000009
+Rooftop Continental,Coriander Leaves,Kg,6.0,19.017999999999713,-13.017999999999713,-216.96666666666187
+Rooftop Continental,Corn Flour,Kg,6.0,12.114000000000003,-6.1140000000000025,-101.90000000000003
+Rooftop Continental,Dhaniya Whole,Kg,1.0,0.485,0.515,51.5
+Rooftop Continental,Dukes Soda,BTL,72.0,,,
+Rooftop Continental,French Fries 9mm,PKT,4.0,,,
+Rooftop Continental,French Lettuce Green,Kg,0.75,,,
+Rooftop Continental,Fresh Basil,Kg,5.5,2.782000000000001,2.717999999999999,49.4181818181818
+Rooftop Continental,Fresh Beans,Kg,1.5,3.2200000000000015,-1.7200000000000015,-114.66666666666676
+Rooftop Continental,Fresh Mushroom,Kg,2.0,36.32499999999999,-34.32499999999999,-1716.2499999999995
+Rooftop Continental,Gherkins,BTL,1.0,,,
+Rooftop Continental,Green Peas,PKT,2.0,4.956000000000001,-2.9560000000000013,-147.80000000000007
+Rooftop Continental,Green Zucchini,Kg,5.0,4.700000000000002,0.29999999999999805,5.999999999999961
+Rooftop Continental,Iceberg Lettuce,Kg,16.5,0.8,15.7,95.15151515151514
+Rooftop Continental,Jalepenos Slice,TIN,2.0,,,
+Rooftop Continental,Jeera Whole,Kg,1.0,8.984000000000002,-7.984000000000002,-798.4000000000002
+Rooftop Continental,Kabuli Chana,Kg,1.0,6.5,-5.5,-550.0
+Rooftop Continental,Kafir Lemon Leaves,Kg,0.1,0.01,0.09000000000000001,90.0
+Rooftop Continental,Leeks,Kg,1.0,,,
+Rooftop Continental,Lemon Grass,Kg,2.0,0.042,1.958,97.89999999999999
+Rooftop Continental,Lemon Leaves,Kg,0.4,,,
+Rooftop Continental,Maida,Kg,19.0,129.06700000000063,-110.06700000000063,-579.3000000000033
+Rooftop Continental,Makai Atta,Kg,5.0,0.2,4.8,96.0
+Rooftop Continental,Malai Paneer,Kg,21.3,334.8149999999996,-313.5149999999996,-1471.9014084507023
+Rooftop Continental,Milk 3 Fat,PKT,46.0,28.64999999999998,17.35000000000002,37.71739130434787
+Rooftop Continental,Olive Oil Extra Virgin,BTL,2.0,,,
+Rooftop Continental,Olives Black Pitted Bar,BTL,1.0,,,
+Rooftop Continental,Olives Black Pitted Kitchen,TIN,1.0,,,
+Rooftop Continental,Oregano Dry,Kg,1.0,,,
+Rooftop Continental,Parsley Leaves,Kg,0.8999999999999999,,,
+Rooftop Continental,Peel Garlic,Kg,6.0,61.60499999999928,-55.60499999999928,-926.749999999988
+Rooftop Continental,Penne Pasta,PKT,6.0,,,
+Rooftop Continental,Plain Noodles,PKT,3.0,,,
+Rooftop Continental,Rajma Chitra,Kg,3.0,11.799999999999981,-8.799999999999981,-293.3333333333327
+Rooftop Continental,Red Cabbage,Kg,0.5,,,
+Rooftop Continental,Red Romaine Lettuce,Kg,0.55,,,
+Rooftop Continental,Refind Oil,LTR,23.0,35.69899999999958,-12.698999999999579,-55.21304347825904
+Rooftop Continental,Risotto Rice,Kg,2.0,,,
+Rooftop Continental,Salt Tata,PKT,1.0,29.94699999999923,-28.94699999999923,-2894.699999999923
+Rooftop Continental,Spaghetti Pasta,PKT,2.0,,,
+Rooftop Continental,Spinach,Kg,31.0,,,
+Rooftop Continental,Tahina Paste,Kg,1.0,,,
+Rooftop Continental,Tomato Ketchup,BTL,1.0,8.070000000000002,-7.070000000000002,-707.0000000000002
+Rooftop Continental,Tomato Puree,TIN,10.0,32.48000000000001,-22.48000000000001,-224.80000000000013
+Rooftop Continental,Tomatos,Kg,81.0,,,
+Rooftop Continental,Tortilla Bread,PKT,5.0,,,
+Rooftop Continental,Veg Mayonnaise,BTL,8.0,0.7,7.3,91.25
+Rooftop Continental,Wafer Potatos,Kg,6.0,,,
+Rooftop Continental,White Pepper Powder,Kg,1.0,0.8030000000000006,0.1969999999999994,19.69999999999994
+Rooftop Continental,White Vinegar,BTL,2.0,0.7957142857142858,1.2042857142857142,60.21428571428571
+Rooftop Continental,Yellow Zucchini,Kg,5.0,,,
+Rooftop Indian,Almond,Kg,0.3,,,
+Rooftop Indian,American Corn,Kg,2.0,41.35999999999998,-39.35999999999998,-1967.9999999999989
+Rooftop Indian,Amul Cream,PKT,25.0,90.7340000000005,-65.7340000000005,-262.936000000002
+Rooftop Indian,Baby Corn,Kg,5.5,10.730000000000006,-5.230000000000006,-95.0909090909092
+Rooftop Indian,Baby Potato,Kg,8.0,9.5,-1.5,-18.75
+Rooftop Indian,Bajra,Kg,3.0,,,
+Rooftop Indian,Banana Raw,Kg,2.0,,,
+Rooftop Indian,Basmati Rice,Kg,52.0,112.99999999999999,-60.999999999999986,-117.30769230769229
+Rooftop Indian,Besan,Kg,5.5,3.25,2.25,40.909090909090914
+Rooftop Indian,Bhavnagri Chilly,Kg,1.0,3.2000000000000006,-2.2000000000000006,-220.00000000000006
+Rooftop Indian,Black Dal,Kg,5.0,,,
+Rooftop Indian,Bor Chilli,Kg,1.0,,,
+Rooftop Indian,Bread Crumbs Penko,Kg,2.0,5.100000000000001,-3.1000000000000014,-155.00000000000006
+Rooftop Indian,Brinjal Big,Kg,19.0,,,
+Rooftop Indian,Butter Amul,PKT,21.0,43.673999999999715,-22.673999999999715,-107.97142857142721
+Rooftop Indian,Cabbage,Kg,4.5,7.35,-2.8499999999999996,-63.33333333333333
+Rooftop Indian,Capsicum,Kg,10.5,73.45499999999993,-62.95499999999993,-599.5714285714279
+Rooftop Indian,Carrots,Kg,5.0,32.40999999999992,-27.40999999999992,-548.1999999999983
+Rooftop Indian,Cauliflower,Kg,14.0,29.609999999999975,-15.609999999999975,-111.49999999999982
+Rooftop Indian,Chana Dal,Kg,0.5,11.799999999999983,-11.299999999999983,-2259.9999999999964
+Rooftop Indian,Chana Masala,PKT,2.0,,,
+Rooftop Indian,Char Magaz,Kg,10.0,,,
+Rooftop Indian,Chat Masala,PKT,2.0,148.6800000000012,-146.6800000000012,-7334.00000000006
+Rooftop Indian,Cheese Amul,Kg,4.5,13.455000000000004,-8.955000000000004,-199.00000000000009
+Rooftop Indian,Churma Atta,Kg,5.0,,,
+Rooftop Indian,Cinnamon (dalchini),Kg,0.1,0.2980000000000002,-0.1980000000000002,-198.0000000000002
+Rooftop Indian,Coconut Milk Powder,PKT,1.0,32.152000000000044,-31.152000000000044,-3115.2000000000044
+Rooftop Indian,Coriander Leaves,Kg,11.0,19.017999999999713,-8.017999999999713,-72.89090909090649
+Rooftop Indian,Corn Flour,Kg,4.0,12.114000000000003,-8.114000000000003,-202.85000000000005
+Rooftop Indian,Curd Mother Dairy,Kg,36.0,19.5619999999999,16.4380000000001,45.66111111111139
+Rooftop Indian,Dhaniya Powder,Kg,1.0,,,
+Rooftop Indian,Fresh Beans,Kg,63.0,3.2200000000000015,59.78,94.88888888888889
+Rooftop Indian,Fresh Mushroom,Kg,6.900000000000001,36.32499999999999,-29.424999999999986,-426.4492753623186
+Rooftop Indian,Ghee Nandani,Kg,22.0,42.68600000000008,-20.686000000000078,-94.02727272727309
+Rooftop Indian,Ginger,Kg,9.0,3.398000000000002,5.6019999999999985,62.244444444444426
+Rooftop Indian,Green Chilly,Kg,8.0,18.64699999999974,-10.64699999999974,-133.08749999999674
+Rooftop Indian,Green Peas,PKT,30.0,4.956000000000001,25.043999999999997,83.47999999999999
+Rooftop Indian,Haldi Powder,Kg,3.0,7.240000000000002,-4.240000000000002,-141.3333333333334
+Rooftop Indian,Imli,Kg,2.0,0.04,1.96,98.0
+Rooftop Indian,Jaggery Powder,Kg,1.0,,,
+Rooftop Indian,Javantry,Kg,0.3,0.06600000000000002,0.23399999999999999,78.0
+Rooftop Indian,Jeera Whole,Kg,2.0,8.984000000000002,-6.984000000000002,-349.2000000000001
+Rooftop Indian,Kabuli Chana,Kg,4.0,6.5,-2.5,-62.5
+Rooftop Indian,Kaju Tukda,Kg,12.0,6.024000000000002,5.975999999999998,49.79999999999998
+Rooftop Indian,Kashmiri Chilli,Kg,12.0,1.9520000000000004,10.048,83.73333333333333
+Rooftop Indian,Kashmiri Chilli Powder,PKT,3.0,0.05,2.95,98.33333333333334
+Rooftop Indian,Kasuri Methi,PKT,6.0,34.87999999999952,-28.87999999999952,-481.33333333332536
+Rooftop Indian,Kewra Water,BTL,1.0,0.8,0.19999999999999996,19.999999999999996
+Rooftop Indian,Khichiya Papad,PKT,10.0,,,
+Rooftop Indian,Khichu Masala,PKT,1.0,,,
+Rooftop Indian,Kishmish,Kg,0.4,,,
+Rooftop Indian,Kitchen King,PKT,4.0,11.616000000000009,-7.6160000000000085,-190.4000000000002
+Rooftop Indian,Lady Finger,Kg,4.0,9.6,-5.6,-140.0
+Rooftop Indian,Lapsi,Kg,3.0,,,
+Rooftop Indian,Lemon,Kg,0.5,2.887000000000002,-2.387000000000002,-477.4000000000004
+Rooftop Indian,Malai Paneer,Kg,52.0,334.8149999999996,-282.8149999999996,-543.8749999999993
+Rooftop Indian,Methi Fresh,Kg,6.5,20.41999999999998,-13.91999999999998,-214.15384615384588
+Rooftop Indian,Mint Leaves,Kg,3.5,1.49,2.01,57.428571428571416
+Rooftop Indian,Nature Jaggery,PKT,1.0,,,
+Rooftop Indian,Onion,Kg,124.0,27.169999999999945,96.83000000000006,78.0887096774194
+Rooftop Indian,Papad Big,PKT,2.0,,,
+Rooftop Indian,Peanut Raw,Kg,3.0,,,
+Rooftop Indian,Peel Garlic,Kg,25.0,61.60499999999928,-36.60499999999928,-146.41999999999712
+Rooftop Indian,Pomegranate (anar),Kg,1.5,,,
+Rooftop Indian,Potato,Kg,16.0,22.45499999999997,-6.45499999999997,-40.343749999999815
+Rooftop Indian,Rajma Chitra,Kg,1.0,11.799999999999981,-10.799999999999981,-1079.9999999999982
+Rooftop Indian,Refind Oil,LTR,68.0,35.69899999999958,32.30100000000042,47.50147058823591
+Rooftop Indian,Rice Atta,Kg,11.0,,,
+Rooftop Indian,Rose Water,BTL,1.0,1.1520000000000001,-0.15200000000000014,-15.200000000000014
+Rooftop Indian,Sabudana,Kg,2.0,,,
+Rooftop Indian,Sada Mawa,Kg,0.5,,,
+Rooftop Indian,Salt Tata,PKT,12.0,29.94699999999923,-17.94699999999923,-149.5583333333269
+Rooftop Indian,Sarso Ka Sag,TIN,5.0,,,
+Rooftop Indian,Sev,Kg,1.5,0.12000000000000001,1.38,92.0
+Rooftop Indian,Small Brinjel,Kg,3.0,,,
+Rooftop Indian,Soya Keema,Kg,1.0,,,
+Rooftop Indian,Spinach,Kg,48.0,,,
+Rooftop Indian,Star Fool,Kg,0.2,0.2720000000000001,-0.07200000000000006,-36.00000000000003
+Rooftop Indian,Sugar,Kg,9.0,30.33599999999956,-21.33599999999956,-237.06666666666177
+Rooftop Indian,Surang,Kg,2.0,,,
+Rooftop Indian,Sweet Potato,Kg,1.0,,,
+Rooftop Indian,Sweet Soda,Kg,1.0,,,
+Rooftop Indian,Tej Patta,Kg,0.1,0.08000000000000004,0.019999999999999962,19.99999999999996
+Rooftop Indian,Tomatos,Kg,165.0,,,
+Rooftop Indian,Toor Dal,Kg,43.0,41.4,1.6000000000000014,3.720930232558143
+Rooftop Indian,Wafer Potatos,Kg,1.0,,,
+Rooftop Indian,White Vatana,Kg,1.0,,,
+Rooftop Kitchen,Caustic Soda,PKT,1.0,,,
+Rooftop Kitchen,Cling Foil,ROLL,6.0,,,
+Rooftop Kitchen,Dolly Paper Big,PKT,4.0,,,
+Rooftop Kitchen,Garbage Bags,Kg,60.0,,,
+Rooftop Kitchen,Garbage Bags Medium,NOS,13.0,,,
+Rooftop Kitchen,Garbage Bags Small,NOS,8.0,,,
+Rooftop Kitchen,Liquid Soup,LTR,175.0,,,
+Rooftop Kitchen,Mixed Pickle 12 Gm,PCS,100.0,,,
+Rooftop Kitchen,Paper Bag Big,NOS,100.0,,,
+Rooftop Kitchen,Paper Bag Small,NOS,250.0,,,
+Rooftop Kitchen,Pitambari,PKT,27.0,,,
+Rooftop Kitchen,Plastic Cont With Lid 250 Ml Rnd,PKT,4.0,,,
+Rooftop Kitchen,Plastic Cont With Lid 700 Ml Rnd,PKT,3.0,,,
+Rooftop Kitchen,Plastic Cont With Lid 750 Ml Rect,PKT,3.0,,,
+Rooftop Kitchen,Scrub Pad,NOS,10.0,,,
+Rooftop Kitchen,Shower Cap,PCS,2.0,,,
+Rooftop Kitchen,Silver Container 450 Ml,PKT,5.0,,,
+Rooftop Kitchen,Silver Container 750 Ml,PKT,1.0,,,
+Rooftop Kitchen,Silver Foil,PCS,7.0,,,
+Rooftop Kitchen,Skull Cap,PKT,7.0,,,
+Rooftop Kitchen,Steel Scrubber,PCS,42.0,,,
+Rooftop Pentry,7 Up 750 Ml,BTL,48.0,,,
+Rooftop Pentry,Almond,Kg,0.25,,,
+Rooftop Pentry,Apple,Kg,2.0,0.2,1.8,90.0
+Rooftop Pentry,Aquafina Water,BTL,120.0,,,
+Rooftop Pentry,Beetroots,Kg,1.5,3.5,-2.0,-133.33333333333331
+Rooftop Pentry,Blue Curacao Syrup,BTL,1.0,,,
+Rooftop Pentry,Boondi,Kg,0.5,0.15999999999999998,0.34,68.0
+Rooftop Pentry,Capsicum,Kg,4.5,73.45499999999993,-68.95499999999993,-1532.3333333333317
+Rooftop Pentry,Carrots,Kg,12.0,32.40999999999992,-20.40999999999992,-170.08333333333266
+Rooftop Pentry,Chat Masala,PKT,5.0,148.6800000000012,-143.6800000000012,-2873.600000000024
+Rooftop Pentry,Check Duster,PCS,1.0,,,
+Rooftop Pentry,Cheesling,TIN,1.0,,,
+Rooftop Pentry,Coconut Syrup,BTL,1.0,,,
+Rooftop Pentry,Coriander Leaves,Kg,4.0,19.017999999999713,-15.017999999999713,-375.4499999999928
+Rooftop Pentry,Cucumber,Kg,28.0,5.390000000000001,22.61,80.75
+Rooftop Pentry,Curd,Kg,2.0,0.02,1.98,99.0
+Rooftop Pentry,Curd Mother Dairy,Kg,42.0,19.5619999999999,22.4380000000001,53.423809523809766
+Rooftop Pentry,Diet Coke,CAN,24.0,,,
+Rooftop Pentry,Dukes Soda,BTL,48.0,,,
+Rooftop Pentry,Elaichi Bananas,Kg,1.5,,,
+Rooftop Pentry,Frut Overload Ice Cream,LTR,4.0,0.12,3.88,97.0
+Rooftop Pentry,Ginger,Kg,2.2,3.398000000000002,-1.1980000000000017,-54.45454545454553
+Rooftop Pentry,Ginger Ale,CAN,36.0,,,
+Rooftop Pentry,Green Chilly,Kg,4.5,18.64699999999974,-14.14699999999974,-314.37777777777194
+Rooftop Pentry,Grenadine Syrup,BTL,1.0,,,
+Rooftop Pentry,Ice,Kg,110.0,,,
+Rooftop Pentry,Jaggery Powder Sachet,PKT,4.0,,,
+Rooftop Pentry,Jeera Whole,Kg,1.0,8.984000000000002,-7.984000000000002,-798.4000000000002
+Rooftop Pentry,Kaju Tukda,Kg,1.0,6.024000000000002,-5.024000000000002,-502.4000000000002
+Rooftop Pentry,Kashmiri Chilli Powder,PKT,1.0,0.05,0.95,95.0
+Rooftop Pentry,Lemon,Kg,46.0,2.887000000000002,43.113,93.72391304347826
+Rooftop Pentry,Lemon Iced Tea Syrup,LTR,1.0,,,
+Rooftop Pentry,Litchi Crush,BTL,1.0,,,
+Rooftop Pentry,Malai Kulfi,PCS,30.0,134.0,-104.0,-346.6666666666667
+Rooftop Pentry,Milk 3 Fat,PKT,42.0,28.64999999999998,13.35000000000002,31.785714285714334
+Rooftop Pentry,Mint Leaves,Kg,3.5,1.49,2.01,57.428571428571416
+Rooftop Pentry,Mojito Mint Syrup,BTL,1.0,,,
+Rooftop Pentry,Onion,Kg,74.0,27.169999999999945,46.830000000000055,63.28378378378385
+Rooftop Pentry,Orange,Kg,2.0,,,
+Rooftop Pentry,Orange Imp,Kg,1.0,,,
+Rooftop Pentry,Pav Bhaji Masala,PKT,2.0,,,
+Rooftop Pentry,Peanut Roasted,Kg,5.0,,,
+Rooftop Pentry,Pineapple Fruit,Kg,12.0,0.17,11.83,98.58333333333333
+Rooftop Pentry,Pineapple Juice,PKT,4.0,,,
+Rooftop Pentry,Pista,Kg,0.25,0.2870000000000001,-0.03700000000000009,-14.800000000000036
+Rooftop Pentry,Pomegranate (anar),Kg,1.5,,,
+Rooftop Pentry,Raddish,Kg,2.5,,,
+Rooftop Pentry,Red Cherry,TIN,4.0,,,
+Rooftop Pentry,Sev,Kg,7.0,0.12000000000000001,6.88,98.28571428571429
+Rooftop Pentry,Strawberry Ice Cream,LTR,4.0,0.27,3.73,93.25
+Rooftop Pentry,Sugar,Kg,15.0,30.33599999999956,-15.335999999999562,-102.23999999999707
+Rooftop Pentry,Tabasco Sauce,BTL,2.0,,,
+Rooftop Pentry,Tea Powder,Kg,1.0,,,
+Rooftop Pentry,Thums Up,BTL,72.0,,,
+Rooftop Pentry,Tomatos,Kg,47.0,,,
+Rooftop Pentry,Vanilla Md Ice Cream,LTR,16.0,1.92,14.08,88.0
+Rooftop Pentry,Wafer Chips,PKT,1.0,,,
+Rooftop Pentry,Wafer Potatos,Kg,15.5,,,
+Rooftop Pentry,Water Melon,Kg,42.0,,,
+Rooftop Pentry,Yellow Banana Chips,Kg,1.0,,,
+Rooftop South Indian,Appam Rice,Kg,36.0,18.40000000000001,17.59999999999999,48.888888888888864
+Rooftop South Indian,Beetroots,Kg,7.5,3.5,4.0,53.333333333333336
+Rooftop South Indian,Capsicum,Kg,5.0,73.45499999999993,-68.45499999999993,-1369.0999999999985
+Rooftop South Indian,Carrots,Kg,2.0,32.40999999999992,-30.40999999999992,-1520.499999999996
+Rooftop South Indian,Chana Dal,Kg,2.0,11.799999999999983,-9.799999999999983,-489.99999999999915
+Rooftop South Indian,Check Duster,PCS,2.0,,,
+Rooftop South Indian,Cheese Amul,Kg,2.0,13.455000000000004,-11.455000000000004,-572.7500000000002
+Rooftop South Indian,Coconut Big,PCS,80.0,1200.5,-1120.5,-1400.625
+Rooftop South Indian,Coconut Oil,BTL,1.0,0.42999999999999994,0.5700000000000001,57.00000000000001
+Rooftop South Indian,Coriander Leaves,Kg,2.5,19.017999999999713,-16.517999999999713,-660.7199999999885
+Rooftop South Indian,Drum Stick,Kg,6.0,,,
+Rooftop South Indian,Eno Regular,BTL,1.0,4.950000000000001,-3.950000000000001,-395.0000000000001
+Rooftop South Indian,Farsan,Kg,1.0,,,
+Rooftop South Indian,Ghee Nandani,Kg,3.0,42.68600000000008,-39.68600000000008,-1322.8666666666693
+Rooftop South Indian,Green Chilly,Kg,1.0,18.64699999999974,-17.64699999999974,-1764.699999999974
+Rooftop South Indian,Haldi Powder,Kg,1.0,7.240000000000002,-6.240000000000002,-624.0000000000002
+Rooftop South Indian,Hing Powder,BTL,1.0,0.56,0.43999999999999995,43.99999999999999
+Rooftop South Indian,Imli,Kg,2.0,0.04,1.96,98.0
+Rooftop South Indian,Jeera Whole,Kg,1.0,8.984000000000002,-7.984000000000002,-798.4000000000002
+Rooftop South Indian,Kashmiri Chilli Powder,PKT,1.0,0.05,0.95,95.0
+Rooftop South Indian,Kokam Syrup,BTL,2.0,,,
+Rooftop South Indian,Milk 3 Fat,PKT,1.0,28.64999999999998,-27.64999999999998,-2764.999999999998
+Rooftop South Indian,Nature Jaggery,PKT,1.0,,,
+Rooftop South Indian,Onion,Kg,14.0,27.169999999999945,-13.169999999999945,-94.07142857142817
+Rooftop South Indian,Poha,Kg,5.0,,,
+Rooftop South Indian,Rai,Kg,1.0,0.01,0.99,99.0
+Rooftop South Indian,Red Pumpkin,Kg,6.0,,,
+Rooftop South Indian,Refind Oil,LTR,23.0,35.69899999999958,-12.698999999999579,-55.21304347825904
+Rooftop South Indian,Salt Tata,PKT,1.0,29.94699999999923,-28.94699999999923,-2894.699999999923
+Rooftop South Indian,Sambhar Masala,PKT,12.0,,,
+Rooftop South Indian,Sheera Rava,Kg,4.5,,,
+Rooftop South Indian,Sugar,Kg,1.0,30.33599999999956,-29.33599999999956,-2933.5999999999563
+Rooftop South Indian,Tomatos,Kg,12.0,,,
+Rooftop South Indian,Toor Dal,Kg,1.0,41.4,-40.4,-4040.0
+Rooftop South Indian,Ukda Rice Brown,Kg,1.0,,,
+Rooftop South Indian,Usal Masala,PKT,2.0,,,
+Rooftop South Indian,Wafer Potatos,Kg,24.0,,,
+Rooftop South Indian,White Urad Dal,Kg,25.0,,,
+Rooftop Tandoor,Amul Cream,PKT,3.0,90.7340000000005,-87.7340000000005,-2924.4666666666835
+Rooftop Tandoor,Atta,Kg,90.0,72.09999999999977,17.900000000000233,19.88888888888915
+Rooftop Tandoor,Baby Potato,Kg,4.0,9.5,-5.5,-137.5
+Rooftop Tandoor,Besan,Kg,2.0,3.25,-1.25,-62.5
+Rooftop Tandoor,Black Salt Powder,Kg,1.0,,,
+Rooftop Tandoor,Bread Crumbs Penko,Kg,3.0,5.100000000000001,-2.1000000000000014,-70.00000000000006
+Rooftop Tandoor,Broccoli,Kg,10.0,17.329999999999995,-7.329999999999995,-73.29999999999994
+Rooftop Tandoor,Butter Amul,PKT,24.5,43.673999999999715,-19.173999999999715,-78.26122448979476
+Rooftop Tandoor,Cabbage,Kg,12.0,7.35,4.65,38.75
+Rooftop Tandoor,Capsicum,Kg,8.0,73.45499999999993,-65.45499999999993,-818.1874999999991
+Rooftop Tandoor,Cauliflower,Kg,7.0,29.609999999999975,-22.609999999999975,-322.99999999999966
+Rooftop Tandoor,Chat Masala,PKT,8.0,148.6800000000012,-140.6800000000012,-1758.500000000015
+Rooftop Tandoor,Check Duster,PCS,13.0,,,
+Rooftop Tandoor,Cheese Amul,Kg,9.5,13.455000000000004,-3.9550000000000036,-41.63157894736846
+Rooftop Tandoor,Coriander Leaves,Kg,21.0,19.017999999999713,1.982000000000287,9.438095238096606
+Rooftop Tandoor,Curd Mother Dairy,Kg,46.0,19.5619999999999,26.4380000000001,57.473913043478476
+Rooftop Tandoor,Floor Duster,NOS,2.0,,,
+Rooftop Tandoor,Fresh Beans,Kg,12.0,3.2200000000000015,8.779999999999998,73.16666666666664
+Rooftop Tandoor,Fresh Mushroom,Kg,3.2,36.32499999999999,-33.124999999999986,-1035.1562499999995
+Rooftop Tandoor,Green Chilly,Kg,2.5,18.64699999999974,-16.14699999999974,-645.8799999999895
+Rooftop Tandoor,Green Peas,PKT,3.0,4.956000000000001,-1.9560000000000013,-65.20000000000005
+Rooftop Tandoor,Kaju Tukda,Kg,1.0,6.024000000000002,-5.024000000000002,-502.4000000000002
+Rooftop Tandoor,Kashmiri Chilli,Kg,1.0,1.9520000000000004,-0.9520000000000004,-95.20000000000005
+Rooftop Tandoor,Kasuri Methi,PKT,1.0,34.87999999999952,-33.87999999999952,-3387.999999999952
+Rooftop Tandoor,Kitchen King,PKT,1.0,11.616000000000009,-10.616000000000009,-1061.6000000000008
+Rooftop Tandoor,Lemon,Kg,5.0,2.887000000000002,2.112999999999998,42.25999999999996
+Rooftop Tandoor,Maida,Kg,40.0,129.06700000000063,-89.06700000000063,-222.66750000000158
+Rooftop Tandoor,Malai Paneer,Kg,38.0,334.8149999999996,-296.8149999999996,-781.0921052631568
+Rooftop Tandoor,Milk 3 Fat,PKT,1.0,28.64999999999998,-27.64999999999998,-2764.999999999998
+Rooftop Tandoor,Mint Leaves,Kg,4.0,1.49,2.51,62.74999999999999
+Rooftop Tandoor,Mustard Oil,BTL,4.0,,,
+Rooftop Tandoor,Onion,Kg,10.0,27.169999999999945,-17.169999999999945,-171.69999999999945
+Rooftop Tandoor,Papad Big,PKT,3.0,,,
+Rooftop Tandoor,Peanut Roasted,Kg,1.0,,,
+Rooftop Tandoor,Peel Garlic,Kg,4.0,61.60499999999928,-57.60499999999928,-1440.124999999982
+Rooftop Tandoor,Phulka Atta,Kg,12.0,,,
+Rooftop Tandoor,Red Cabbage,Kg,4.0,,,
+Rooftop Tandoor,Refind Oil,LTR,11.0,35.69899999999958,-24.69899999999958,-224.5363636363598
+Rooftop Tandoor,Salt Tata,PKT,1.0,29.94699999999923,-28.94699999999923,-2894.699999999923
+Rooftop Tandoor,Spinach,Kg,22.0,,,
+Rooftop Tandoor,Sugar,Kg,2.0,30.33599999999956,-28.33599999999956,-1416.7999999999781
+Rooftop Tandoor,Sweet Potato,Kg,4.0,,,
+Rooftop Tandoor,Tomatos,Kg,9.0,,,
+Rooftop Tandoor,Wafer Potatos,Kg,50.0,,,
+Staff Kitchen,Basmati Rice,Kg,10.0,112.99999999999999,-102.99999999999999,-1030.0
+Staff Kitchen,Black Chana,Kg,18.5,,,
+Staff Kitchen,Black Dal,Kg,25.0,,,
+Staff Kitchen,Black Pepper Whole,Kg,0.1,1.8370000000000004,-1.7370000000000003,-1737.0
+Staff Kitchen,Carrots,Kg,4.0,32.40999999999992,-28.40999999999992,-710.249999999998
+Staff Kitchen,Cauliflower,Kg,8.0,29.609999999999975,-21.609999999999975,-270.12499999999966
+Staff Kitchen,Chana Dal,Kg,12.0,11.799999999999983,0.20000000000001705,1.6666666666668088
+Staff Kitchen,Chapati For Staff,PCS,8550.0,,,
+Staff Kitchen,Chawli Dal,Kg,20.0,,,
+Staff Kitchen,Chicken Masala,PKT,3.0,4.480000000000002,-1.4800000000000022,-49.33333333333341
+Staff Kitchen,Cinnamon (dalchini),Kg,0.1,0.2980000000000002,-0.1980000000000002,-198.0000000000002
+Staff Kitchen,Coriander Leaves,Kg,11.0,19.017999999999713,-8.017999999999713,-72.89090909090649
+Staff Kitchen,Dhaniya Powder,Kg,2.0,,,
+Staff Kitchen,Eggs,PCS,1650.0,16664.0,-15014.0,-909.939393939394
+Staff Kitchen,Fresh Beans,Kg,8.0,3.2200000000000015,4.7799999999999985,59.74999999999998
+Staff Kitchen,Garam Masala,Kg,3.0,6.0210000000000035,-3.0210000000000035,-100.70000000000012
+Staff Kitchen,Ghee Nandani,Kg,1.0,42.68600000000008,-41.68600000000008,-4168.600000000008
+Staff Kitchen,Ginger,Kg,8.5,3.398000000000002,5.1019999999999985,60.023529411764684
+Staff Kitchen,Green Chilly,Kg,14.0,18.64699999999974,-4.646999999999739,-33.19285714285528
+Staff Kitchen,Green Elaichi,Kg,0.1,0.7962500000000006,-0.6962500000000006,-696.2500000000006
+Staff Kitchen,Green Peas,PKT,15.0,4.956000000000001,10.043999999999999,66.95999999999998
+Staff Kitchen,Green Vatana,Kg,25.0,,,
+Staff Kitchen,Haldi Powder,Kg,6.0,7.240000000000002,-1.240000000000002,-20.6666666666667
+Staff Kitchen,Jeera Whole,Kg,9.0,8.984000000000002,0.015999999999998238,0.17777777777775822
+Staff Kitchen,Kabuli Chana,Kg,27.0,6.5,20.5,75.92592592592592
+Staff Kitchen,Kaju Tukda,Kg,1.0,6.024000000000002,-5.024000000000002,-502.4000000000002
+Staff Kitchen,Kashmiri Chilli,Kg,1.0,1.9520000000000004,-0.9520000000000004,-95.20000000000005
+Staff Kitchen,Kashmiri Chilli Powder,PKT,4.0,0.05,3.95,98.75
+Staff Kitchen,Kasuri Methi,PKT,2.0,34.87999999999952,-32.87999999999952,-1643.999999999976
+Staff Kitchen,Kishmish,Kg,0.5,,,
+Staff Kitchen,Kitchen King,PKT,5.0,11.616000000000009,-6.6160000000000085,-132.32000000000016
+Staff Kitchen,Laung,Kg,0.1,0.2460000000000002,-0.14600000000000019,-146.00000000000017
+Staff Kitchen,Malai Paneer,Kg,4.0,334.8149999999996,-330.8149999999996,-8270.374999999989
+Staff Kitchen,Mango Pickle,Kg,10.0,,,
+Staff Kitchen,Masoor Dal,Kg,150.0,,,
+Staff Kitchen,Milk 3 Fat,PKT,220.0,28.64999999999998,191.35000000000002,86.97727272727273
+Staff Kitchen,Moong Dal,Kg,60.0,2.6,57.4,95.66666666666667
+Staff Kitchen,Onion,Kg,380.0,27.169999999999945,352.83000000000004,92.85000000000001
+Staff Kitchen,Peel Garlic,Kg,41.0,61.60499999999928,-20.60499999999928,-50.256097560973856
+Staff Kitchen,Poha,Kg,64.0,,,
+Staff Kitchen,Potato,Kg,246.0,22.45499999999997,223.54500000000002,90.8719512195122
+Staff Kitchen,Rai,Kg,6.0,0.01,5.99,99.83333333333334
+Staff Kitchen,Rajma Chitra,Kg,15.0,11.799999999999981,3.200000000000019,21.33333333333346
+Staff Kitchen,Refind Oil,LTR,190.0,35.69899999999958,154.3010000000004,81.21105263157916
+Staff Kitchen,Salt Tata,PKT,57.0,29.94699999999923,27.05300000000077,47.46140350877328
+Staff Kitchen,Sevai,PKT,4.0,3.5,0.5,12.5
+Staff Kitchen,Sheera Rava,Kg,66.0,,,
+Staff Kitchen,Soya Keema,Kg,10.0,,,
+Staff Kitchen,Spinach,Kg,1.0,,,
+Staff Kitchen,Staff Rice,Kg,750.0,,,
+Staff Kitchen,Staff Veg,Kg,420.0,,,
+Staff Kitchen,Star Fool,Kg,0.1,0.2720000000000001,-0.17200000000000007,-172.00000000000006
+Staff Kitchen,Sugar,Kg,50.0,30.33599999999956,19.66400000000044,39.32800000000088
+Staff Kitchen,Tea Powder,Kg,5.0,,,
+Staff Kitchen,Tomatos,Kg,126.0,,,
+Sweet,Almond,Kg,0.5,,,
+Sweet,Carrots,Kg,3.0,32.40999999999992,-29.40999999999992,-980.3333333333306
+Sweet,Fresh Milk (tabela),LTR,130.0,42.964999999999996,87.035,66.95
+Sweet,Ghee Nandani,Kg,15.0,42.68600000000008,-27.686000000000078,-184.57333333333386
+Sweet,Hariyali Mawa,Kg,4.0,,,
+Sweet,Kaju Tukda,Kg,4.0,6.024000000000002,-2.024000000000002,-50.600000000000044
+Sweet,Moong Dal,Kg,4.0,2.6,1.4,35.0
+Sweet,Pista,Kg,1.1,0.2870000000000001,0.813,73.9090909090909
+Sweet,Sada Mawa,Kg,4.0,,,
+Sweet,Saffron (kesar),PKT,5.0,,,
+Sweet,Sugar,Kg,55.0,30.33599999999956,24.66400000000044,44.84363636363716
+Sweet,White Pumpkin,Kg,17.0,,,
+Sweet,White Vinegar,BTL,4.0,0.7957142857142858,3.204285714285714,80.10714285714286
