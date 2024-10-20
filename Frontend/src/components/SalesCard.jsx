@@ -46,13 +46,13 @@ function SalesCard({ data }) {
         </div>
         <div className='flex flex-col items-start mt-10 gap-2'>
           <button
-            className={`font-chaletLondon ${itemsToPlot === 'Weekly' ? "bg-[#FFCC00]" : "bg-[#FF9D00]"} w-full py-1 rounded-xl`}
+            className={`font-chaletLondon ${itemsToPlot === 'Weekly' ? "bg-[#FFCC00]" : "text-white"} w-full py-1 rounded-xl`}
             onClick={() => handleButtonClick('Weekly')}
           >
             Weekly
           </button>
           <button
-            className={`font-chaletLondon ${itemsToPlot === 'Monthly' ? "bg-[#FFCC00]" : "bg-[#FF9D00]"} w-full py-1 rounded-xl`}
+            className={`font-chaletLondon ${itemsToPlot === 'Monthly' ? "bg-[#FFCC00]" : "text-white"} w-full py-1 rounded-xl`}
             onClick={() => handleButtonClick('Monthly')}
           >
             Monthly
