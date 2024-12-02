@@ -56,8 +56,7 @@ To set up the project locally, follow these steps:
    python server.py
    ```
 
-6. **Access the Web Interface**:
-   - Navigate to `http://localhost:8000` to use the application.
+6. Change the Api end point in frontend run react front end 
 
 ## 📖 Usage
 1. **Data Upload**: Owners can upload raw CSV data through the web interface.
