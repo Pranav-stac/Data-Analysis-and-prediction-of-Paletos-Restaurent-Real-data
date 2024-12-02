@@ -18,7 +18,7 @@ function Upload() {
     formData.append('file', file);
 
     try {
-      const response = await fetch('https://stable-simply-porpoise.ngrok-free.app/process-csv', {
+      const response = await fetch('http://52.66.248.191:5000/process-csv', {
         method: 'POST',
         body: formData,
       });

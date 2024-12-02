@@ -1,0 +1,13 @@
+Timestamp,Date,Invoice_No_,Staff,Settled_By_BSR,Name,Phone,Area,Table_No_,Item_Name,Price,Qty_,Sub_Total,Tax,Final_Total
+2024-10-09 19:32:02+00:00,2024-10-09,11165,TD,vijay (vijay shetty),,,Parcel,nan,Pompfret (500 GMS),2250.0,4.0,9000.0,450.0,9450.0
+2024-10-09 19:32:02+00:00,2024-10-09,11165,TD,vijay (vijay shetty),,,Parcel,nan,Neer Dosa(4pc),225.0,3.0,675.0,33.8,708.8
+2024-10-09 19:32:02+00:00,2024-10-09,11165,TD,vijay (vijay shetty),,,Parcel,nan,Brown Rice,375.0,2.0,750.0,37.6,787.6
+2024-10-10 00:03:54+00:00,2024-10-09,11185,TD,vijay (vijay shetty),,,Parcel,nan,BUTTER GARLIC NAAN,165.0,1.0,165.0,5.8,121.3
+2024-10-10 00:03:54+00:00,2024-10-09,11185,TD,vijay (vijay shetty),,,Parcel,nan,Crispy Chicken Chef Style,795.0,1.0,795.0,27.8,584.3
+2024-10-10 00:04:13+00:00,2024-10-09,11186,MK,vijay (vijay shetty),,,Personal Dine In Room,PDR 4,Bottled Water,0.0,2.0,0.0,0.0,0.0
+2024-10-10 00:04:13+00:00,2024-10-09,11186,MK,vijay (vijay shetty),,,Personal Dine In Room,PDR 4,FORTUNE RICE (VEG),765.0,1.0,765.0,76.5,841.5
+2024-10-10 00:04:13+00:00,2024-10-09,11186,MK,vijay (vijay shetty),,,Personal Dine In Room,PDR 4,Neer Dosa(4pc),225.0,1.0,225.0,22.5,247.5
+2024-10-10 00:04:13+00:00,2024-10-09,11186,MK,vijay (vijay shetty),,,Personal Dine In Room,PDR 4,FRESH LIME WATER,185.0,3.0,555.0,55.6,610.6
+2024-10-10 00:04:13+00:00,2024-10-09,11186,MK,vijay (vijay shetty),,,Personal Dine In Room,PDR 4,Burnt Garlic Soup (VEG),365.0,2.0,730.0,73.1,803.1
+2024-10-10 00:04:13+00:00,2024-10-09,11186,MK,vijay (vijay shetty),,,Personal Dine In Room,PDR 4,Exotic Stir Fried Vegetable,795.0,1.0,795.0,79.6,874.6
+2024-10-10 00:04:13+00:00,2024-10-09,11186,MK,vijay (vijay shetty),,,Personal Dine In Room,PDR 4,Vegetable Gassi,795.0,1.0,795.0,79.6,874.6

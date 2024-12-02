@@ -1,7 +1,0 @@
-Order_ID_z,Restaurant_ID_z,Identifier_z,Cancelled_Time_z_year,Cancelled_Time_z_month,Cancelled_Time_z_day,Cancelled_Time_z_hour,Received_Time_z_year,Received_Time_z_month,Received_Time_z_day,Received_Time_z_hour,Client_Sharing_Code_z_year,Client_Sharing_Code_z_month,Client_Sharing_Code_z_day,Client_Sharing_Code_z_hour,Order_Status_z_year,Order_Status_z_month,Order_Status_z_day,Order_Status_z_hour,Delivered_Time_z_year,Delivered_Time_z_month,Delivered_Time_z_day,Delivered_Time_z_hour,Accepted_Time_z_year,Accepted_Time_z_month,Accepted_Time_z_day,Accepted_Time_z_hour,Rider_Arrival_Time_z_year,Rider_Arrival_Time_z_month,Rider_Arrival_Time_z_day,Rider_Arrival_Time_z_hour,Mark_Ready_Time_z_year,Mark_Ready_Time_z_month,Mark_Ready_Time_z_day,Mark_Ready_Time_z_hour,Picked_up_Time_z_year,Picked_up_Time_z_month,Picked_up_Time_z_day,Picked_up_Time_z_hour
--1.4734857056323418,,,2024,10,3,15,2024,10,3,14,,,,,,,,,2024.0,10.0,3.0,15.0,2024,10,3,14,2024.0,10.0,3.0,14.0,2024.0,10.0,3.0,14.0,2024.0,10.0,3.0,14.0
--0.2794487079763668,,,2024,10,6,22,2024,10,6,21,,,,,,,,,,,,,2024,10,6,21,2024.0,10.0,6.0,22.0,2024.0,10.0,6.0,21.0,,,,
--0.7390233240083193,,,2024,10,5,19,2024,10,5,19,,,,,,,,,,,,,2024,10,5,19,,,,,,,,,,,,
-0.07496793151244861,,,2024,10,12,19,2024,10,12,19,,,,,,,,,,,,,2024,10,12,19,,,,,,,,,,,,
-1.5813573236025598,,,2024,10,15,23,2024,10,15,23,,,,,,,,,,,,,2024,10,15,23,,,,,,,,,,,,
-0.8356324825020194,,,2024,10,16,21,2024,10,16,19,,,,,,,,,,,,,2024,10,16,19,2024.0,10.0,16.0,20.0,,,,,,,,

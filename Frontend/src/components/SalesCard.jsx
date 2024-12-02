@@ -15,7 +15,7 @@ function SalesCard({ data }) {
     setError(null);
 
     try {
-      const response = await fetch('https://stable-simply-porpoise.ngrok-free.app/generate-forecast', {
+      const response = await fetch('http://52.66.248.191:5000/generate-forecast', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

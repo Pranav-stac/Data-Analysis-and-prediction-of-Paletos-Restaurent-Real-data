@@ -25,7 +25,7 @@ function Home() {
         console.log('Submitting items to plot:', itemsToPlot);
 
         try {
-            const response = await fetch('https://stable-simply-porpoise.ngrok-free.app/forecast', {
+            const response = await fetch('http://52.66.248.191:5000/forecast', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -49,7 +49,7 @@ function Home() {
 
     const handleFeedbackSubmit = async () => {
       try {
-          const response = await fetch('https://stable-simply-porpoise.ngrok-free.app/feedback', {
+          const response = await fetch('http://52.66.248.191:5000/feedback', {
               method: 'POST',
               headers: {
                   'Content-Type': 'application/json',

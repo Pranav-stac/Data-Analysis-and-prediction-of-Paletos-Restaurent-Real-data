@@ -6,7 +6,7 @@ function ReligionGraph() {
 
   const fetchImage = async () => {
     try {
-      const response = await fetch('https://stable-simply-porpoise.ngrok-free.app/festive-plot', {
+      const response = await fetch('http://52.66.248.191:5000/festive-plot', {
         method: 'POST',
       });
 
